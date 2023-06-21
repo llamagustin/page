@@ -1,0 +1,52 @@
+{
+    "title": "Dentist",
+    "subtitle": "Doctors Appointment Booking App, Dentist Appointment App, Online Doctor App",
+    "resume": "Dentist is an advance, fast & customized online Doctor Appointment Booking App. We’re dentist Appointment booking app development company with develop apps such as online clinic app, dental app, etc. Experience best doctor appointment app development services and doctor booking app services from us.",
+    "app": [
+        {
+            "title": "string",
+            "type": "both",
+            "info": "string",
+            "phone": "string",
+            "password": "string"
+        }
+    ],
+    "data": [
+        {
+            "title": "User App",
+            "info": "Dentist user app allows users to book appointments in just a two-step where they need to just select the appointment date, time, and reason for the appointment.",
+            "content": [
+                "Services list",
+                "Book appointment",
+                "All appointment list",
+                "Testimonials",
+                "Doctors blog",
+                "Change language including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/dentist/screenshots/user/1.png ",
+                "assets/img/app-info/dentist/screenshots/user/2.png ",
+                "assets/img/app-info/dentist/screenshots/user/3.png ",
+                "assets/img/app-info/dentist/screenshots/user/4.png ",
+                "assets/img/app-info/dentist/screenshots/user/5.png ",
+                "assets/img/app-info/dentist/screenshots/user/6.png "
+            ]
+        },
+        {
+            "title": "Admin Panel",
+            "info": "Advanced web admin panel with well-structured code that controls every aspect of the user. A dashboard that helps to analyze overall growth and informative graphs/charts makes it more understandable.",
+            "content": [
+                "Appointment analytics with graphs",
+                "Manage services",
+                "Availability Management",
+                "App settings"
+            ],
+            "images": [
+                "assets/img/app-info/dentist/screenshots/admin/1.png ",
+                "assets/img/app-info/dentist/screenshots/admin/2.png ",
+                "assets/img/app-info/dentist/screenshots/admin/3.png ",
+                "assets/img/app-info/dentist/screenshots/admin/4.png "
+            ]
+        }
+    ]
+}

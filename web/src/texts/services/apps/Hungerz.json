@@ -1,0 +1,256 @@
+{
+    "title": "Hungerz",
+    "subtitle": "Food Ordering App with Advance Restaurant POS System",
+    "resume": "Hungerz is a restaurant point of sale system with best restaurant apps like Multi restaurant online food ordering app, Food delivery app, etc. Its Advanced POS software can be used as a restaurant billing software, restaurant POS software, restaurant management software & POS system for restaurants.",
+    "app": [
+        {
+            "type": "both",
+            "info": "App for customers to order food online from nearby restaurants.",
+            "user": "+91 9898 9898 98 (India)",
+            "password": "123456",
+            "title": "User"
+        },
+        {
+            "type": "both",
+            "info": "The vendor can register their business, manage their order directly from this app.",
+            "user": "+91 8787 8787 87 (India)",
+            "password": "123456",
+            "title": "Vender"
+        },
+        {
+            "type": "both",
+            "info": "App for the delivery person to get delivery orders and navigate the location.",
+            "user": "+91 7676 7676 76 (India)",
+            "password": "123456",
+            "title": "Delivery"
+        },
+        {
+            "type": "both",
+            "info": "This app organizes your order taking in the restaurant.",
+            "user": "+91 6565 6565 65 (India)",
+            "password": "123456",
+            "title": "eMenu"
+        },
+        {
+            "type": "both",
+            "info": "Any order placed on the ordering app is automatically updated on the kitchen app",
+            "user": "+91 5454 5454 54 (India)",
+            "password": "123456",
+            "title": "Kitchen"
+        },
+        {
+            "type": "both",
+            "info": "Self-ordering kiosks enable customers to place orders independently.",
+            "user": "+91 9876 5432 10 (India)",
+            "password": "123456",
+            "title": "Kiosk"
+        },
+        {
+            "type": "both",
+            "info": "Feedback Kiosks are perfect for measuring customer satisfaction.",
+            "user": "+91 9876 5432 11 (India)",
+            "password": "123456",
+            "title": "Review"
+        },
+        {
+            "type": "both",
+            "info": "POS system is exactly what your restaurant needs and it’s suitable for every kind of restaurant.",
+            "user": "+91 9876 5432 14 (India)",
+            "password": "123456",
+            "title": "Counter Web"
+        },
+        {
+            "type": "web",
+            "info": "Admin panel exists in order to give you control over your app.",
+            "user": "admin@example.com",
+            "password": "admin",
+            "title": "Admin Panel"
+        }
+    ],
+    "data": [
+        {
+            "title": "User App",
+            "info": "Hungerz user app lets the customer order food online, search for the right restaurant or the dish they want to order, place their orders and pay easily.",
+            "content": [
+                "Multi-restaurant food ordering",
+                "Product customization",
+                "Table booking",
+                "Live order tracking",
+                "Real-time chat with delivery",
+                "eWallet integration for payment",
+                "Send to bank",
+                "Dark Mode, Multi-lingual & RTL"
+            ],
+            "images": [
+                "assets/img/app-info/hungerz/screenshots/user/1.png",
+                "assets/img/app-info/hungerz/screenshots/user/2.png",
+                "assets/img/app-info/hungerz/screenshots/user/3.png",
+                "assets/img/app-info/hungerz/screenshots/user/4.png",
+                "assets/img/app-info/hungerz/screenshots/user/5.png",
+                "assets/img/app-info/hungerz/screenshots/user/6.png",
+                "assets/img/app-info/hungerz/screenshots/user/7.png",
+                "assets/img/app-info/hungerz/screenshots/user/8.png"
+            ]
+        },
+        {
+            "title": "Restaurant App",
+            "info": "The vendor can manage the order and Items to communicate with customers and delivery persons.",
+            "content": [
+                "New/Past order",
+                "Order tracking",
+                "Chat with customer/delivery",
+                "Add/Edit products",
+                "Detailed insight",
+                "Authentication",
+                "eWallet integration",
+                "Dark Mode, Multi-lingual & RTL"
+            ],
+            "images": [
+                "assets/img/app-info/hungerz/screenshots/admin_app/1.png",
+                "assets/img/app-info/hungerz/screenshots/admin_app/2.png",
+                "assets/img/app-info/hungerz/screenshots/admin_app/3.png",
+                "assets/img/app-info/hungerz/screenshots/admin_app/4.png",
+                "assets/img/app-info/hungerz/screenshots/admin_app/5.png",
+                "assets/img/app-info/hungerz/screenshots/admin_app/6.png",
+                "assets/img/app-info/hungerz/screenshots/admin_app/7.png",
+                "assets/img/app-info/hungerz/screenshots/admin_app/8.png"
+            ]
+        },
+        {
+            "title": "Delivery App",
+            "info": "Delivery app is to get order info such as pickup location, delivery location, ordered items, etc., also makes live tracking possible for customer/vendor.",
+            "content": [
+                "Mark online/offline status",
+                "View order details",
+                "Navigation to customer/vendor",
+                "Real-time chat with customer/vendor",
+                "Check performance in insight",
+                "eWallet integration",
+                "Send to bank",
+                "Dark Mode, Multi-lingual & RTL"
+            ],
+            "images": [
+                "assets/img/app-info/hungerz/screenshots/delivery_app/1.png",
+                "assets/img/app-info/hungerz/screenshots/delivery_app/2.png",
+                "assets/img/app-info/hungerz/screenshots/delivery_app/3.png",
+                "assets/img/app-info/hungerz/screenshots/delivery_app/4.png",
+                "assets/img/app-info/hungerz/screenshots/delivery_app/5.png",
+                "assets/img/app-info/hungerz/screenshots/delivery_app/6.png",
+                "assets/img/app-info/hungerz/screenshots/delivery_app/7.png",
+                "assets/img/app-info/hungerz/screenshots/delivery_app/8.png"
+            ]
+        },
+        {
+            "title": "eMenu App",
+            "info": "This app organizes your order taking in the restaurant. It ensures that the orders are delivered accurately and timely. Enrich the user experience of fine dining.",
+            "content": [
+                "Table selection by waiter",
+                "Food menu",
+                "Add to cart",
+                "Item detail",
+                "Add-ons option",
+                "Order confirmation"
+            ],
+            "images": [
+                "assets/img/app-info/hungerz/screenshots/eMenu/1.png",
+                "assets/img/app-info/hungerz/screenshots/eMenu/2.png",
+                "assets/img/app-info/hungerz/screenshots/eMenu/3.png",
+                "assets/img/app-info/hungerz/screenshots/eMenu/4.png",
+                "assets/img/app-info/hungerz/screenshots/eMenu/5.png",
+                "assets/img/app-info/hungerz/screenshots/eMenu/6.png"
+            ]
+        },
+        {
+            "title": "Kitchen App",
+            "info": "A simple and precise way of managing your kitchen. Any order placed on the ordering app is automatically updated on the kitchen app, which saves time, improves accuracy.",
+            "content": [
+                "Current order view",
+                "Past order list"
+            ],
+            "images": [
+                "assets/img/app-info/hungerz/screenshots/Kitchen/1.png",
+                "assets/img/app-info/hungerz/screenshots/Kitchen/2.png"
+            ]
+        },
+        {
+            "title": "Kiosk App",
+            "info": "Self-ordering kiosk enables customers to place orders independently in quick-service restaurants.",
+            "content": [
+                "Quick ordering",
+                "Item detail",
+                "Ordering method",
+                "Order confirmation"
+            ],
+            "images": [
+                "assets/img/app-info/hungerz/screenshots/Kiosk/1.png",
+                "assets/img/app-info/hungerz/screenshots/Kiosk/2.png",
+                "assets/img/app-info/hungerz/screenshots/Kiosk/3.png",
+                "assets/img/app-info/hungerz/screenshots/Kiosk/4.png"
+            ]
+        },
+        {
+            "title": "Review App",
+            "info": "Feedback Kiosks are perfect for measuring customer satisfaction using a variety of question types.",
+            "content": [
+                "Start Servey",
+                "Quick questions",
+                "Answer with GIFs",
+                "Feedback confirmation"
+            ],
+            "images": [
+                "assets/img/app-info/hungerz/screenshots/review/1.png",
+                "assets/img/app-info/hungerz/screenshots/review/2.png",
+                "assets/img/app-info/hungerz/screenshots/review/3.png",
+                "assets/img/app-info/hungerz/screenshots/review/4.png"
+            ]
+        },
+        {
+            "title": "POS Desk App",
+            "info": "A quick, efficient, and user-friendly Point-of-Sale (POS) system, is exactly what your restaurant needs and it’s suitable for every kind of restaurant.",
+            "content": [
+                "Dashboard",
+                "Ordering",
+                "Table booking",
+                "Live order tracking",
+                "Order status",
+                "Upload item",
+                "Customer list",
+                "Chat with customer/ delivery",
+                "Authorization section",
+                "eWallet integration"
+            ],
+            "images": [
+                "assets/img/app-info/hungerz/screenshots/counter/1.png",
+                "assets/img/app-info/hungerz/screenshots/counter/2.png",
+                "assets/img/app-info/hungerz/screenshots/counter/3.png",
+                "assets/img/app-info/hungerz/screenshots/counter/4.png",
+                "assets/img/app-info/hungerz/screenshots/counter/5.png",
+                "assets/img/app-info/hungerz/screenshots/counter/6.png",
+                "assets/img/app-info/hungerz/screenshots/counter/7.png",
+                "assets/img/app-info/hungerz/screenshots/counter/8.png",
+                "assets/img/app-info/hungerz/screenshots/counter/9.png",
+                "assets/img/app-info/hungerz/screenshots/counter/10.png"
+            ]
+        },
+        {
+            "title": "Admin Panel",
+            "info": "Advanced web admin panel with well-structured code that controls every aspect of users, restaurant, and delivery person. A dashboard that helps to analyze overall growth and informative graphs/charts makes it more understandable.",
+            "content": [
+                "Live Order status in map view",
+                "Order analytics with graphs",
+                "App settings",
+                "Dark/light theme",
+                "Transactions analytics",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/hungerz/screenshots/admin/1.png",
+                "assets/img/app-info/hungerz/screenshots/admin/2.png",
+                "assets/img/app-info/hungerz/screenshots/admin/3.png",
+                "assets/img/app-info/hungerz/screenshots/admin/4.png",
+                "assets/img/app-info/hungerz/screenshots/admin/5.png",
+                "assets/img/app-info/hungerz/screenshots/admin/6.png"
+            ]
+        }
+    ]
+}

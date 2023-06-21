@@ -1,0 +1,109 @@
+{
+    "title": "Foodmall",
+    "subtitle": "Online Food Ordering App with Food delivery App",
+    "resume": "Foodmall is a woocommerce restaurant app, online food ordering app. Foodmall can be used as a bakery app, dairy app etc. It is a multi-featured single restaurant app including food menu. Seeking Food delivery app development company? We deliver top wordpress restaurant app development services for startups.",
+    "app": [
+        {
+            "type": "both",
+            "info": "App for customers to order food online from nearby restaurants.",
+            "user": "+91 9999 9999 99 (India)",
+            "password": "12341234",
+            "title": "User App"
+        },
+        {
+            "type": "both",
+            "info": "App for seller to register their business and manage orders.",
+            "user": "testadmin",
+            "password": "testadmin",
+            "title": "Admin App"
+        },
+        {
+            "type": "both",
+            "info": "App for the delivery person to get delivery orders and navigate the location.",
+            "user": "+91 7777 7777 77 (India)",
+            "password": "12341234",
+            "title": "Delivery App"
+        },
+        {
+            "type": "web",
+            "info": "It exists in order to give you control over your app.",
+            "user": "testadmin",
+            "password": "testadmin",
+            "title": "Admin Panel"
+        }
+    ],
+    "data": [
+        {
+            "title": "User App",
+            "info": "Foodmall user app is a food ordering app where the user can go through the food menu and order food as well as track food through this app.",
+            "content": [
+                "Browse by categories",
+                "Product customization",
+                "Quick ordering",
+                "Order confirmation",
+                "Multiple addresses",
+                "Orders detail & tracking",
+                "Real-time Chat with vendor",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/foodmall/screenshots/user/1.png",
+                "assets/img/app-info/foodmall/screenshots/user/2.png",
+                "assets/img/app-info/foodmall/screenshots/user/3.png",
+                "assets/img/app-info/foodmall/screenshots/user/4.png",
+                "assets/img/app-info/foodmall/screenshots/user/5.png",
+                "assets/img/app-info/foodmall/screenshots/user/6.png",
+                "assets/img/app-info/foodmall/screenshots/user/7.png",
+                "assets/img/app-info/foodmall/screenshots/user/8.png"
+            ]
+        },
+        {
+            "title": "Admin App",
+            "info": "Admin app allows the admin to manage their orders and revenues as well as it allows real-time chat with the customer.",
+            "content": [
+                "Dashboard",
+                "New/Past order view",
+                "Order information",
+                "Customer information",
+                "All item list view",
+                "Add/Edit product & Category",
+                "Chat with customer",
+                "Change language including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/foodmall/screenshots/admin_app/1.png",
+                "assets/img/app-info/foodmall/screenshots/admin_app/2.png",
+                "assets/img/app-info/foodmall/screenshots/admin_app/3.png",
+                "assets/img/app-info/foodmall/screenshots/admin_app/4.png",
+                "assets/img/app-info/foodmall/screenshots/admin_app/5.png",
+                "assets/img/app-info/foodmall/screenshots/admin_app/6.png",
+                "assets/img/app-info/foodmall/screenshots/admin_app/7.png",
+                "assets/img/app-info/foodmall/screenshots/admin_app/8.png"
+            ]
+        },
+        {
+            "title": "Delivery App",
+            "info": "Delivery app is to get delivery and pick up orders and get to know about delivery info such as a delivery address, delivery items, date & time, etc.",
+            "content": [
+                "Assigned task list",
+                "Completed task list",
+                "Navigation to vendor/user",
+                "View order detail",
+                "Notifications",
+                "Earnings",
+                "More options",
+                "Change language including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/foodmall/screenshots/delivery_app/1.png",
+                "assets/img/app-info/foodmall/screenshots/delivery_app/2.png",
+                "assets/img/app-info/foodmall/screenshots/delivery_app/3.png",
+                "assets/img/app-info/foodmall/screenshots/delivery_app/4.png",
+                "assets/img/app-info/foodmall/screenshots/delivery_app/5.png",
+                "assets/img/app-info/foodmall/screenshots/delivery_app/6.png",
+                "assets/img/app-info/foodmall/screenshots/delivery_app/7.png",
+                "assets/img/app-info/foodmall/screenshots/delivery_app/8.png"
+            ]
+        }
+    ]
+}

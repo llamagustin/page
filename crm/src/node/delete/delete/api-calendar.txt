@@ -1,0 +1,176 @@
+/*
+1. Creación API
+Crea en nodeJS una API usando Sequelize. Esta API debe de ejecutar los siguientes métodos:
+
+- addEvent: Crear un nuevo evento con datos similares a los de google gmail.
+- updateEvent: Poder modificar el evento a través de su id.
+- removeEvent: Eliminar el evento a través de su id.
+- fetchEvents: Mostrar los 100 eventos anteriores con un offset y devolver offset en la salida.
+- fetchEvent: Bucar un evento a través de su ID.
+- fetchEventsMonth: Poder ver los eventos de ese mes y año.
+
+
+Resolver los errores y al finalizar el código crear una lista utilizando los códigos 200 para éxito,
+ 300 permisos, 400 no encontrado, 500 errores de servidores.
+ 
+Seguir la siguiente estructura para los metodos:
+ const addEvent = async (req, res) => {
+     ..
+ }
+
+ module.exports = {
+     addEvent
+ }
+*/
+
+const express = require('express');
+const app = express();
+const bodyParser = require('body-parser');
+const cors = require('cors');
+const port = process.env.PORT || 3000;
+const { Event } = require('./models');
+
+app.use(bodyParser.json());
+app.use(cors());
+
+const addEvent = async (req, res) => {
+    try {
+        const { title, description, date, hour } = req.body;
+        const event = await Event.create({
+            title,
+            description,
+            date,
+            hour
+        });
+        res.status(200).json({
+            message: 'Evento creado',
+            event
+        });
+    } catch (error) {
+        res.status(500).json({
+            message: 'Error al crear el evento',
+            error
+        });
+    }
+};
+
+const updateEvent = async (req, res) => {
+    try {
+        const { id } = req.params;
+        const { title, description, date, hour } = req.body;
+        const event = await Event.findByPk(id);
+        if (event) {
+            const updatedEvent = await event.update({
+                title,
+                description,
+                date,
+                hour
+            });
+            res.status(200).json({
+                message: 'Evento actualizado',
+                updatedEvent
+            });
+        } else {
+            res.status(400).json({
+                message: 'Evento no encontrado'
+            });
+        }
+    } catch (error) {
+        res.status(500).json({
+            message: 'Error al actualizar el evento',
+            error
+        });
+    }
+};
+
+const removeEvent = async (req, res) => {
+    try {
+        const { id } = req.params;
+        const event = await Event.findByPk(id);
+        if (event) {
+            await event.destroy();
+            res.status(200).json({
+                message: 'Evento eliminado'
+            });
+        } else {
+            res.status(400).json({
+                message: 'Evento no encontrado'
+            });
+        }
+    } catch (error) {
+        res.status(500).json({
+            message: 'Error al eliminar el evento',
+            error
+        });
+    }
+};
+
+const fetchEvents = async (req, res) => {
+    try {
+        const { offset } = req.params;
+        const events = await Event.findAll({
+            offset,
+            limit: 100
+        });
+        res.status(200).json({
+            message: 'Eventos encontrados',
+            events
+        });
+    } catch (error) {
+        res.status(500).json({
+            message: 'Error al buscar los eventos',
+            error
+        });
+    }
+};
+
+const fetchEvent = async (req, res) => {
+    try {
+        const { id } = req.params;
+        const event = await Event.findByPk(id);
+        if (event) {
+            res.status(200).json({
+                message: 'Evento encontrado',
+                event
+            });
+        } else {
+            res.status(400).json({
+                message: 'Evento no encontrado'
+            });
+        }
+    } catch (error) {
+        res.status(500).json({
+            message: 'Error al buscar el evento',
+            error
+        });
+    }
+};
+
+const fetchEventsMonth = async (req, res) => {
+    try {
+        const { month, year } = req.params;
+        const events = await Event.findAll({
+            where: {
+                date: {
+                    [Op.between]: [`${year}-${month}-01`, `${year}-${month}-31`]
+                }
+            }
+        });
+        res.status(200).json({
+            message: 'Eventos encontrados',
+            events
+        });
+    } catch (error) {
+        res.status(500).json({
+            message: 'Error al buscar los eventos',
+            error
+        });
+    }
+};
+
+app.post('/events', addEvent);
+app.put('/events/:id', updateEvent);
+app.delete('/events/:id', removeEvent);
+app.get('/events/:offset', fetchEvents);
+app.get('/events/:id', fetchEvent);
+app.get('/events/:month/:year', fetchEventsMonth);

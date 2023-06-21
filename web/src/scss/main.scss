@@ -1,0 +1,28 @@
+/*! main.scss | Vulk | Css ninja 2022-2023 */
+
+/*
+    1. Main SCSS imports
+*/
+
+/* ==========================================================================
+1. Main SCSS imports
+========================================================================== */
+
+// import vendors
+@import './node_modules/@vueform/slider/themes/default.scss';
+@import './node_modules/vue3-carousel/dist/carousel';
+
+// bulma-css-vars
+@import './bulma-generated/generated-vars.sass';
+
+// import abstracts content (variables override / functions)
+@import './abstracts/all';
+
+// import css variables
+@import './css-variables/all';
+
+// import bulma
+@import './node_modules/bulma-css-vars/bulma-cv-lib';
+
+// import utilities
+@import './utilities/all';

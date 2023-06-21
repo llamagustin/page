@@ -1,0 +1,87 @@
+{
+    "title": "Carwash",
+    "subtitle": "Car Service Appointment Booking App| Car Service Provider App| Car service app| CarBath| Carwash",
+    "resume": "Carwash is multi-featured car service appointment booking app & car service finder app. Car wash app is an advanced car service booking complete app for better experience. Want to develop your own car maintenance app, car service booking app? We build car repair app, car mechanic app for startups.",
+    "app": [
+        {
+            "type": "both",
+            "info": "User app helps to find the nearest & cheapest car service in your area.",
+            "user": "+91 9898 9898 98 (India)",
+            "password": "123456",
+            "title": ""
+        },
+        {
+            "type": "web",
+            "info": "Admin panel exists in order to give you control over your app.",
+            "user": "admin@example.com",
+            "password": "admin",
+            "title": ""
+        }
+    ],
+    "data": [
+        {
+            "title": "User App",
+            "info": "Carwash automotive app for doorstep car service and repair. If you encounter any issue with your car then worry not, it’s the one-step solution to all of your vehicle problems.",
+            "content": [
+                "Select services",
+                "Provider map view",
+                "Provider about",
+                "Booking confirmation",
+                "My Booking",
+                "Booking details",
+                "Add review",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/carwash/screenshots/user/1.png",
+                "assets/img/app-info/carwash/screenshots/user/2.png",
+                "assets/img/app-info/carwash/screenshots/user/3.png",
+                "assets/img/app-info/carwash/screenshots/user/4.png",
+                "assets/img/app-info/carwash/screenshots/user/5.png",
+                "assets/img/app-info/carwash/screenshots/user/6.png",
+                "assets/img/app-info/carwash/screenshots/user/7.png",
+                "assets/img/app-info/carwash/screenshots/user/8.png"
+            ]
+        },
+        {
+            "title": "Provider App",
+            "info": "Professionals who need to connect with the customers have an application to manage the process.",
+            "content": [
+                "Booking list",
+                "Booking detail",
+                "Rating and review",
+                "Profile settings",
+                "Add/edit services",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/carwash/screenshots/admin_app/1.png",
+                "assets/img/app-info/carwash/screenshots/admin_app/2.png",
+                "assets/img/app-info/carwash/screenshots/admin_app/3.png",
+                "assets/img/app-info/carwash/screenshots/admin_app/4.png",
+                "assets/img/app-info/carwash/screenshots/admin_app/5.png",
+                "assets/img/app-info/carwash/screenshots/admin_app/6.png"
+            ]
+        },
+        {
+            "title": "Admin Panel",
+            "info": "Advanced web admin panel with well-structured code that controls every aspect of users. A dashboard that helps to analyze overall growth and informative graphs/charts makes it more understandable.",
+            "content": [
+                "Appointment analytics",
+                "User usage statics",
+                "Provider verification",
+                "Manage services",
+                "Booking management",
+                "Other settings of app"
+            ],
+            "images": [
+                "assets/img/app-info/carwash/screenshots/admin/1.png",
+                "assets/img/app-info/carwash/screenshots/admin/2.png",
+                "assets/img/app-info/carwash/screenshots/admin/3.png",
+                "assets/img/app-info/carwash/screenshots/admin/4.png",
+                "assets/img/app-info/carwash/screenshots/admin/5.png",
+                "assets/img/app-info/carwash/screenshots/admin/6.png"
+            ]
+        }
+    ]
+}

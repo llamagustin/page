@@ -1,0 +1,67 @@
+{
+    "title": "Qvid",
+    "subtitle": "Short Video Creating and Sharing App",
+    "resume": "Qvid is an advanced online Video creating app & video sharing app. This is a complete set of a short video app, & music app that comes with Powerful Features. There are many features in this video app. Get best social media sharing app from the video creating android and ios app development company.",
+    "app": [
+        {
+            "type": "both",
+            "info": "Qvid is a video creating and sharing app for all your visual content.",
+            "user": "+91 9898 9898 98 (India)",
+            "password": "123456",
+            "title": "User App"
+        },
+        {
+            "type": "web",
+            "info": "Admin panel exists in order to give you control over your app.",
+            "user": "admin@example.com",
+            "password": "admin",
+            "title": "Admin Panel"
+        }
+    ],
+    "data": [
+        {
+            "title": "User App",
+            "info": "Qvid makes it easy to create beautiful vlogs, mashups, and stunts that get shared with your followers in just a few taps.",
+            "content": [
+                "Watch short videos",
+                "Advance video editing",
+                "Audio gallery",
+                "Comments on posts",
+                "Search & explore",
+                "Real-time chatting",
+                "View saved/liked video",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/qvid/screenshots/user/1.png",
+                "assets/img/app-info/qvid/screenshots/user/2.png",
+                "assets/img/app-info/qvid/screenshots/user/3.png",
+                "assets/img/app-info/qvid/screenshots/user/4.png",
+                "assets/img/app-info/qvid/screenshots/user/5.png",
+                "assets/img/app-info/qvid/screenshots/user/6.png",
+                "assets/img/app-info/qvid/screenshots/user/7.png",
+                "assets/img/app-info/qvid/screenshots/user/8.png"
+            ]
+        },
+        {
+            "title": "Admin Panel",
+            "info": "Advanced web admin panel with well-structured code that controls every aspect of the user. A dashboard that helps to analyze overall growth and informative graphs/charts makes it more understandable.",
+            "content": [
+                "New registration analytics",
+                "Media Management",
+                "Manage user reports",
+                "App settings",
+                "Dark/light theme",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/qvid/screenshots/admin/1.png",
+                "assets/img/app-info/qvid/screenshots/admin/2.png",
+                "assets/img/app-info/qvid/screenshots/admin/3.png",
+                "assets/img/app-info/qvid/screenshots/admin/4.png",
+                "assets/img/app-info/qvid/screenshots/admin/5.png",
+                "assets/img/app-info/qvid/screenshots/admin/6.png"
+            ]
+        }
+    ]
+}

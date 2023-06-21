@@ -1,0 +1,129 @@
+{
+    "title": "Groshop",
+    "subtitle": "Online Multi Vendor Grocery Ordering App with Grocery delivery App",
+    "resume": "Groshop is a grocery store app development solution that includes readymade grocery ecommerce app. Choosing best grocery mobile app development company isn't easy. We provide on demand grocery delivery app development services & build grocery app, online grocery store & Grocery Delivery App for Android/iOS.",
+    "app": [
+        {
+            "type": "both",
+            "info": "App for customers to order groceries and get delivered to their doorstep.",
+            "user": "+91 9898 9898 98 (India)",
+            "password": "123456",
+            "title": "User App"
+        },
+        {
+            "type": "both",
+            "info": "App for sellers to register their business and manage orders.",
+            "user": "+91 8787 8787 87 (India)",
+            "password": "123456",
+            "title": "Vender App"
+        },
+        {
+            "type": "both",
+            "info": "App for the delivery person to get delivery orders and navigate the location.",
+            "user": "+91 7676 7676 76 (India)",
+            "password": "123456",
+            "title": "Delivery App"
+        },
+        {
+            "type": "web",
+            "info": "Admin panel exists in order to give you control over your app.",
+            "user": "admin@example.com",
+            "password": "admin",
+            "title": "Admin Panel"
+        }
+    ],
+    "data": [
+        {
+            "title": "User App",
+            "info": "You can't always get to the store, you'll never have to! With our cutting-edge app and unique grocery delivery service, we make it easier.",
+            "content": [
+                "Multi-vendor ordering",
+                "Search items and stores",
+                "Product detail",
+                "Order status",
+                "Add review",
+                "Wishlist",
+                "Offers",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/groshop/screenshots/user/1.png",
+                "assets/img/app-info/groshop/screenshots/user/2.png",
+                "assets/img/app-info/groshop/screenshots/user/3.png",
+                "assets/img/app-info/groshop/screenshots/user/4.png",
+                "assets/img/app-info/groshop/screenshots/user/5.png",
+                "assets/img/app-info/groshop/screenshots/user/6.png",
+                "assets/img/app-info/groshop/screenshots/user/7.png",
+                "assets/img/app-info/groshop/screenshots/user/8.png"
+            ]
+        },
+        {
+            "title": "Vendor App",
+            "info": "Vendor app allows a vendor to register their business online, the vendor can manage the order of their store directly from this app.",
+            "content": [
+                "New/past order view",
+                "Order detail",
+                "Detailed insight",
+                "Earnings",
+                "Send to bank",
+                "Add/Edit products",
+                "Rating and reviews",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/groshop/screenshots/admin_app/1.png",
+                "assets/img/app-info/groshop/screenshots/admin_app/2.png",
+                "assets/img/app-info/groshop/screenshots/admin_app/3.png",
+                "assets/img/app-info/groshop/screenshots/admin_app/4.png",
+                "assets/img/app-info/groshop/screenshots/admin_app/5.png",
+                "assets/img/app-info/groshop/screenshots/admin_app/6.png",
+                "assets/img/app-info/groshop/screenshots/admin_app/7.png",
+                "assets/img/app-info/groshop/screenshots/admin_app/8.png"
+            ]
+        },
+        {
+            "title": "Delivery App",
+            "info": "Delivery app is to get order info such as pickup location, delivery location, ordered items, etc.",
+            "content": [
+                "Mark online/offline status",
+                "View order details",
+                "eWallet integration",
+                "Send earning to bank",
+                "Check performance in insight",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/groshop/screenshots/delivery_app/1.png",
+                "assets/img/app-info/groshop/screenshots/delivery_app/2.png",
+                "assets/img/app-info/groshop/screenshots/delivery_app/3.png",
+                "assets/img/app-info/groshop/screenshots/delivery_app/4.png",
+                "assets/img/app-info/groshop/screenshots/delivery_app/5.png",
+                "assets/img/app-info/groshop/screenshots/delivery_app/6.png"
+            ]
+        },
+        {
+            "title": "Admin Panel",
+            "info": "Advanced web admin panel with well-structured code that controls every aspect of customer, vendor, and delivery person. A dashboard that helps to analyze overall growth and informative graphs/charts makes it more understandable.",
+            "content": [
+                "Live Order status in map view",
+                "Order analytics with graph",
+                "Transaction analytics",
+                "New registration analytics",
+                "Offer management",
+                "Other settings of app",
+                "Dark/light theme",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/groshop/screenshots/admin/1.png",
+                "assets/img/app-info/groshop/screenshots/admin/2.png",
+                "assets/img/app-info/groshop/screenshots/admin/3.png",
+                "assets/img/app-info/groshop/screenshots/admin/4.png",
+                "assets/img/app-info/groshop/screenshots/admin/5.png",
+                "assets/img/app-info/groshop/screenshots/admin/6.png",
+                "assets/img/app-info/groshop/screenshots/admin/7.png",
+                "assets/img/app-info/groshop/screenshots/admin/8.png"
+            ]
+        }
+    ]
+}

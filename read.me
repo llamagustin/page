@@ -1,0 +1,38 @@
+sudo kill -9 $(sudo lsof -t -i:9001)
+2d10fc60
+
+02090-02094	3000-3004
+02070-02080	4000-4010
+
+
+3000 => web prod
+3001 => reseller prod
+
+3002 => hmr web prod
+3003 => wws socket prod
+
+4000 => web dev 
+4001 => reseller dev 
+
+4002 => api prod
+4003 => api-test dev
+4004 => api0-test dev
+
+
+
+
+
+2xx
+201 => aceptado pago
+202 => aceptado firma
+203 => aceptado watshapp
+
+3xx
+301 => pendiente de pago
+302 => pendiente de firma
+303 => pendiente de watshapp
+
+4xx
+401 => rechazado pago
+402 => rechazado firma
+403 => rechazado watshapp

@@ -1,0 +1,98 @@
+{
+    "title": "Handyman",
+    "subtitle": "Home Service Booking app with service finder app and service provider app",
+    "resume": "Handyman is a Home service finder app & home service provider app. It can be use by users as a home service booking app & Handyman appointment booking app. Looking for service provider mobile app development company? We're A-class on demand service provider & home service providing app development company.",
+    "app": [
+        {
+            "type": "both",
+            "info": "The user can go through the service listed and book the service needed in quick time.",
+            "user": "+91 9999 9999 99 (India)",
+            "password": "123456",
+            "title": ""
+        },
+        {
+            "type": "both",
+            "info": "App for providers to register their job and manage requests.",
+            "user": "+91 9999 9999 91 (India)",
+            "password": "123456",
+            "title": ""
+        },
+        {
+            "type": "web",
+            "info": "Admin panel exists in order to give you control over your apps.",
+            "user": "admin@example.com",
+            "password": "admin",
+            "title": ""
+        }
+    ],
+    "data": [
+        {
+            "title": "User App",
+            "info": "Handyman user app allows customers to book house services like cleaning, plumbing, painting, home salon, etc.",
+            "content": [
+                "Search service by categories",
+                "Service Provider list",
+                "Provider detail",
+                "Request list view",
+                "Booking status",
+                "Add rating and review",
+                "Real-time chat with provider",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/handyman/screenshots/user/1.png",
+                "assets/img/app-info/handyman/screenshots/user/2.png",
+                "assets/img/app-info/handyman/screenshots/user/3.png",
+                "assets/img/app-info/handyman/screenshots/user/4.png",
+                "assets/img/app-info/handyman/screenshots/user/5.png",
+                "assets/img/app-info/handyman/screenshots/user/6.png",
+                "assets/img/app-info/handyman/screenshots/user/7.png",
+                "assets/img/app-info/handyman/screenshots/user/8.png"
+            ]
+        },
+        {
+            "title": "Provider App",
+            "info": "App for providers to register their work and manage requests.",
+            "content": [
+                "Upcoming/completed request",
+                "Booking detail",
+                "Booking status",
+                "Create provider profile",
+                "Upload portfolio",
+                "Plan purchase",
+                "Real-time chat with customer",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/handyman/screenshots/admin_app/1.png",
+                "assets/img/app-info/handyman/screenshots/admin_app/2.png",
+                "assets/img/app-info/handyman/screenshots/admin_app/3.png",
+                "assets/img/app-info/handyman/screenshots/admin_app/4.png",
+                "assets/img/app-info/handyman/screenshots/admin_app/5.png",
+                "assets/img/app-info/handyman/screenshots/admin_app/6.png",
+                "assets/img/app-info/handyman/screenshots/admin_app/7.png",
+                "assets/img/app-info/handyman/screenshots/admin_app/8.png"
+            ]
+        },
+        {
+            "title": "Admin Panel",
+            "info": "Advanced web admin panel with well-structured code that controls every aspect of the user. A dashboard that helps to analyze overall growth and informative graphs/charts makes it more understandable.",
+            "content": [
+                "Appointment analytics",
+                "User’s usage statistics",
+                "Manage services",
+                "Booking Management",
+                "Subscription management",
+                "Other settings of app"
+            ],
+            "images": [
+                "assets/img/app-info/handyman/screenshots/admin/1.png",
+                "assets/img/app-info/handyman/screenshots/admin/2.png",
+                "assets/img/app-info/handyman/screenshots/admin/3.png",
+                "assets/img/app-info/handyman/screenshots/admin/4.png",
+                "assets/img/app-info/handyman/screenshots/admin/5.png",
+                "assets/img/app-info/handyman/screenshots/admin/6.png"
+            ]
+        }
+    ]
+}

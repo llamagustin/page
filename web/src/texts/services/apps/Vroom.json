@@ -1,0 +1,101 @@
+{
+    "title": "Vroom",
+    "subtitle": "Carpooling App, Ride Sharing App with Driver App & Rider App",
+    "resume": "Vroom is a Ride sharing app & Car pooling app. Looking for rideshare app development company that provides rideshare app development services? We're carpooling mobile app development company, we build carpooling app for android and ios. Also, offer on demand carpooling mobile app building services.",
+    "app": [
+        {
+            "type": "both",
+            "info": "Passenger app is to find a carpool partner from your area or start your own carpool.",
+            "user": "+91 9898 9898 98 (India)",
+            "password": "123456",
+            "title": "Passenger App"
+        },
+        {
+            "type": "both",
+            "info": "The driver gets real-time ride requests with an option to accept or reject the ride.",
+            "user": "+91 8787 8787 87 (India)",
+            "password": "123456",
+            "title": "Rider App"
+        },
+        {
+            "type": "web",
+            "info": "Admin panel exists in order to give you control over your app.",
+            "user": "admin@example.com",
+            "password": "admin",
+            "title": "Admin Panel"
+        }
+    ],
+    "data": [
+        {
+            "title": "Passenger App",
+            "info": "Vroom passenger app offers rides to different destinations. A passenger can choose from rides in the area based on profiles that include details like distance, car model, fare, rider review, etc.",
+            "content": [
+                "Pick/drop location selection",
+                "Riders List",
+                "Rider profile and review",
+                "Real-time chat with rider",
+                "eWallet integration",
+                "Add rating and review",
+                "Refer and earn",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/vroom/screenshots/user/1.png",
+                "assets/img/app-info/vroom/screenshots/user/2.png",
+                "assets/img/app-info/vroom/screenshots/user/3.png",
+                "assets/img/app-info/vroom/screenshots/user/4.png",
+                "assets/img/app-info/vroom/screenshots/user/5.png",
+                "assets/img/app-info/vroom/screenshots/user/6.png",
+                "assets/img/app-info/vroom/screenshots/user/7.png",
+                "assets/img/app-info/vroom/screenshots/user/8.png"
+            ]
+        },
+        {
+            "title": "Rider App",
+            "info": "Rider app allows the driver to fetch all details like earnings, upcoming trips, feedback, and more. The driver gets real-time ride requests with an option to accept or reject the ride.",
+            "content": [
+                "Add/edit ride",
+                "Ride request",
+                "Ride detail",
+                "Fare confirmation & review",
+                "Real-time chat with passenger",
+                "eWallet integration",
+                "Refer and earn",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/vroom/screenshots/admin_app/1.png",
+                "assets/img/app-info/vroom/screenshots/admin_app/2.png",
+                "assets/img/app-info/vroom/screenshots/admin_app/3.png",
+                "assets/img/app-info/vroom/screenshots/admin_app/4.png",
+                "assets/img/app-info/vroom/screenshots/admin_app/5.png",
+                "assets/img/app-info/vroom/screenshots/admin_app/6.png",
+                "assets/img/app-info/vroom/screenshots/admin_app/7.png",
+                "assets/img/app-info/vroom/screenshots/admin_app/8.png"
+            ]
+        },
+        {
+            "title": "Admin Panel",
+            "info": "Advanced web admin panel with well-structured code that controls every aspect of users. A dashboard that helps to analyze overall growth.",
+            "content": [
+                "Booking management",
+                "Earning analytics",
+                "User’s usage statistics",
+                "Review & rating",
+                "Manage push notification",
+                "Other important settings of app"
+            ],
+            "images": [
+                "assets/img/app-info/vroom/screenshots/admin/1.png",
+                "assets/img/app-info/vroom/screenshots/admin/2.png",
+                "assets/img/app-info/vroom/screenshots/admin/3.png",
+                "assets/img/app-info/vroom/screenshots/admin/4.png",
+                "assets/img/app-info/vroom/screenshots/admin/5.png",
+                "assets/img/app-info/vroom/screenshots/admin/6.png"
+            ]
+        }
+    ],
+    "url": [
+        "eodoewoedk"
+    ]
+}

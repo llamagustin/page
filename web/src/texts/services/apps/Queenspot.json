@@ -1,0 +1,59 @@
+{
+    "title": "Queenspot",
+    "subtitle": "Salon Appointment Booking App, Beauty Parlor App, Makeup Booking App",
+    "resume": "Queenspot is a beautician appointment booking app. Users can use it as a beauty parlor app, beautician app, multi salon finder app, etc. Looking for an online home salon and spa booking app then Queenspot will be a perfect choice. We develop salon appointment booking apps like beauty salon app, & barber app.",
+    "app": [
+        {
+            "type": "both",
+            "info": "User app helps the user to book an appointment.",
+            "user": "9999 9999 99 (India)",
+            "password": "12341234",
+            "title": "User App"
+        },
+        {
+            "type": "web",
+            "info": "Admin panel exists in order to give you control over your app.",
+            "user": "admin@example.com",
+            "password": "admin",
+            "title": "Admin Panel"
+        }
+    ],
+    "data": [
+        {
+            "title": "User App",
+            "info": "Queenspot app allows customers to browse varied services, stylist’s profiles to make appointments with ease at any time from anywhere.",
+            "content": [
+                "Services list",
+                "Book appointment",
+                "All appointment list",
+                "Contact us",
+                "Articles and blog",
+                "Change language including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/salon/screenshots/user/1.png",
+                "assets/img/app-info/salon/screenshots/user/2.png",
+                "assets/img/app-info/salon/screenshots/user/3.png",
+                "assets/img/app-info/salon/screenshots/user/4.png",
+                "assets/img/app-info/salon/screenshots/user/5.png",
+                "assets/img/app-info/salon/screenshots/user/6.png"
+            ]
+        },
+        {
+            "title": "Admin Panel",
+            "info": "Advanced web admin panel with well-structured code that controls every aspect of the user. A dashboard that helps to analyze overall growth and informative graphs/charts makes it more understandable.",
+            "content": [
+                "Booking analytics with graphs",
+                "Manage services",
+                "Set availability",
+                "App settings"
+            ],
+            "images": [
+                "assets/img/app-info/salon/screenshots/admin/1.png",
+                "assets/img/app-info/salon/screenshots/admin/2.png",
+                "assets/img/app-info/salon/screenshots/admin/3.png",
+                "assets/img/app-info/salon/screenshots/admin/4.png"
+            ]
+        }
+    ]
+}

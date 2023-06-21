@@ -1,0 +1,63 @@
+{
+    "title": "Shareworld",
+    "subtitle": "Social Network App with Chatting and Group Chatting",
+    "resume": "Shareworld is a newly developed Chatting and Group Chatting App that comes with multi-feature. Users can use it as Social Network App, Video Sharing App, and Story App on both android & ios. We’re a reputed Social media app development company & we provide the best social App services for Startups.",
+    "app": [
+        {
+            "type": "both",
+            "info": "Shareworld brings the world close together and allows them to share their photos, videos, etc.",
+            "user": "+91 9898 9898 98 (India)",
+            "password": "123456",
+            "title": "User App"
+        },
+        {
+            "type": "web",
+            "info": "Admin panel exists in order to give you control over your app.",
+            "user": "admin@example.com",
+            "password": "admin",
+            "title": "Admin Panel"
+        }
+    ],
+    "data": [
+        {
+            "title": "User App",
+            "info": "Social platform where users can share anything, and express themselves with text and media.",
+            "content": [
+                "News feed",
+                "Short video",
+                "Upload photos and videos",
+                "Chat with followers",
+                "Comment/Like posts",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/shareworld/screenshots/user/1.png",
+                "assets/img/app-info/shareworld/screenshots/user/2.png",
+                "assets/img/app-info/shareworld/screenshots/user/3.png",
+                "assets/img/app-info/shareworld/screenshots/user/4.png",
+                "assets/img/app-info/shareworld/screenshots/user/5.png",
+                "assets/img/app-info/shareworld/screenshots/user/6.png"
+            ]
+        },
+        {
+            "title": "Admin Panel",
+            "info": "Advanced web admin panel with well-structured code that controls every aspect of the user. A dashboard that helps to analyze overall growth and informative graphs/charts makes it more understandable.",
+            "content": [
+                "Post Management",
+                "New registration analytics",
+                "Comment Management",
+                "Other settings of app",
+                "Dark/light theme",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/shareworld/screenshots/admin/1.png",
+                "assets/img/app-info/shareworld/screenshots/admin/2.png",
+                "assets/img/app-info/shareworld/screenshots/admin/3.png",
+                "assets/img/app-info/shareworld/screenshots/admin/4.png",
+                "assets/img/app-info/shareworld/screenshots/admin/5.png",
+                "assets/img/app-info/shareworld/screenshots/admin/6.png"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "title": "Bus Tracking",
+    "subtitle": "School Bus Tracking App with Parent App and Driver App",
+    "resume": "Bus tracking is an advanced & reliable Student tracking solution, and a school bus tracking App. We're a GPS tracker app & bus driver app development company. We build a feature-packed bus tracking app, for your customers. Experience the best parents' child tracking app development services from us.",
+    "app": [
+        {
+            "type": "both",
+            "info": "Parent app helps to pick your children from their respective bus stops",
+            "user": "+91 9898 9898 98",
+            "password": "123456",
+            "title": "Parent App"
+        },
+        {
+            "type": "both",
+            "info": "Driver app to check the direction to their upcoming pickup and drop point.",
+            "user": "+91 9797 9797 97",
+            "password": "123456",
+            "title": "Driver App"
+        },
+        {
+            "type": "web",
+            "info": "Admin Panel exists in order to give you control over your app.",
+            "user": "admin@example.com",
+            "password": "admin",
+            "title": "Admin Panel"
+        }
+    ],
+    "data": [
+        {
+            "title": "Parent App",
+            "info": "Bus tracking parent app helps you to pick your children from their respective bus stops at the right time.",
+            "content": [
+                "Children list",
+                "Live Status",
+                "Map view",
+                "Bus History",
+                "Bus info",
+                "Add/Edit pickup & drop location",
+                "Set reminders",
+                "Change language including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/bus_tracking/screenshots/user/1.png",
+                "assets/img/app-info/bus_tracking/screenshots/user/2.png",
+                "assets/img/app-info/bus_tracking/screenshots/user/3.png",
+                "assets/img/app-info/bus_tracking/screenshots/user/4.png",
+                "assets/img/app-info/bus_tracking/screenshots/user/5.png",
+                "assets/img/app-info/bus_tracking/screenshots/user/6.png",
+                "assets/img/app-info/bus_tracking/screenshots/user/7.png",
+                "assets/img/app-info/bus_tracking/screenshots/user/8.png"
+            ]
+        },
+        {
+            "title": "Driver App",
+            "info": "Driver app helps drivers to check the direction to their upcoming pickup and drop point that includes important children details.",
+            "content": [
+                "List of children",
+                "Picked/Absent children view",
+                "Update status of pick/drop",
+                "Change language including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/bus_tracking/screenshots/admin_app/1.png",
+                "assets/img/app-info/bus_tracking/screenshots/admin_app/2.png",
+                "assets/img/app-info/bus_tracking/screenshots/admin_app/3.png",
+                "assets/img/app-info/bus_tracking/screenshots/admin_app/4.png"
+            ]
+        },
+        {
+            "title": "Admin Panel",
+            "info": "Advanced web admin panel with well-structured code that controls every aspect of users. A dashboard that helps to analyze overall growth.",
+            "content": [
+                "Live map tracking",
+                "Pickup/drop records",
+                "Add/edit school",
+                "Manage bus",
+                "Add/edit route",
+                "Other settings"
+            ],
+            "images": [
+                "assets/img/app-info/bus_tracking/screenshots/admin/1.png",
+                "assets/img/app-info/bus_tracking/screenshots/admin/2.png",
+                "assets/img/app-info/bus_tracking/screenshots/admin/3.png",
+                "assets/img/app-info/bus_tracking/screenshots/admin/4.png",
+                "assets/img/app-info/bus_tracking/screenshots/admin/5.png",
+                "assets/img/app-info/bus_tracking/screenshots/admin/6.png"
+            ]
+        }
+    ]
+}

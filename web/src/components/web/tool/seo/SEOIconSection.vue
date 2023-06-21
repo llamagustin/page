@@ -1,0 +1,63 @@
+<script setup lang="ts">
+export interface IconFeature {
+  icon: string
+  title: string
+  content: string
+}
+
+export interface IconFeaturesProps {
+  features?: IconFeature[]
+  centered?: boolean
+  inverted?: boolean
+}
+
+const props = withDefaults(defineProps<IconFeaturesProps>(), {
+  features: () => [],
+  centered: false,
+  inverted: false,
+})
+</script>
+
+<template>
+  <div class="py-6 mx-auto max-w-10">
+    <div
+      class="columns is-multiline b-columns-third-tablet-p"
+      :class="props.centered && 'is-centered'"
+    >
+      <div
+        v-for="(feature, index) in props.features"
+        :key="index"
+        class="column is-4"
+      >
+        <div class="py-4">
+          <DarkImage
+            :src="feature.image"
+            :src-dark="feature.darkImage"
+            alt="Featured Image"
+          />
+          <Title tag="h3" :size="5" leading :inverted="props.inverted">
+            <span>{{ $t('seoIcon_title'+index) }}</span>
+          </Title>
+          <p class="paragraph rem-90">{{ $t('seoIcon_text'+index) }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<style lang="scss" scoped>
+.product-icon {
+  display: block;
+  max-width: 65px;
+  margin-bottom: 0.75rem;
+}
+
+.is-centered {
+  text-align: center;
+
+  .product-icon {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+</style>

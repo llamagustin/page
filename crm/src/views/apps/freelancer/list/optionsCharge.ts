@@ -1,0 +1,265 @@
+export const optionsCharge = [
+  {
+    id:'beauty',
+    label:'Belleza',
+    children: [
+      {
+        id:'hairdressing',
+        label:'Peluqueria',
+      },{
+        id:'nails',
+        label:'Uñas', 
+      },{
+        id:'cosmetic',
+        label:'Cosmetica',
+      },{
+        id:'beauty_saloon',
+        label:'Salon',
+      },{
+        id:'watchmaking',
+        label:'Relojeria',
+      },{
+        id:'jeweler',
+        label:'Joyeria',
+      },{
+        id:'tattoo',
+        label:'Tatuajes',
+      },{
+        id:'florist',
+        label:'Floristeria',
+      },{
+        id:'barber',
+        label:'Barberia'
+      },{
+        id:'housekeeping',
+        label:'Servicios de limpieza'
+      }
+    ]
+  },
+  {
+    id:'health',
+    label:'Salud',
+    children: [
+      {
+        id:'phyisiotherapy',
+        label:'Fisioterapia',
+      },{
+        id:'psychologist',
+        label:'Psicólogo',
+      },{
+        id:'dentalclinic',
+        label:'Clinicas Dentales',
+      },{
+        id:'medicalcenter',
+        label:'Centros Medico',
+      },{
+        id:'chiropody',
+        label:'Podologia',
+      },{
+        id:'mutual',
+        label:'Mutua',
+      },{
+        id:'pharmacy',
+        label:'Farmacia',
+      },{
+        id:'cbd',
+        label:'CBD',
+      },{
+        id:'optics',
+        label:'Óptica',
+      },{
+        id:'beauty',
+        label:'Centro estética',
+      },{
+        id:'gym',
+        label:'Gimnasio',
+      },{
+        id:'vet',
+        label:'Veterinario',
+      }
+    ]
+  },
+  {
+    id:'fashion',
+    label:'Moda',
+    children: [
+      {
+        id:'clothes',
+        label:'Ropa',
+      },{
+        id:'footwear',
+        label:'Calzado',
+      },{
+        id:'fabrics',
+        label:'Telas',
+      },{
+        id:'accesories',
+        label:'Accesorios',
+      },{
+        id:'decor',
+        label:'Decoracion',
+      },{
+        id:'drycleaning',
+        label:'Tintoería',
+      }
+    ]
+  },{
+  id:'administration',
+  label:'Administracion',
+  children: [{
+    id:'agency',
+    label:'Gestoria',
+  },{
+    id:'advisory',
+    label:'Asesoria',
+  },{
+    id:'advocacy',
+    label:'Abogacia',
+  },{
+    id:'processing',
+    label:'Tramitacion',
+  },{
+    id:'insurance',
+    label:'Seguros',
+  },{
+    id:'education',
+    label:'Educacion',
+  },{
+    id:'kindergarten',
+    label:'Guarderia',
+  },{
+    id:'parking',
+    label:'Parking',
+  }]
+},{
+  id:'catering',
+  label:'Horeca',
+  children: [{
+    id:'restaurants',
+    label:'Restaurantes',
+  },{
+    id:'bar',
+    label:'Bar',
+  },{
+    id:'pub',
+    label:'Pub',
+  },{
+    id:'cake_shop',
+    label:'Pasteleria',
+  },{
+    id:'cellar',
+    label:'Bodegas',
+  },{
+    id:'ecological',
+    label:'Ecologico',
+  },{
+    id:'discotheque',
+    label:'Discotecas',
+  },{
+    id:'coffe_shop',
+    label:'Cafeteria',
+  },{
+    id:'bakeshop',
+    label:'Panaderia',
+  },{
+    id:'icecreamshop',
+    label:'Heladería',
+  },{
+    id:'winesandspirits',
+    label:'Vinos y licores',
+  },{
+    id:'fishshop',
+    label:'Pescadería',
+  },{
+    id:'butchershop',
+    label:'Carnicerías',
+  },{
+    id:'fruitstore',
+    label:'Frutería',
+  }]
+},{
+  id:'construction',
+  label:'Construcción',
+  children: [{
+    id:'carpentry',
+    label:'Carpinteria',
+  },{
+    id:'reforms',
+    label:'Reformas',
+  },{
+    id:'painters',
+    label:'Pintores',
+  },{
+    id:'masonry',
+    label:'Albañilería',
+  },{
+    id:'electrician',
+    label:'Electricistas',
+  },{
+    id:'arquitect',
+    label:'Arquitecto',
+  },{
+    id:'locksmith',
+    label:'Cerrajeria',
+  }]
+},{
+  id:'automotive',
+  label:'Automóvil',
+  children: [{
+    id:'carworkshop',
+    label:'Reparacion automoviles',
+  },{
+    id:'bicycleworkshop',
+    label:'Reparación de bicicleta',
+  },{
+    id:'scooterrepair',
+    label:'Reparacion de patinetes',
+  },{
+    id:'caraccesories',
+    label:'Accesorios y recambios vehiculos',
+  }]
+},{
+  id:'others',
+  label:'Otros',
+  children: [{
+    id:'eventsaloon',
+    label:'Salon de eventos',
+  },{
+    id:'moving',
+    label:'Mudanzas',
+  },{
+    id:'realstate',
+    label:'Inmobilarias',
+  },{
+    id:'photo',
+    label:'Fotografías',
+  },{
+    id:'gameshop',
+    label:'Tienda de juegos',
+  },{
+    id:'furniturestore',
+    label:'Muebles',
+  },{
+    id:'sexshop',
+    label:'Sex-shop',
+  },{
+    id:'herbalism',
+    label:'Herboristeria',
+  },{
+    id:'houseappliance',
+    label:'Electrodomésticos',
+  },{
+    id:'bookstore',
+    label:'Librería',
+  },{
+    id:'petshop',
+    label:'Tienda de anaimales',
+  },{
+    id:'craftsmanship',
+    label:'Artesanía',
+  },{
+    id:'gardening',
+    label:'Jardinería',
+  }]
+}]
+

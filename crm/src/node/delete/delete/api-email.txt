@@ -1,0 +1,367 @@
+/*
+Crea en nodeJS una usando Sequelize los siguientes métodos:
+
+- addEmail: Crear un nuevo email con los datos del remitente, asunto y similares a los de google gmail.
+- updateEmail: Poder modificar el email a través de su id.
+- removeEmail: Eliminar el email a través de su id.
+- fetchEmails: Mostrar los 100 email anteriores con un offset y devolver offset en la salida.
+- fetchEmail: Bucar un email a través de su ID.
+- syncEmail: sincronizar correos a la base de datos con la API de Google.
+- searchEmail: buscar a través de diferentes etiquetas emails.
+
+
+Normas:
+Todos los emails deben usar el filtro “user_id” uuid para filtar por usuario.
+
+Datos:
+email =
+{
+      id: 50,
+      to: [
+        {
+          email: 'johndoe@mail.com',
+          name: 'me',
+        },
+      ],
+      from: {
+        email: 'james25@gmail.com',
+        name: 'Katie Brandt',
+        avatar: avatar8,
+      },
+      subject: 'Bring smile discussion same boy include care.',
+      cc: [],
+      bcc: [],
+      message:
+        '<p>Guy national course pay small per. Commercial research lose key fight marriage. Young series raise degree foot degree detail number.\nCrime gas real pass white. Television success east.</p><p>Into miss knowledge result. Seat carry tax beat line. Amount language paper machine fly.\nMusic several common former. More mouth year site move hold. Billion material born news western late.</p><p>World them term identify. Rule southern condition thought. Article successful traditional friend.\nPhone financial skill theory.\nChange Mr experience. Everyone help structure much family.\nVoice general group likely.</p></br>',
+      attachments: [
+        {
+          fileName: 'log.txt',
+          thumbnail: txt,
+          url: '',
+          size: '5mb',
+        },
+        {
+          fileName: 'performance.xls',
+          thumbnail: xls,
+          url: '',
+          size: '10mb',
+        },
+      ],
+      isStarred: true,
+      labels: ['private', 'company'],
+      time: '2021-07-14T12:42:22',
+      replies: [],
+      folder: 'inbox',
+      isRead: true,
+      isDeleted: false,
+    },
+}
+    
+    
+Importante seguir la siguiente estructura para los metodos:
+ const addEmail = async (req, res) => {
+     ..
+ }
+
+*/
+
+const { Sequelize, Model, DataTypes } = require('sequelize');
+
+// Creamos la conexión con la base de datos
+const sequelize = new Sequelize('database', 'username', 'password', {
+  host: 'localhost',
+  dialect: 'mysql',
+});
+
+// Definimos el modelo para los emails
+const Email = sequelize.define('email', {
+  id: {
+    type: DataTypes.INTEGER,
+    primaryKey: true,
+    autoIncrement: true,
+  },
+  to: {
+    type: DataTypes.ARRAY(DataTypes.JSON),
+  },
+  from: {
+    type: DataTypes.JSON,
+  },
+  subject: {
+    type: DataTypes.STRING,
+  },
+  cc: {
+    type: DataTypes.ARRAY(DataTypes.JSON),
+  },
+  bcc: {
+    type: DataTypes.ARRAY(DataTypes.JSON),
+  },
+  message: {
+    type: DataTypes.TEXT,
+  },
+  attachments: {
+    type: DataTypes.ARRAY(DataTypes.JSON),
+  },
+  isStarred: {
+    type: DataTypes.BOOLEAN,
+  },
+  labels: {
+    type: DataTypes.ARRAY(DataTypes.STRING),
+  },
+  time: {
+    type: DataTypes.DATE,
+  },
+  replies: {
+    type: DataTypes.ARRAY(DataTypes.JSON),
+  },
+  folder: {
+    type: DataTypes.STRING,
+  },
+  isRead: {
+    type: DataTypes.BOOLEAN,
+  },
+  isDeleted: {
+    type: DataTypes.BOOLEAN,
+  },
+  user_id: {
+    type: DataTypes.UUID,
+  }
+});
+
+// Crear un nuevo email con los datos del remitente, asunto y similares a los de google gmail.
+const addEmail = async (req, res) => {
+  try {
+    const {
+      to,
+      from,
+      subject,
+      cc,
+      bcc,
+      message,
+      attachments,
+      isStarred,
+      labels,
+      time,
+      replies,
+      folder,
+      isRead,
+      isDeleted,
+      user_id
+    } = req.body;
+    await Email.create({
+      to,
+      from,
+      subject,
+      cc,
+      bcc,
+      message,
+      attachments,
+      isStarred,
+      labels,
+      time,
+      replies,
+      folder,
+      isRead,
+      isDeleted,
+      user_id
+    });
+    res.status(200).json({
+      message: 'Email creado exitosamente',
+    });
+  } catch (error) {
+    res.status(500).json({
+      error,
+      message: 'Error al crear el email',
+    });
+  }
+};
+
+// Poder modificar el email a través de su id.
+const updateEmail = async (req, res) => {
+  try {
+    const {
+      to,
+      from,
+      subject,
+      cc,
+      bcc,
+      message,
+      attachments,
+      isStarred,
+      labels,
+      time,
+      replies,
+      folder,
+      isRead,
+      isDeleted,
+      user_id
+    } = req.body;
+    const { id } = req.params;
+    const email = await Email.findByPk(id);
+    if (email) {
+      await email.update({
+        to,
+        from,
+        subject,
+        cc,
+        bcc,
+        message,
+        attachments,
+        isStarred,
+        labels,
+        time,
+        replies,
+        folder,
+        isRead,
+        isDeleted,
+        user_id
+      });
+      res.status(200).json({
+        message: 'Email actualizado exitosamente',
+      });
+    } else {
+      res.status(404).json({
+        message: 'Email no encontrado',
+      });
+    }
+  } catch (error) {
+    res.status(500).json({
+      error,
+      message: 'Error al actualizar el email',
+    });
+  }
+};
+
+// Eliminar el email a través de su id.
+const removeEmail = async (req, res) => {
+  try {
+    const { id } = req.params;
+    const email = await Email.findByPk(id);
+    if (email) {
+      await email.destroy();
+      res.status(200).json({
+        message: 'Email eliminado exitosamente',
+      });
+    } else {
+      res.status(404).json({
+        message: 'Email no encontrado',
+      });
+    }
+  } catch (error) {
+    res.status(500).json({
+      error,
+      message: 'Error al eliminar el email',
+    });
+  }
+};
+
+// Mostrar los 100 email anteriores con un offset y devolver offset en la salida.
+const fetchEmails = async (req, res) => {
+  try {
+    const { offset } = req.query;
+    const emails = await Email.findAll({
+      offset,
+      limit: 100,
+    });
+    if (emails) {
+      res.status(200).json({
+        emails,
+        offset,
+      });
+    } else {
+      res.status(404).json({
+        message: 'No hay emails',
+      });
+    }
+  } catch (error) {
+    res.status(500).json({
+      error,
+      message: 'Error al obtener los emails',
+    });
+  }
+};
+
+// Bucar un email a través de su ID.
+const fetchEmail = async (req, res) => {
+  try {
+    const { id } = req.params;
+    const email = await Email.findByPk(id);
+    if (email) {
+      res.status(200).json({
+        email,
+      });
+    } else {
+      res.status(404).json({
+        message: 'Email no encontrado',
+      });
+    }
+  } catch (error) {
+    res.status(500).json({
+      error,
+      message: 'Error al obtener el email',
+    });
+  }
+};
+
+// Sincronizar correos a la base de datos con la API de Google.
+const syncEmail = async (req, res) => {
+  try {
+    // Obtenemos los emails usando la API de Google
+    const emails = await fetchGoogleEmails();
+    // Iteramos sobre los emails para guardarlos en la base de datos
+    for (const email of emails) {
+      await Email.create({
+        to: email.to,
+        from: email.from,
+        subject: email.subject,
+        cc: email.cc,
+        bcc: email.bcc,
+        message: email.message,
+        attachments: email.attachments,
+        isStarred: email.isStarred,
+        labels: email.labels,
+        time: email.time,
+        replies: email.replies,
+        folder: email.folder,
+        isRead: email.isRead,
+        isDeleted: email.isDeleted,
+        user_id: email.user_id,
+      });
+    }
+    res.status(200).json({
+      message: 'Emails sincronizados exitosamente',
+    });
+  } catch (error) {
+    res.status(500).json({
+      error,
+      message: 'Error al sincronizar los emails',
+    });
+  }
+};
+
+// Buscar a través de diferentes etiquetas emails.
+const searchEmail = async (req, res) => {
+  try {
+    const { labels } = req.query;
+    const emails = await Email.findAll({
+      where: {
+        labels: {
+          [Op.contains]: labels,
+        },
+      },
+    });
+    if (emails) {
+      res.status(200).json({
+        emails,
+      });
+    } else {
+      res.status(404).json({
+        message: 'No hay emails para estas etiquetas',
+      });
+    }
+  } catch (error) {
+    res.status(500).json({
+      error,
+      message: 'Error al buscar los emails',
+    });
+  }
+};

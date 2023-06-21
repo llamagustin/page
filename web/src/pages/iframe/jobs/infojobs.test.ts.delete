@@ -1,0 +1,107 @@
+// https://www.infojobs.net/jobsearch/search-results/list.xhtml
+// #infojobs
+
+
+// container
+// .ij-ContentSearch-list > ul
+
+// title
+// .ij-OfferCardContent-description-title
+
+// url
+// .ij-OfferCardContent-description-title
+
+// company
+// .ij-OfferCardContent-description-subtitle-link
+
+// location
+// .ij-OfferCardContent-description-list-item-truncate
+
+// time
+// .ij-OfferCardContent-description-list-item
+
+// date
+// .ij-FormatterSincedate
+
+// description
+// .ij-OfferCardContent-description-description
+
+// type
+// .ij-OfferCardContent-description-list-item
+
+// contrat
+// ij-OfferCardContent-description-list-item
+
+// salary
+// .ij-OfferCardContent-description-salary-info 
+
+
+
+
+var arr = [];
+(async function(){
+    function sleep (time) {
+      return new Promise((resolve) => setTimeout(resolve, time));
+     }
+   
+      var pathContainer =  '#mosaic-provider-jobcards > ul > li';
+      var pathBox =  '#jobsearch-ViewjobPaneWrapper';
+
+      var childs =  document.querySelectorAll(pathContainer);
+      for(var i=0;i<childs.length;i++){
+           var child = childs[i];
+          
+          
+          //click
+          if(!child.querySelector('.jcs-JobTitle')) continue;
+          
+          child.querySelector('.jcs-JobTitle').click(); 
+          await sleep(2000);
+          
+          arr[i] = {
+              title: 'not found',
+              company: 'not found',
+              rating: 0,
+              location: 'not found',
+              location2: 'not found',
+              description: 'not found',
+              attributes: [],
+              info: {},
+              valoration: 0,
+              element: child
+          };
+          
+          //title
+          if(child.querySelector('.jobTitle')) arr[i].title = child.querySelector('.jobTitle').textContent;
+          
+          //company
+          if(child.querySelector('.companyName')) arr[i].company = child.querySelector('.companyName').textContent;
+          
+          //rating
+          if(child.querySelector('.ratingsDisplay')) arr[i].rating = child.querySelector('.ratingsDisplay').textContent;
+          
+          //location
+          if(child.querySelector('.companyLocation')) arr[i].location = child.querySelector('.companyLocation').textContent;
+          
+          
+          //attributes
+          // if(child.querySelector('.jobTitle')) arr[i].title = child.querySelector('.jobTitle').textContent;
+          
+          
+          //Box
+          var box = document.querySelector(pathBox)
+          
+          //location2
+          // if(child.querySelector('.jobTitle')) arr[i].title = child.querySelector('.jobTitle').textContent;
+          
+          //valoration
+          // if(child.querySelector('.jobTitle')) arr[i].title = child.querySelector('.jobTitle').textContent;
+          
+          //description
+          if(box.querySelector('.jobsearch-JobComponent-description')) arr[i].description = box.querySelector('.jobsearch-JobComponent-description').textContent;
+          
+          
+      };
+      
+      return arr;
+})()

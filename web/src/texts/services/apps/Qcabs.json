@@ -1,0 +1,98 @@
+{
+    "title": "Qcabs",
+    "subtitle": "Cab Booking App, Taxi App with Driver App and Rider App",
+    "resume": "Qcabs is a Rider App & taxi Driver app. Being a top cab booking mobile app development company & on demand cab booking mobile app building services provider we build cab booking app for android and iOS. Experience best cab booking app development services with top taxi booking app development company.",
+    "app": [
+        {
+            "type": "both",
+            "info": "Find the nearest & cheapest cabs in your area.",
+            "user": "+91 9898 9898 98 (India)",
+            "password": "123456",
+            "title": "User App"
+        },
+        {
+            "type": "both",
+            "info": "The driver gets real-time ride requests with an option to accept or reject the ride.",
+            "user": "+91 8787 8787 87 (India)",
+            "password": "123456",
+            "title": "Driver App"
+        },
+        {
+            "type": "web",
+            "info": "Admin panel exists in order to give you control over your app.",
+            "user": "admin@example.com",
+            "password": "admin",
+            "title": "Admin Panel"
+        }
+    ],
+    "data": [
+        {
+            "title": "User App",
+            "info": "Qcabs user app offers rides to particular destinations. A passenger can choose from various car categories in the area based on profiles.",
+            "content": [
+                "Pick/drop location selection",
+                "Ride type selection",
+                "Ride detail",
+                "Add rating and review",
+                "My trips",
+                "eWallet integration for payment",
+                "Refer and earn",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/qcabs/screenshots/user/1.png",
+                "assets/img/app-info/qcabs/screenshots/user/2.png",
+                "assets/img/app-info/qcabs/screenshots/user/3.png",
+                "assets/img/app-info/qcabs/screenshots/user/4.png",
+                "assets/img/app-info/qcabs/screenshots/user/5.png",
+                "assets/img/app-info/qcabs/screenshots/user/6.png",
+                "assets/img/app-info/qcabs/screenshots/user/7.png",
+                "assets/img/app-info/qcabs/screenshots/user/8.png"
+            ]
+        },
+        {
+            "title": "Driver App",
+            "info": "Driver app allows the driver to fetch all details like earnings, ride requests, feedback, and more.",
+            "content": [
+                "Online/Offline status",
+                "Ride request",
+                "Ride detail",
+                "Detailed Insight",
+                "Ride list",
+                "eWallet integration",
+                "Rating and review",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/qcabs/screenshots/admin_app/1.png",
+                "assets/img/app-info/qcabs/screenshots/admin_app/2.png",
+                "assets/img/app-info/qcabs/screenshots/admin_app/3.png",
+                "assets/img/app-info/qcabs/screenshots/admin_app/4.png",
+                "assets/img/app-info/qcabs/screenshots/admin_app/5.png",
+                "assets/img/app-info/qcabs/screenshots/admin_app/6.png",
+                "assets/img/app-info/qcabs/screenshots/admin_app/7.png",
+                "assets/img/app-info/qcabs/screenshots/admin_app/8.png"
+            ]
+        },
+        {
+            "title": "Admin Panel",
+            "info": "Advanced web admin panel with well-structured code that controls every aspect of users. A dashboard that helps to analyze overall growth.",
+            "content": [
+                "Booking management",
+                "Earning analytics",
+                "User’s usage statistics",
+                "Review & rating",
+                "Add/edit vehicle",
+                "Other important settings of app"
+            ],
+            "images": [
+                "assets/img/app-info/qcabs/screenshots/admin/1.png",
+                "assets/img/app-info/qcabs/screenshots/admin/2.png",
+                "assets/img/app-info/qcabs/screenshots/admin/3.png",
+                "assets/img/app-info/qcabs/screenshots/admin/4.png",
+                "assets/img/app-info/qcabs/screenshots/admin/5.png",
+                "assets/img/app-info/qcabs/screenshots/admin/6.png"
+            ]
+        }
+    ]
+}

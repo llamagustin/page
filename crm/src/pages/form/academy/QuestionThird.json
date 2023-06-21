@@ -1,0 +1,182 @@
+[{
+        "text": "¿Qué tipo de planes tenemos?",
+        "step": [{
+                "title": "Starter Pack / Profesional / Enterprise",
+                "value": 1
+            }, {
+                "title": "Novato / Profesional / Empresa",
+                "value": 2
+            }, {
+                "title": "Starter / Pro / Empresa",
+                "value": 3
+            }, {
+                "title": "Prueba / Desarrollo / Enterprise",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente paso"]
+    }, {
+        "text": "¿Qué coste tiene el más caro?",
+        "step": [{
+                "title": "2000€ al año",
+                "value": 1
+            }, {
+                "title": "500€ al año",
+                "value": 2
+            }, {
+                "title": "12000€ al año",
+                "value": 3
+            }, {
+                "title": "6000 al año",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente paso"]
+    }, {
+        "text": "¿En gran medida, cuál es su característica más relevante?",
+        "step": [{
+                "title": "Los usuarios y el acceso a la plataforma",
+                "value": 1
+            }, {
+                "title": "Los usuarios principalmente",
+                "value": 2
+            }, {
+                "title": "Los usuarios, los idiomas y las funciones para el acceso a la plataforma",
+                "value": 3
+            }, {
+                "title": "La cantidad de funciones que tiene y el acceso a la plataforma",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente paso"]
+    }, {
+        "text": "¿Que significa Marca Copyright?",
+        "step": [{
+                "title": "La licencia de Aythen para poder utilizar el programa de forma empresarial",
+                "value": 1
+            }, {
+                "title": "La marca de agua en las fotos que se utiliza",
+                "value": 2
+            }, {
+                "title": "Que pueden denunciar por el uso indebido",
+                "value": 3
+            }, {
+                "title": "La cantidad de opacidad que tiene la firma Aythen",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente paso"]
+    }, {
+        "text": "¿Cuál es el nivel más básico?",
+        "step": [{
+                "title": "El pack inicio",
+                "value": 1
+            }, {
+                "title": "El Starter Pack",
+                "value": 2
+            }, {
+                "title": "El Pack Beta",
+                "value": 3
+            }, {
+                "title": "Una prueba gratuita",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente paso"]
+    }, {
+        "text": "¿Que precio supone por usuario si contrato a 7 usuarios de forma bonificada anual?",
+        "step": [{
+                "title": "33€",
+                "value": 1
+            }, {
+                "title": "27€",
+                "value": 2
+            }, {
+                "title": "25€",
+                "value": 3
+            }, {
+                "title": "42€",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente paso"]
+    }, {
+        "text": "¿Con una ayuda del segmento III a cuánto puedo abarcar?",
+        "step": [{
+                "title": "Como ofrecen 500€, solo puedo un servicio",
+                "value": 1
+            }, {
+                "title": "Hasta 4 servicios para gastar los 2000€",
+                "value": 2
+            }, {
+                "title": "Depende de los usuarios, desde 1 hasta 4 servicios",
+                "value": 3
+            }, {
+                "title": "Sólo 4 servicios de forma obligada, a escoger.",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente paso"]
+    }, {
+        "text": "¿Hay permanencia?",
+        "step": [{
+                "title": "Sí, siempre",
+                "value": 1
+            }, {
+                "title": "No, nunca",
+                "value": 2
+            }, {
+                "title": "Sí, si paga de forma anual",
+                "value": 3
+            }, {
+                "title": "Si, solo si quiere él",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente paso"]
+    }, {
+        "text": "¿Existe la posibilidad de mejorar o bajar el nivel?",
+        "step": [{
+                "title": "Sí, siempre se puede mejorar o bajar la subscripción",
+                "value": 1
+            }, {
+                "title": "No, si ya ha contratado un servicio, ya nunca se puede modificar",
+                "value": 2
+            }, {
+                "title": "Sí, pero debe contactar primero",
+                "value": 3
+            }, {
+                "title": "No, solo puede subir, no bajar.",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente paso"]
+    }, {
+        "text": "¿Tiene bonificación pagar anualmente?",
+        "step": [{
+                "title": "Sí, pero solo el primer mes",
+                "value": 1
+            }, {
+                "title": "No, todo vale igual",
+                "value": 2
+            }, {
+                "title": "Sí, de un 10%",
+                "value": 3
+            }, {
+                "title": "Sí, pero a partir de 2 servicios",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente paso"]
+    }
+]

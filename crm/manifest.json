@@ -1,0 +1,27 @@
+{
+    "name": "My Application",
+    "short_name": "Aythen",
+    "id": "/",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#4285f4",
+    "theme_color": "#4285f4",
+    "icons": [
+        {
+            "src": "/src/assets/images/icons/project-icons/react.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "/src/assets/images/icons/project-icons/react-1.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ],
+    "permissions": [
+        "geolocation",
+        "notifications"
+    ],
+    //"offline_enabled": true,
+    "gcm_sender_id": "310573099885"
+}

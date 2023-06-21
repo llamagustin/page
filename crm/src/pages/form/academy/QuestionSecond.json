@@ -1,0 +1,218 @@
+[{
+        "text": "¿Qué se busca en un servicio web?",
+        "step": [{
+                "title": "Visibilidad del negocio, explicar quién es y qué hace",
+                "value": 1
+            }, {
+                "title": "Poder vender los productos en internet",
+                "value": 2
+            }, {
+                "title": "Posicionarte en internet",
+                "value": 3
+            }, {
+                "title": "Donde encontrar un negocio",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["pregunta anterior", "Siguiente pregunta"]
+    }, {
+        "text": "¿Qué es “Responsive”?",
+        "step": [{
+                "title": "Que responde bien el internet",
+                "value": 1
+            }, {
+                "title": "Que se adapta a la pantalla de cualquier dispositivo",
+                "value": 2
+            }, {
+                "title": "Que hay un chat que te ayuda",
+                "value": 3
+            }, {
+                "title": "Que el diseño es a medida",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["pregunta anterior", "Siguiente pregunta"]
+    }, {
+        "text": "¿Podrías definirme el SEO?",
+        "step": [{
+                "title": "Son las palabras clave",
+                "value": 1
+            }, {
+                "title": "Es el posicionamiento en los principales motores de búsqueda",
+                "value": 2
+            }, {
+                "title": "Son reportes de datos",
+                "value": 3
+            }, {
+                "title": "No lo sé",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["pregunta anterior", "Siguiente pregunta"]
+    }, {
+        "text": "¿Qué tipos de informes existen de SEO?",
+        "step": [{
+                "title": "Existen 2, el básico y el avanzado",
+                "value": 1
+            }, {
+                "title": "Sólo uno, el del SEO",
+                "value": 2
+            }, {
+                "title": "Según las herramientas, hay muchos",
+                "value": 3
+            }, {
+                "title": "No se da ningún informe",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["pregunta anterior", "Siguiente pregunta"]
+    }, {
+        "text": "¿Qué funciones son del SEO de entre las 22 herramientas que tenemos?",
+        "step": [{
+                "title": "Subir fotos, textos, palabras clave, párrafos, vídeos",
+                "value": 1
+            }, {
+                "title": "Análisis de los impactos, targets, automatizar publicaciones, etc.",
+                "value": 2
+            }, {
+                "title": "Test de rendimiento, Test de velocidad, Palabras clave, Metaetiquetas, páginas indexadas, Análisis del contenido, Densidades, Vínculos.",
+                "value": 3
+            }, {
+                "title": "Sólo búsquedas en motores de búsqueda",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["pregunta anterior", "Siguiente pregunta"]
+    }, {
+        "text": "¿En qué se basa la accesibilidad?",
+        "step": [{
+                "title": "Que la página web sea rápida",
+                "value": 1
+            }, {
+                "title": "La capacidad de poder adaptar la página web a las necesidades de las personas discapacitadas",
+                "value": 2
+            }, {
+                "title": "Que la web esté la primera en Google",
+                "value": 3
+            }, {
+                "title": "Que el acceso es abierto para todo el mundo",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["pregunta anterior", "Siguiente pregunta"]
+    }, {
+        "text": "¿Cuántos productos incluye un Starter Pack?",
+        "step": [{
+                "title": "Hasta 50 productos",
+                "value": 1
+            }, {
+                "title": "500 productos",
+                "value": 2
+            }, {
+                "title": "Un máximo de 100 productos",
+                "value": 3
+            }, {
+                "title": "Solo 10 productos",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["pregunta anterior", "Siguiente pregunta"]
+    }, {
+        "text": "¿Se ofrece un análisis de tus ventas?",
+        "step": [{
+                "title": "Si, pero solo es visible a final de mes",
+                "value": 1
+            }, {
+                "title": "Sí siempre, en el administrador con las credenciales del usuario.",
+                "value": 2
+            }, {
+                "title": "No, pero si pueden ver los pedidos",
+                "value": 3
+            }, {
+                "title": "No, no existe",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["pregunta anterior", "Siguiente pregunta"]
+    }, {
+        "text": "¿Creamos contenido para redes sociales?",
+        "step": [{
+                "title": "Sí, todos los posts están incluídos",
+                "value": 1
+            }, {
+                "title": "Si, aunque depende del plan suscrito",
+                "value": 2
+            }, {
+                "title": "No, se paga a parte siempre",
+                "value": 3
+            }, {
+                "title": "Nunca, solo proveemos de la plataforma",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["pregunta anterior", "Siguiente pregunta"]
+    }, {
+        "text": "¿Cuántas redes incluye el pack profesional?",
+        "step": [{
+                "title": "Sólo 1 integración",
+                "value": 1
+            }, {
+                "title": "Instagram y 2 más",
+                "value": 2
+            }, {
+                "title": "Un máximo de 3 a elegir",
+                "value": 3
+            }, {
+                "title": "5 integraciones",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["pregunta anterior", "Siguiente pregunta"]
+    }, {
+        "text": "¿Qué fomenta la Oficina Virtual?",
+        "step": [{
+                "title": "Sólo el teletrabajo",
+                "value": 1
+            }, {
+                "title": "La organización y adaptación de los miembros del equipo además de facturación",
+                "value": 2
+            }, {
+                "title": "La facturación y la contabilidad",
+                "value": 3
+            }, {
+                "title": "El desarrollo de proyectos",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["pregunta anterior", "Siguiente pregunta"]
+    }, {
+        "text": "¿Cómo definirías al CRM utilizando sus funcionalidades como referencia?",
+        "step": [{
+                "title": "La capacidad de atender y gestionar los clientes",
+                "value": 1
+            }, {
+                "title": "La capacidad de contactar a los clientes",
+                "value": 2
+            }, {
+                "title": "La capacidad de trabajar y atender en remoto",
+                "value": 3
+            }, {
+                "title": "La capacidad de gestionar sólo las ventas",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["pregunta anterior", "Siguiente pregunta"]
+    }
+]

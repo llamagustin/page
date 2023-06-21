@@ -1,0 +1,94 @@
+{
+    "title": "Medizone",
+    "subtitle": "Woocommerce Pharmacy App with Admin App",
+    "resume": "Medizone is a medicine eCommerce app, wordpress woocommerce medicine app & woocommerce pharmacy app. We're experienced pharmacy mobile app development company that build pharmacy app for android and ios. We're on demand pharmacy mobile app building services & pharmacy app development services provider.",
+    "app": [
+        {
+            "type": "both",
+            "info": "App for customers to order medicine online from nearby stores.",
+            "user": "+91 9999 9999 99 (India)",
+            "password": "12341234",
+            "title": "User App"
+        },
+        {
+            "type": "both",
+            "info": "App for sellers to manage products and orders.",
+            "user": "testadmin",
+            "password": "testadmin",
+            "title": "Admin App"
+        },
+        {
+            "type": "web",
+            "info": "Admin panel exists in order to give you control over your app.",
+            "user": "testadmin",
+            "password": "testadmin",
+            "title": "Admin Panel"
+        }
+    ],
+    "data": [
+        {
+            "title": "User App",
+            "info": "User app is a medicine ordering app where the user can go through the category and order medicine as well as track order through this app.",
+            "content": [
+                "Quick search",
+                "Browse by categories",
+                "Prescription upload",
+                "Product information",
+                "Order list",
+                "Order detail and status",
+                "Real-time Chat with admin",
+                "Change language including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/medizone/screenshots/user/1.png",
+                "assets/img/app-info/medizone/screenshots/user/2.png",
+                "assets/img/app-info/medizone/screenshots/user/3.png",
+                "assets/img/app-info/medizone/screenshots/user/4.png",
+                "assets/img/app-info/medizone/screenshots/user/5.png",
+                "assets/img/app-info/medizone/screenshots/user/6.png",
+                "assets/img/app-info/medizone/screenshots/user/7.png",
+                "assets/img/app-info/medizone/screenshots/user/8.png"
+            ]
+        },
+        {
+            "title": "Admin App",
+            "info": "Admin app allows admin to manage their orders and revenues as well as it allows real-time chat with the customer.",
+            "content": [
+                "Dashboard",
+                "New/Past order view",
+                "Order detail",
+                "Add/Edit product",
+                "Add/edit category",
+                "Order status",
+                "Real-time Chat with user",
+                "Change language including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/medizone/screenshots/admin_app/1.png",
+                "assets/img/app-info/medizone/screenshots/admin_app/2.png",
+                "assets/img/app-info/medizone/screenshots/admin_app/3.png",
+                "assets/img/app-info/medizone/screenshots/admin_app/4.png",
+                "assets/img/app-info/medizone/screenshots/admin_app/5.png",
+                "assets/img/app-info/medizone/screenshots/admin_app/6.png",
+                "assets/img/app-info/medizone/screenshots/admin_app/7.png",
+                "assets/img/app-info/medizone/screenshots/admin_app/8.png"
+            ]
+        },
+        {
+            "title": "Admin Panel",
+            "info": "Wordpress (woocommerce) web admin panel with a customized plugin for our application that controls every aspect of users and delivery person.",
+            "content": [
+                "Banner management",
+                "Product management",
+                "Manage notification",
+                "Control other settings of the app"
+            ],
+            "images": [
+                "assets/img/app-info/medizone/screenshots/admin/1.png",
+                "assets/img/app-info/medizone/screenshots/admin/2.png",
+                "assets/img/app-info/medizone/screenshots/admin/3.png",
+                "assets/img/app-info/medizone/screenshots/admin/4.png"
+            ]
+        }
+    ]
+}

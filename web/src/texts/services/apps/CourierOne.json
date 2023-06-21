@@ -1,0 +1,98 @@
+{
+    "title": "CourierOne",
+    "subtitle": "Logistic app with a feature of Peer to peer courier delivery",
+    "resume": "CourierOne is an on-demand Instant courier delivery app & peer to peer delivery app also can be used for personal courier app, local grocery delivery app, food delivery. Fast, reliable local courier delivery app. Users can use CourierOne as a logistics app, parcel delivery app, or personal delivery app.",
+    "app": [
+        {
+            "type": "both",
+            "info": "User app is to get your package picked up and delivered when and where you need it.",
+            "user": "+91 9898 9898 98 (India)",
+            "password": "123456",
+            "title": "User App"
+        },
+        {
+            "type": "both",
+            "info": "The vendor can manage their order directly from this app.",
+            "user": "+91 8787 8787 87 (India)",
+            "password": "123456",
+            "title": "Delivery App"
+        },
+        {
+            "type": "both",
+            "info": "App for the delivery person to get delivery orders and navigate the location.",
+            "user": "+91 8787 8787 87 (India)",
+            "password": "123456",
+            "title": "Admin Panel"
+        }
+    ],
+    "data": [
+        {
+            "title": "User App",
+            "info": "CourierOne is an all-in-one courier booking app that allows users to send anything anywhere & anytime.",
+            "content": [
+                "Select type of service",
+                "Set pick and drop location",
+                "Arrange delivery",
+                "Get food delivered",
+                "Order confirmation",
+                "Live order tracking",
+                "Saved addresses",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/courierone/screenshots/user/1.png",
+                "assets/img/app-info/courierone/screenshots/user/2.png",
+                "assets/img/app-info/courierone/screenshots/user/3.png",
+                "assets/img/app-info/courierone/screenshots/user/4.png",
+                "assets/img/app-info/courierone/screenshots/user/5.png",
+                "assets/img/app-info/courierone/screenshots/user/6.png",
+                "assets/img/app-info/courierone/screenshots/user/7.png",
+                "assets/img/app-info/courierone/screenshots/user/8.png"
+            ]
+        },
+        {
+            "title": "Delivery App",
+            "info": "Delivery app is to get order info such as pickup location, delivery location, ordered items, etc., also make live tracking possible for customers.",
+            "content": [
+                "New/Past deliveries view",
+                "Manage deliveries",
+                "Set estimated time for delivery",
+                "Navigation to pick/drop location",
+                "Earnings with transactions",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/courierone/screenshots/delivery_app/1.png",
+                "assets/img/app-info/courierone/screenshots/delivery_app/2.png",
+                "assets/img/app-info/courierone/screenshots/delivery_app/3.png",
+                "assets/img/app-info/courierone/screenshots/delivery_app/4.png",
+                "assets/img/app-info/courierone/screenshots/delivery_app/5.png",
+                "assets/img/app-info/courierone/screenshots/delivery_app/6.png"
+            ]
+        },
+        {
+            "title": "Admin Panel",
+            "info": "Advanced web admin panel with well-structured code that controls every aspect of users. A dashboard that helps to analyze overall growth and informative graphs/charts makes it more understandable",
+            "content": [
+                "Live Order status in map view",
+                "Order analytics with graphs",
+                "New registration analytics",
+                "Transaction analytics",
+                "Delivery mode management",
+                "App settings",
+                "Dark/light theme",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/courierone/screenshots/admin/1.png",
+                "assets/img/app-info/courierone/screenshots/admin/2.png",
+                "assets/img/app-info/courierone/screenshots/admin/3.png",
+                "assets/img/app-info/courierone/screenshots/admin/4.png",
+                "assets/img/app-info/courierone/screenshots/admin/5.png",
+                "assets/img/app-info/courierone/screenshots/admin/6.png",
+                "assets/img/app-info/courierone/screenshots/admin/7.png",
+                "assets/img/app-info/courierone/screenshots/admin/8.png"
+            ]
+        }
+    ]
+}

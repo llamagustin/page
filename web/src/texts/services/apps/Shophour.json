@@ -1,0 +1,125 @@
+{
+    "title": "Shophour",
+    "subtitle": "Multi Vendor eCommerce app with Vendor and Delivery App",
+    "resume": "Shophour is an advanced multi vendor eCommerce app, marketplace app & online selling app. It is a go-to app for online shopping needs. Seeking an ecommerce app development company that builds ecommerce app for android and ios? Look no further! We are ecommerce app development services provider for startups.",
+    "app": [
+        {
+            "type": "both",
+            "info": "Online shopping app for fashionistas, is taking eCommerce to the next level.",
+            "user": "+91 9898 9898 98 (India)",
+            "password": "123456",
+            "title": "User App"
+        },
+        {
+            "type": "both",
+            "info": "App for sellers to register their business and manage orders.",
+            "user": "+91 8787 8787 87 (India)",
+            "password": "123456",
+            "title": "Seller App"
+        },
+        {
+            "type": "both",
+            "info": "App for the delivery person to get delivery orders and navigate the location.",
+            "user": "+91 7676 7676 76 (India)",
+            "password": "123456",
+            "title": "Delivery App"
+        },
+        {
+            "type": "web",
+            "info": "It exists in order to give you control over your app.",
+            "user": "admin@example.com",
+            "password": "admin",
+            "title": "Admin Panel"
+        }
+    ],
+    "data": [
+        {
+            "title": "User App",
+            "info": "ShopHour is a perfect app that offers customers to order products online.",
+            "content": [
+                "Multi-vendor ordering",
+                "Search items and stores",
+                "Items list",
+                "Product description and review",
+                "Cart view",
+                "Order status",
+                "Rating and review",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/shophour/screenshots/user/1.png",
+                "assets/img/app-info/shophour/screenshots/user/2.png",
+                "assets/img/app-info/shophour/screenshots/user/3.png",
+                "assets/img/app-info/shophour/screenshots/user/4.png",
+                "assets/img/app-info/shophour/screenshots/user/5.png",
+                "assets/img/app-info/shophour/screenshots/user/6.png",
+                "assets/img/app-info/shophour/screenshots/user/7.png",
+                "assets/img/app-info/shophour/screenshots/user/8.png"
+            ]
+        },
+        {
+            "title": "Seller App",
+            "info": "This app allows a seller to register their business online, the seller can manage the order of their store directly from this app.",
+            "content": [
+                "New/Past order view",
+                "Order detail",
+                "Detailed insight",
+                "Add/Edit products",
+                "Ratting and review",
+                "Earnings",
+                "Send to bank",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/shophour/screenshots/admin_app/1.png",
+                "assets/img/app-info/shophour/screenshots/admin_app/2.png",
+                "assets/img/app-info/shophour/screenshots/admin_app/3.png",
+                "assets/img/app-info/shophour/screenshots/admin_app/4.png",
+                "assets/img/app-info/shophour/screenshots/admin_app/5.png",
+                "assets/img/app-info/shophour/screenshots/admin_app/6.png",
+                "assets/img/app-info/shophour/screenshots/admin_app/7.png",
+                "assets/img/app-info/shophour/screenshots/admin_app/8.png"
+            ]
+        },
+        {
+            "title": "Delivery App",
+            "info": "It is to get order info such as pickup location, delivery location, ordered items, etc.",
+            "content": [
+                "Mark online/offline status",
+                "View order details",
+                "eWallet integration",
+                "Send earning to bank",
+                "Check performance in insight",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/shophour/screenshots/delivery_app/1.png",
+                "assets/img/app-info/shophour/screenshots/delivery_app/2.png",
+                "assets/img/app-info/shophour/screenshots/delivery_app/3.png",
+                "assets/img/app-info/shophour/screenshots/delivery_app/4.png",
+                "assets/img/app-info/shophour/screenshots/delivery_app/5.png",
+                "assets/img/app-info/shophour/screenshots/delivery_app/6.png"
+            ]
+        },
+        {
+            "title": "Admin Panel",
+            "info": "Advanced web admin panel with well-structured code that controls every aspect of customer, vendor, and delivery person. A dashboard that helps to analyze overall growth and informative graphs/charts makes it more understandable.",
+            "content": [
+                "Live Order status in map view",
+                "Order analytics with graphs",
+                "New registration analytics",
+                "App settings",
+                "Dark/light theme",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/shophour/screenshots/admin/1.png",
+                "assets/img/app-info/shophour/screenshots/admin/2.png",
+                "assets/img/app-info/shophour/screenshots/admin/3.png",
+                "assets/img/app-info/shophour/screenshots/admin/4.png",
+                "assets/img/app-info/shophour/screenshots/admin/5.png",
+                "assets/img/app-info/shophour/screenshots/admin/6.png"
+            ]
+        }
+    ]
+}

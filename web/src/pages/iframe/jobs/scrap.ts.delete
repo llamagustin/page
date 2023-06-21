@@ -1,0 +1,161 @@
+/*
+✔️ Obtener scraping diario de las nuevas ofertas definir valores
+- Facil e integrable en algun sitio
+- Que se pueda crear en la pagina web de aythen en algun apartado de jobs??
+✔️ Realizar guardado de las nuevas ofertas de trabajo 
+- Guardar y poner status 300 cuando se pase gpt pasar a 200
+✔️ Poder pasar codex para detectar los mejores trabajos
+- Crear un informe que nos facilite la información
+✔️ Crear un kmeans para poder identificar
+- Con la información obtenida obtener la mejor oferta de servicio que se pueda proponer
+✔️ Realizar propuestas automaticas con Steve
+- Enviar propuestas/llamar ayuda de steve
+*/
+
+/*
+Titulo
+Company
+Valoraciones
+Precio
+Lugar
+Modalidad
+Tipo de jornada
+Description (pasar AI para que funcione)
+var jobs = {
+    title: 
+    company:
+    valoration:
+    salary:
+    location:
+    type:
+    modal
+    skills:
+    description:
+}
+*/
+
+
+
+export const scrapIndeed = () => {
+    
+
+
+
+}
+
+
+export const gptValue = (data) => {
+    const {
+        
+    } = data
+    
+    return `Analiza la oferta de trabajo como reclutador y rellene el informe dando tu valoración para que nos contraten equipos en remoto.
+
+Oferta:
+Foto Intern- job post
+Morrison Clothing
+Madrid, Madrid provincia•Teletrabajo
+600 € a la semana
+Jornada completa 
+1Más detalles sobre el empleo
+Teletrabajo
+FP Grado Superior
+FP Grado Medio
+Incorporación inmediata
+
+¿Por qué Morrison?
+
+En Morrison desarrollarás tu carrera profesional en una de las start up españolas de moda con mayor crecimiento en los últimos años y un equipo en constante crecimiento.
+Podrás aportar tus ideas, hacerlas parte de los proyectos y crecer con nosotros. Además, estamos dando pasos para poder vestir Morrison de los pies a la cabeza con nuestras nuevas colecciones de ropa. Iniciamos nuestra historia como una Marca nativa Digital y hemos dado el salto al Wholesale y el Retail.
+
+¿Cuál será tu día a día?
+
+✔️ Realizarás la toma de fotografías de nuestras referencias, eventos, acciones de marketing, entre otros y su edición y publicación, bajo el cumplimiento del estándar indicado. Siempre bajo la Dirección del Co Director Creativo.
+✔️ Fotografía y Edición de las referencias
+✔️ Actualización de las fotografías para la página web y sales book
+✔️ Foto de lifestyle
+✔️ Fotos de Eventos ( Culture y sessions )
+✔️ Offline: Fotos y cubrir eventos
+
+¿Qué buscamos?
+Grado medio Imagen y Sonido o Grado Superior en Iluminación, Captación y Tratamiento de Imagen o similar.
+Experiencia mínima de 3 meses en fotografía (producto y/o eventos)
+Experiencia y ganas de aprender más en el uso de programas de edición del paquete Adobe (Photoshop, Premiere, Camera Raw)
+
+¿Qué ofrecemos? Un acuerdo de Prácticas por 6 meses con posibilidad a renovarse por otros 6 meses más a jornada completa.
+Horquilla salarial: beca de 600 euros mensuales los primeros 6 meses, con posibilidad de renovarse por otros 6 meses más.
+Jornada: 40 h semanales
+Programa de beneficios exclusivos y descuentos especiales en compra de Morrison
+Incorporación inmediata. Teletrabajo todos los viernes del año. Libertad para proponer y desarrollar ideas transgresoras. Formar parte de una startup en pleno crecimiento.
+Desarrollo personal y profesional
+Queremos que crezcas con nosotros tanto personal como profesionalmente, nos preocupamos por tu desarrollo.
+Performance Review semestral.
+Plan de formación.
+
+Informe:
+A. De que país es la oferta? [Nombre, iso]
+B. Cuál es el teléfono o el email de contacto? [Nombre, iso]
+C. Buscan un candidato urgentemente? [Boolean]
+D. Que idiomas se requieren? [Idioma, iso]
+E. Es una oferta de trabajo para alguna de los siguientes candidatos o no es para esta oferta? [Programador, diseñador, escritor, consultor]
+F.Se puede realizar todo el trabajo en remoto? [Boolean]
+G. Cuántas horas a la semana son el trabajo? [Número de horas]
+H. Listado de skills técnicas? [React, Node, Typescript, NextJs..]
+I. Se puede subcontratar el trabajo [Si o no, explicar motivos]
+J. Salario mensual? [Cantidad calculada en € ]
+K. Estimación de la cantidad de trabajadores de la empresa? [Aproximar numero]
+L. Se puede ofrecer que nos contraten equipos a demanda en remoto para esta oferta de trabajo, ofrecer propuesta?
+M. Es un trabajo para un solo proyecto o multiples proyectos? [describir]
+N. Valoras que se puede ofrecer una herramienta colaborativa para mejorar alguno de los siguientes puntos? [web, shop, seo, rrss, crm y office]
+
+Respuesta:
+A.`
+}
+
+
+
+
+
+
+(async function(){
+    return 'eee'
+  /********************************************************/
+  /* Base Function Ini */
+  /********************************************************/
+  async function sleep(ms) {
+    return new Promise(resolve => 
+    setTimeout(resolve,ms));
+  }
+  /********************************************************/
+  /********************************************************/
+  var pathContainer =  '#mosaic-provider-jobcards > ul > li';
+
+  var arr = [];
+  
+  var childs = await document.querySelectorAll(pathContainer);
+
+  for(var i=0;i<childs.length;i++){
+      '-- Loading ' + i +' data indeed. --';
+      
+      var child = childs[i];
+      child.click();
+      
+      await sleep(2000);
+      
+      arr[i] = {
+          title: 'ipsum',
+          company: 'lorem',
+          rating: 0,
+          location: '',
+          location2: '',
+          attributes: [],
+          info: {},
+          valoration: 0,
+          element: child
+      };
+  };
+  
+  return arr;
+})()
+  
+  

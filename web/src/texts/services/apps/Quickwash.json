@@ -1,0 +1,117 @@
+{
+    "title": "Quickwash",
+    "subtitle": "Laundry Booking App Laundry Admin App Laundry Delivery App",
+    "resume": "Quickwash is a woocommerce laundry android iOS app & washing app. We’re a dry cleaning laundry mobile app development company & on demand laundry mobile app building services provider. Our experts build laundry delivery app for android and ios. Experience best wordpress laundry app services from us.",
+    "app": [
+        {
+            "type": "both",
+            "info": "Get the best laundry service delivered to your doorstep with just a few taps.",
+            "user": "+91 8888 8888 88 (India)",
+            "password": "12341234",
+            "title": "User App"
+        },
+        {
+            "type": "both",
+            "info": "The admin can manage their order directly from this app.",
+            "user": "testadmin",
+            "password": "testadmin",
+            "title": "Admin App"
+        },
+        {
+            "type": "both",
+            "info": "App for the delivery person to get delivery orders and navigate the location.",
+            "user": "+91 7777 7777 77 (India)",
+            "password": "12341234",
+            "title": "Delivery App"
+        },
+        {
+            "type": "web",
+            "info": "It exists in order to give you control over your app.",
+            "user": "testadmin",
+            "password": "testadmin",
+            "title": "Admin Panel"
+        }
+    ],
+    "data": [
+        {
+            "title": "User App",
+            "info": "The quickwash is an app that delivers an eco-friendly, personalized laundry service to your door.",
+            "content": [
+                "Select service",
+                "Select cloth and quantity",
+                "Book laundry",
+                "Track order status",
+                "Chat with vendor",
+                "Change language including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/laundry/screenshots/user/1.png",
+                "assets/img/app-info/laundry/screenshots/user/2.png",
+                "assets/img/app-info/laundry/screenshots/user/3.png",
+                "assets/img/app-info/laundry/screenshots/user/4.png",
+                "assets/img/app-info/laundry/screenshots/user/5.png",
+                "assets/img/app-info/laundry/screenshots/user/6.png"
+            ]
+        },
+        {
+            "title": "Admin App",
+            "info": "It allows admin to manage their orders and revenues as well as it allows real-time chat with the customer.",
+            "content": [
+                "Dashboard",
+                "New/Past order view",
+                "Order information",
+                "Customer information",
+                "Message list",
+                "Chat with customer",
+                "Update order status",
+                "Change language including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/laundry/screenshots/admin_app/1.png",
+                "assets/img/app-info/laundry/screenshots/admin_app/2.png",
+                "assets/img/app-info/laundry/screenshots/admin_app/3.png",
+                "assets/img/app-info/laundry/screenshots/admin_app/4.png",
+                "assets/img/app-info/laundry/screenshots/admin_app/5.png",
+                "assets/img/app-info/laundry/screenshots/admin_app/6.png",
+                "assets/img/app-info/laundry/screenshots/admin_app/7.png",
+                "assets/img/app-info/laundry/screenshots/admin_app/8.png"
+            ]
+        },
+        {
+            "title": "Delivery App",
+            "info": "Delivery app to get delivery and pick up orders and get to know about delivery info such as a delivery address, delivery items, date & time, etc.",
+            "content": [
+                "Assigned/completed task list",
+                "View order details",
+                "Navigation to vendor",
+                "Notifications",
+                "Earnings",
+                "Change language including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/laundry/screenshots/delivery_app/1.png",
+                "assets/img/app-info/laundry/screenshots/delivery_app/2.png",
+                "assets/img/app-info/laundry/screenshots/delivery_app/3.png",
+                "assets/img/app-info/laundry/screenshots/delivery_app/4.png",
+                "assets/img/app-info/laundry/screenshots/delivery_app/5.png",
+                "assets/img/app-info/laundry/screenshots/delivery_app/6.png"
+            ]
+        },
+        {
+            "title": "Admin Panel",
+            "info": "Wordpress (woocommerce) web admin panel with a customized plugin for your application that controls every aspect of users and delivery person.",
+            "content": [
+                "Delivery management",
+                "Item/category management",
+                "Banner management",
+                "Control other settings of the app"
+            ],
+            "images": [
+                "assets/img/app-info/laundry/screenshots/admin/1.png",
+                "assets/img/app-info/laundry/screenshots/admin/2.png",
+                "assets/img/app-info/laundry/screenshots/admin/3.png",
+                "assets/img/app-info/laundry/screenshots/admin/4.png"
+            ]
+        }
+    ]
+}

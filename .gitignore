@@ -1,0 +1,8 @@
+web/node_modules/
+crm/node_modules/
+bot/node_modules/
+**/*.mp4
+**/dist/
+
+crm/src/video/
+crm/public/videos/

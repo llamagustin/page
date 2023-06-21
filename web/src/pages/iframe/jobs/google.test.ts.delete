@@ -1,0 +1,99 @@
+// https://www.google.com/search?q=developer&sxsrf=APwXEdcOuOR-SGEl_mCO8Si07x-EncoOqw:1682258421244&ei=9TlFZIq7DtCikdUPlPm2sAM&uact=5&oq=developer+web+barcelona+jobs+google&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIFCCEQoAE6CggAEEcQ1gQQsAM6BggAEBYQHjoICAAQFhAeEA86CAgAEIoFEIYDOgQIIRAVOgcIIRCgARAKSgQIQRgAUK8BWI0LYJAMaAFwAXgAgAGRAYgB-AuSAQQwLjEymAEAoAEByAEDwAEB&sclient=gws-wiz-serp&ibp=htl;jobs&sa=X&ved=2ahUKEwi_gvuBlcD-AhURH-wKHSd5DzMQutcGKAF6BAgOEBs#fpstate=tldetail&htivrt=jobs&htidocid=oIoyiMe_e0UAAAAAAAAAAA%3D%3D
+
+// #google
+// title #gws-plugins-horizon-jobs__job_details_page > div > div.sVx81 > div > div.sH3zFd > h2
+// company: #gws-plugins-horizon-jobs__job_details_page > div > div.sVx81 > div > div.iGy6ud > div.tJ9zfc > div.nJlQNd.sMzDkb
+// location: #gws-plugins-horizon-jobs__job_details_page > div > div.sVx81 > div > div.iGy6ud > div.tJ9zfc > div:nth-child(2)
+// time: #gws-plugins-horizon-jobs__job_details_page > div > div.ocResc.KKh3md > div:nth-child(1) > span.LL4CDc > span
+// type: #gws-plugins-horizon-jobs__job_details_page > div > div.ocResc.KKh3md > div:nth-child(2) > span.LL4CDc
+// description: 
+// #gws-plugins-horizon-jobs__job_details_page > div > div.YgLbBe.YRi0le
+
+
+var arr = [];
+(async function(){
+    function sleep (time) {
+      return new Promise((resolve) => setTimeout(resolve, time));
+     }
+   
+
+      var pathContainer =  '#immersive_desktop_root > div > div.lteri > div.zxU94d.gws-plugins-horizon-jobs__tl-lvc';
+      var pathBox =  '#gws-plugins-horizon-jobs__job_details_page > div';
+
+      var childs =  document.querySelectorAll(pathContainer);
+      var num = childs.length
+      for(var i=0;i<num;i++){
+           var _childs =  document.querySelectorAll(pathContainer);
+           var child = _childs[i];
+          
+          //click
+          if(!child.querySelector('.gc-card')) continue;
+          
+          child.querySelector('.gc-card').click(); 
+          await sleep(2000);
+          
+          arr[i] = {
+              title: 'not found',
+              company: 'not found',
+              rating: 0,
+              location: 'not found',
+              location2: 'not found',
+              description: 'not found',
+              attributes: [],
+              info: {},
+              valoration: 0,
+              element: child
+          };
+          
+          //Box
+          var box = document.querySelector(pathBox)
+          
+          //title
+          if(child.querySelector('.gc-card__title')) arr[i].title = child.querySelector('.gc-card__title').textContent;
+          
+          //.querySelector('span[itemprop="name"]')
+          //company
+          if(child.querySelector(`span[itemprop="name"]`)) arr[i].company = child.querySelector(`span[itemprop="name"]`).textContent;
+          
+        //   company => span['itemprop="name"']
+        //   type => .gc-job-tags__icon-text
+        //   location => span['itemprop="address"']
+        //   remote => .gc-job-tags__remote
+        //   qualifications => .gc-job-qualifications
+        //   description => .gc-accordion__content-inner
+        
+          //return back
+          document.querySelector(pathButtonPrev).click(); 
+          await sleep(2000);
+          
+          continue;
+          
+          //company
+          if(child.querySelector('.companyName')) arr[i].company = child.querySelector('.companyName').textContent;
+          
+          //rating
+          if(child.querySelector('.ratingsDisplay')) arr[i].rating = child.querySelector('.ratingsDisplay').textContent;
+          
+          //location
+          if(child.querySelector('.companyLocation')) arr[i].location = child.querySelector('.companyLocation').textContent;
+          
+          
+          //attributes
+          // if(child.querySelector('.jobTitle')) arr[i].title = child.querySelector('.jobTitle').textContent;
+          
+          
+          
+          //location2
+          // if(child.querySelector('.jobTitle')) arr[i].title = child.querySelector('.jobTitle').textContent;
+          
+          //valoration
+          // if(child.querySelector('.jobTitle')) arr[i].title = child.querySelector('.jobTitle').textContent;
+          
+          //description
+          if(box.querySelector('.jobsearch-JobComponent-description')) arr[i].description = box.querySelector('.jobsearch-JobComponent-description').textContent;
+          
+          
+      };
+      
+      return arr;
+})()

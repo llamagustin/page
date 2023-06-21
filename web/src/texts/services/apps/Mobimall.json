@@ -1,0 +1,94 @@
+{
+    "title": "Mobimall",
+    "subtitle": "Woocommerce App with Admin App",
+    "resume": "Mobimall is multi vendor wordpress eCommerce app, woocommerce app. Online selling app that fulfill online shopping needs. Get Best ecommerce app development company experience with our experts who build ecommerce app for android and ios. We offer ecommerce marketplace app development services for startups.",
+    "app": [
+        {
+            "type": "both",
+            "info": "Online shopping app for fashionistas, is taking eCommerce to the next level.",
+            "user": "+91 9999 9999 99 (India)",
+            "password": "12341234",
+            "title": "User App"
+        },
+        {
+            "type": "both",
+            "info": "App for the seller to manage orders.",
+            "user": "testadmin",
+            "password": "testadmin",
+            "title": "Admin App"
+        },
+        {
+            "type": "web",
+            "info": "Admin Panel exists in order to give you control over your app.",
+            "user": "testadmin",
+            "password": "testadmin",
+            "title": "Admin Panel"
+        }
+    ],
+    "data": [
+        {
+            "title": "User App",
+            "info": "Mobimall user app is an online shopping app for purchasing clothing, accessories, electronics, gadgets, etc. that offer a rich shopping experience to the users from the comfort of their homes.",
+            "content": [
+                "Quick search",
+                "Browse by categories",
+                "Product detail",
+                "Order status",
+                "Wishlist",
+                "Cart View",
+                "Real-time chat with admin",
+                "Change language including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/mobimall/screenshots/user/1.png",
+                "assets/img/app-info/mobimall/screenshots/user/2.png",
+                "assets/img/app-info/mobimall/screenshots/user/3.png",
+                "assets/img/app-info/mobimall/screenshots/user/4.png",
+                "assets/img/app-info/mobimall/screenshots/user/5.png",
+                "assets/img/app-info/mobimall/screenshots/user/6.png",
+                "assets/img/app-info/mobimall/screenshots/user/7.png",
+                "assets/img/app-info/mobimall/screenshots/user/8.png"
+            ]
+        },
+        {
+            "title": "Admin App",
+            "info": "Admin app allows the admin to manage their orders and revenues as well as it allows real-time chat with the customer. A clean and simple UI makes it easy to understand the process.",
+            "content": [
+                "Dashboard",
+                "New/Past order view",
+                "Manage orders",
+                "Customer information",
+                "All item list view",
+                "Add/edit product",
+                "Real-time chat with customer",
+                "Change language including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/mobimall/screenshots/admin_app/1.png",
+                "assets/img/app-info/mobimall/screenshots/admin_app/2.png",
+                "assets/img/app-info/mobimall/screenshots/admin_app/3.png",
+                "assets/img/app-info/mobimall/screenshots/admin_app/4.png",
+                "assets/img/app-info/mobimall/screenshots/admin_app/5.png",
+                "assets/img/app-info/mobimall/screenshots/admin_app/6.png",
+                "assets/img/app-info/mobimall/screenshots/admin_app/7.png",
+                "assets/img/app-info/mobimall/screenshots/admin_app/8.png"
+            ]
+        },
+        {
+            "title": "Admin Panel",
+            "info": "Admin Panel exists in order to give you control over your app.",
+            "content": [
+                "Banner management",
+                "Product management",
+                "App profile setting",
+                "Control other settings of the app"
+            ],
+            "images": [
+                "assets/img/app-info/mobimall/screenshots/admin/1.png",
+                "assets/img/app-info/mobimall/screenshots/admin/2.png",
+                "assets/img/app-info/mobimall/screenshots/admin/3.png",
+                "assets/img/app-info/mobimall/screenshots/admin/4.png"
+            ]
+        }
+    ]
+}

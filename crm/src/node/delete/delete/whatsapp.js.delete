@@ -1,0 +1,301 @@
+//https://developers.facebook.com/docs/whatsapp/cloud-api
+
+const VERSION = 'v15.0'
+const PHONE_NUMBER_ID = ''
+const DESTINATION_WHATSAPP_BUSINESS_ACCOUNT_ID = ''
+const WABA = '1093121278029705'
+const _WABA = 'EAAPiMCF5L4kBAIMCYoAn0aMxZCEZBLVcgGiZA7ZCMXYZBToHUlUkSKMiNanZCzfdPRZBCMUZAILYez4SjTWYCFziydYOOJnSXu7KtBVuCcsjuaHNXr0zT8KZAtsgDZALeOWXKSAgA3xbtsHuWfjZCZAN7ZBns2HE0udZCY73MuVb2YtcFyyuahwaTypZAjeqHBScGPiCtYKvDZAH360KNwZDZD'
+
+
+//register phone
+const registerPhone = (req, res) => {
+    var result = await instance.post(`https://graph.facebook.com/${VERSION}/${PHONE_NUMBER_ID}/register`)
+    
+    return res.send('ree')
+}
+
+
+const deregisterPhone = (req, res) => {
+    var result = await instance.post(`https://graph.facebook.com/${VERSION}/${PHONE_NUMBER_ID}/deregister`)
+    
+    return res.send('ree')
+}
+
+
+const deregisterPhone = (req, res) => {
+    var result = await instance.post(`https://graph.facebook.com/${VERSION}/${PHONE_NUMBER_ID}/deregister`)
+    
+    return res.send('ree')
+}
+
+
+
+//business profile
+const getBusiness = (req, res) => {
+    var result = await instance.get(`https://graph.facebook.com/${VERSION}/${PHONE_NUMBER_ID}/whatsapp_business_profile`)
+    
+    return res.send('ree')
+}
+
+
+const updateBusiness = (req, res) => {
+    
+    var data = {
+        "messaging_product": "whatsapp",
+        "address": "<business-address>",
+        "description": "<business-description>",
+        "vertical": "<business-industry>",
+        "about": "<profile-about-text>",
+        "email": "<business-email>",
+        "websites": [
+            "<https://website-1>",
+            "<https://website-2>"
+        ],
+        "profile_picture_handle": "<IMAGE_HANDLE_ID>"
+    }
+    
+    var result = await instance.post(`https://graph.facebook.com/${VERSION}/${PHONE_NUMBER_ID}/whatsapp_business_profile`)
+    
+}
+
+
+
+//messages
+const sendMessage = (req, res) => {
+    var data = {
+        "messaging_product": "whatsapp",    
+        "recipient_type": "individual",
+        "to": "{{Recipient-Phone-Number}}",
+        "type": "text",
+        "text": {
+            "preview_url": false,
+            "body": "text-message-content"
+        }
+    }
+
+    var result = await instance.post(`https://graph.facebook.com/${VERSION}/${PHONE_NUMBER_ID}/messages`)
+}
+
+
+const replyMessage = (req, res) => {
+    var data = {
+        "messaging_product": "whatsapp",
+        "recipient_type": "individual",
+        "to": "{{Recipient-Phone-Number}}",
+        "context": {
+            "message_id": "<MSGID_OF_PREV_MSG>"
+        },
+        "type": "text",
+        "text": {
+            "preview_url": false,
+            "body": "<TEXT_MSG_CONTENT>"
+        }
+    }
+    
+    var result = await instance.post(`https://graph.facebook.com/${VERSION}/${PHONE_NUMBER_ID}/messages`)
+}
+
+
+const replyMessage = (req, res) => {
+    var data = {
+        "messaging_product": "whatsapp",
+        "to": "{{Recipient-Phone-Number}}",
+        "text": {
+            "preview_url": true,
+            "body": "Please visit https://youtu.be/hpltvTEiRrY to inspire your day!"
+        }
+    }
+    
+    var result = await instance.post(`https://graph.facebook.com/${VERSION}/${PHONE_NUMBER_ID}/messages`)
+}
+
+
+const documentMessage = (req, res) => {
+    var data = {
+        "messaging_product": "whatsapp",
+        "recipient_type": "individual",
+        "to": "{{Recipient-Phone-Number}}",
+        "type": "document",
+        "document": {
+            "id": "<DOCUMENT_OBJECT_ID>",
+            "caption": "<DOCUMENT_CAPTION_TO_SEND>",
+            "filename": "<DOCUMENT_FILENAME>"
+        }
+    }
+    
+    var result = await instance.post(`https://graph.facebook.com/${VERSION}/${PHONE_NUMBER_ID}/messages`)
+}
+
+
+
+const templateMessage = (req, res) => {
+    var data = {
+        "messaging_product": "whatsapp",
+        "recipient_type": "individual",
+        "to": "{{Recipient-Phone-Number}}",
+        "type": "template",
+        "template": {
+            "name": "template-name",
+            "language": {
+                "code": "language-and-locale-code"
+            },
+            "components": [
+                {
+                    "type": "body",
+                    "parameters": [
+                        {
+                            "type": "text",
+                            "text": "text-string"
+                        },
+                        {
+                            "type": "currency",
+                            "currency": {
+                                "fallback_value": "$100.99",
+                                "code": "USD",
+                                "amount_1000": 100990
+                            }
+                        },
+                        {
+                            "type": "date_time",
+                            "date_time": {
+                                "fallback_value": "February 25, 1977",
+                                "day_of_week": 5,
+                                "year": 1977,
+                                "month": 2,
+                                "day_of_month": 25,
+                                "hour": 15,
+                                "minute": 33,
+                                "calendar": "GREGORIAN"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+    
+    var result = await instance.post(`https://graph.facebook.com/${VERSION}/${PHONE_NUMBER_ID}/messages`)
+}
+
+
+
+
+const templateMessage = (req, res) => {
+    var data = {
+        "messaging_product": "whatsapp",
+        "recipient_type": "individual",
+        "to": "{{Recipient-Phone-Number}}",
+        "type": "location",
+        "location": {
+            "latitude": "<LOCATION_LATITUDE>",
+            "longitude": "<LOCATION_LONGITUDE>",
+            "name": "<LOCATION_NAME>",
+            "address": "<LOCATION_ADDRESS>"
+        }
+    }
+    
+    var result = await instance.post(`https://graph.facebook.com/${VERSION}/${PHONE_NUMBER_ID}/messages`)
+}
+
+
+
+
+
+const templateMessage = (req, res) => {
+    var data = {
+        "messaging_product": "whatsapp",
+        "recipient_type": "individual",
+        "to": "{{Recipient-Phone-Number}}",
+        "type": "location",
+        "location": {
+            "latitude": "<LOCATION_LATITUDE>",
+            "longitude": "<LOCATION_LONGITUDE>",
+            "name": "<LOCATION_NAME>",
+            "address": "<LOCATION_ADDRESS>"
+        }
+    }
+    
+    var result = await instance.post(`https://graph.facebook.com/${VERSION}/${PHONE_NUMBER_ID}/messages`)
+}
+
+
+
+
+
+const productMessage = (req, res) => {
+    var data = {
+        "messaging_product": "whatsapp",
+        "recipient_type": "individual",
+        "to": "{{Recipient-Phone-Number}}",
+        "type": "interactive",
+        "interactive": {
+            "type": "product",
+            "body": {
+                "text": "<OPTIONAL_BODY_TEXT>"
+            },
+            "footer": {
+                "text": "<OPTIONAL_FOOTER_TEXT>"
+            },
+            "action": {
+                "catalog_id": "367025965434465",
+                "product_retailer_id": "<ID_TEST_ITEM_1>"
+            }
+        }
+    }
+    
+    var result = await instance.post(`https://graph.facebook.com/${VERSION}/${PHONE_NUMBER_ID}/messages`)
+}
+
+
+
+
+const productsMessage = (req, res) => {
+    var data = {
+        "messaging_product": "whatsapp",
+        "recipient_type": "individual",
+        "to": "{{Recipient-Phone-Number}}",
+        "type": "interactive",
+        "interactive": {
+            "type": "product_list",
+            "header": {
+                "type": "<HEADER_TYPE>",
+                "text": "<YOUR_TEXT_HEADER_CONTENT>"
+            },
+            "body": {
+                "text": "<YOUR_TEXT_BODY_CONTENT>"
+            },
+            "footer": {
+                "text": "<YOUR_TEXT_FOOTER_CONTENT>"
+            },
+            "action": {
+                "catalog_id": "146265584024623",
+                "sections": [
+                    {
+                        "title": "<SECTION1_TITLE>",
+                        "product_items": [
+                            {
+                                "product_retailer_id": "<YOUR_PRODUCT1_SKU_IN_CATALOG>"
+                            },
+                            {
+                                "product_retailer_id": "<YOUR_SECOND_PRODUCT1_SKU_IN_CATALOG>"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "<SECTION2_TITLE>",
+                        "product_items": [
+                            {
+                                "product_retailer_id": "<YOUR_PRODUCT2_SKU_IN_CATALOG>"
+                            },
+                            {
+                                "product_retailer_id": "<YOUR_SECOND_PRODUCT2_SKU_IN_CATALOG>"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+    
+    var result = await instance.post(`https://graph.facebook.com/${VERSION}/${PHONE_NUMBER_ID}/messages`)
+}

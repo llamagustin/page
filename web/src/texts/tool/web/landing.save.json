@@ -1,0 +1,3064 @@
+[
+    {
+        "name": "Academics",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "academics",
+        "screenshot": {
+            "light": "/assets/screen-web/academics.jpg",
+            "dark": "/assets/screen-web/academics.jpg"
+        }
+    },
+    {
+        "name": "Aranoz",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "aranoz",
+        "screenshot": {
+            "light": "/assets/screen-web/aranoz.jpg",
+            "dark": "/assets/screen-web/aranoz.jpg"
+        }
+    },
+    {
+        "name": "Boxe",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "boxe",
+        "screenshot": {
+            "light": "/assets/screen-web/boxe.jpg",
+            "dark": "/assets/screen-web/boxe.jpg"
+        }
+    },
+    {
+        "name": "Christian",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "christian",
+        "screenshot": {
+            "light": "/assets/screen-web/christian.jpg",
+            "dark": "/assets/screen-web/christian.jpg"
+        }
+    },
+    {
+        "name": "Deejee",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "deejee",
+        "screenshot": {
+            "light": "/assets/screen-web/deejee.jpg",
+            "dark": "/assets/screen-web/deejee.jpg"
+        }
+    },
+    {
+        "name": "Ecobit",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "ecobit",
+        "screenshot": {
+            "light": "/assets/screen-web/ecobit.jpg",
+            "dark": "/assets/screen-web/ecobit.jpg"
+        }
+    },
+    {
+        "name": "Feliciano",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "feliciano",
+        "screenshot": {
+            "light": "/assets/screen-web/feliciano.jpg",
+            "dark": "/assets/screen-web/feliciano.jpg"
+        }
+    },
+    {
+        "name": "Glamour",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "glamour",
+        "screenshot": {
+            "light": "/assets/screen-web/glamour.jpg",
+            "dark": "/assets/screen-web/glamour.jpg"
+        }
+    },
+    {
+        "name": "Homes",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "homes",
+        "screenshot": {
+            "light": "/assets/screen-web/homes.jpg",
+            "dark": "/assets/screen-web/homes.jpg"
+        }
+    },
+    {
+        "name": "Jobboard2",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "jobboard2",
+        "screenshot": {
+            "light": "/assets/screen-web/jobboard2.jpg",
+            "dark": "/assets/screen-web/jobboard2.jpg"
+        }
+    },
+    {
+        "name": "Listed",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "listed",
+        "screenshot": {
+            "light": "/assets/screen-web/listed.jpg",
+            "dark": "/assets/screen-web/listed.jpg"
+        }
+    },
+    {
+        "name": "Mediplus",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "mediplus",
+        "screenshot": {
+            "light": "/assets/screen-web/mediplus.jpg",
+            "dark": "/assets/screen-web/mediplus.jpg"
+        }
+    },
+    {
+        "name": "Neutral",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "neutral",
+        "screenshot": {
+            "light": "/assets/screen-web/neutral.jpg",
+            "dark": "/assets/screen-web/neutral.jpg"
+        }
+    },
+    {
+        "name": "Pointer",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "pointer",
+        "screenshot": {
+            "light": "/assets/screen-web/pointer.jpg",
+            "dark": "/assets/screen-web/pointer.jpg"
+        }
+    },
+    {
+        "name": "Safario",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "safario",
+        "screenshot": {
+            "light": "/assets/screen-web/safario.jpg",
+            "dark": "/assets/screen-web/safario.jpg"
+        }
+    },
+    {
+        "name": "Sona",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "sona",
+        "screenshot": {
+            "light": "/assets/screen-web/sona.jpg",
+            "dark": "/assets/screen-web/sona.jpg"
+        }
+    },
+    {
+        "name": "Thequest",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "thequest",
+        "screenshot": {
+            "light": "/assets/screen-web/thequest.jpg",
+            "dark": "/assets/screen-web/thequest.jpg"
+        }
+    },
+    {
+        "name": "Warehouse",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "warehouse",
+        "screenshot": {
+            "light": "/assets/screen-web/warehouse.jpg",
+            "dark": "/assets/screen-web/warehouse.jpg"
+        }
+    },
+    {
+        "name": "Ararat",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "ararat",
+        "screenshot": {
+            "light": "/assets/screen-web/ararat.jpg",
+            "dark": "/assets/screen-web/ararat.jpg"
+        }
+    },
+    {
+        "name": "Br",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "br",
+        "screenshot": {
+            "light": "/assets/screen-web/br.jpg",
+            "dark": "/assets/screen-web/br.jpg"
+        }
+    },
+    {
+        "name": "Classyads",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "classyads",
+        "screenshot": {
+            "light": "/assets/screen-web/classyads.jpg",
+            "dark": "/assets/screen-web/classyads.jpg"
+        }
+    },
+    {
+        "name": "Delicious",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "delicious",
+        "screenshot": {
+            "light": "/assets/screen-web/delicious.jpg",
+            "dark": "/assets/screen-web/delicious.jpg"
+        }
+    },
+    {
+        "name": "Ecoland",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "ecoland",
+        "screenshot": {
+            "light": "/assets/screen-web/ecoland.jpg",
+            "dark": "/assets/screen-web/ecoland.jpg"
+        }
+    },
+    {
+        "name": "Finances",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "finances",
+        "screenshot": {
+            "light": "/assets/screen-web/finances.jpg",
+            "dark": "/assets/screen-web/finances.jpg"
+        }
+    },
+    {
+        "name": "Gourmet",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "gourmet",
+        "screenshot": {
+            "light": "/assets/screen-web/gourmet.jpg",
+            "dark": "/assets/screen-web/gourmet.jpg"
+        }
+    },
+    {
+        "name": "Hostza",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "hostza",
+        "screenshot": {
+            "light": "/assets/screen-web/hostza.jpg",
+            "dark": "/assets/screen-web/hostza.jpg"
+        }
+    },
+    {
+        "name": "Jobpply",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "jobpply",
+        "screenshot": {
+            "light": "/assets/screen-web/jobpply.jpg",
+            "dark": "/assets/screen-web/jobpply.jpg"
+        }
+    },
+    {
+        "name": "Listingo",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "listingo",
+        "screenshot": {
+            "light": "/assets/screen-web/listingo.jpg",
+            "dark": "/assets/screen-web/listingo.jpg"
+        }
+    },
+    {
+        "name": "Medisen",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "medisen",
+        "screenshot": {
+            "light": "/assets/screen-web/medisen.jpg",
+            "dark": "/assets/screen-web/medisen.jpg"
+        }
+    },
+    {
+        "name": "Niko",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "niko",
+        "screenshot": {
+            "light": "/assets/screen-web/niko.jpg",
+            "dark": "/assets/screen-web/niko.jpg"
+        }
+    },
+    {
+        "name": "Ponigym",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "ponigym",
+        "screenshot": {
+            "light": "/assets/screen-web/ponigym.jpg",
+            "dark": "/assets/screen-web/ponigym.jpg"
+        }
+    },
+    {
+        "name": "Sasu",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "sasu",
+        "screenshot": {
+            "light": "/assets/screen-web/sasu.jpg",
+            "dark": "/assets/screen-web/sasu.jpg"
+        }
+    },
+    {
+        "name": "Sportify",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "sportify",
+        "screenshot": {
+            "light": "/assets/screen-web/sportify.jpg",
+            "dark": "/assets/screen-web/sportify.jpg"
+        }
+    },
+    {
+        "name": "Thumber",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "thumber",
+        "screenshot": {
+            "light": "/assets/screen-web/thumber.jpg",
+            "dark": "/assets/screen-web/thumber.jpg"
+        }
+    },
+    {
+        "name": "Waterboat",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "waterboat",
+        "screenshot": {
+            "light": "/assets/screen-web/waterboat.jpg",
+            "dark": "/assets/screen-web/waterboat.jpg"
+        }
+    },
+    {
+        "name": "Archs",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "archs",
+        "screenshot": {
+            "light": "/assets/screen-web/archs.jpg",
+            "dark": "/assets/screen-web/archs.jpg"
+        }
+    },
+    {
+        "name": "Breed2",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "breed2",
+        "screenshot": {
+            "light": "/assets/screen-web/breed2.jpg",
+            "dark": "/assets/screen-web/breed2.jpg"
+        }
+    },
+    {
+        "name": "Coach",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "coach",
+        "screenshot": {
+            "light": "/assets/screen-web/coach.jpg",
+            "dark": "/assets/screen-web/coach.jpg"
+        }
+    },
+    {
+        "name": "Dentista",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "dentista",
+        "screenshot": {
+            "light": "/assets/screen-web/dentista.jpg",
+            "dark": "/assets/screen-web/dentista.jpg"
+        }
+    },
+    {
+        "name": "Eden",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "eden",
+        "screenshot": {
+            "light": "/assets/screen-web/eden.jpg",
+            "dark": "/assets/screen-web/eden.jpg"
+        }
+    },
+    {
+        "name": "Findstate",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "findstate",
+        "screenshot": {
+            "light": "/assets/screen-web/findstate.jpg",
+            "dark": "/assets/screen-web/findstate.jpg"
+        }
+    },
+    {
+        "name": "Grunt",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "grunt",
+        "screenshot": {
+            "light": "/assets/screen-web/grunt.jpg",
+            "dark": "/assets/screen-web/grunt.jpg"
+        }
+    },
+    {
+        "name": "Hus",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "hus",
+        "screenshot": {
+            "light": "/assets/screen-web/hus.jpg",
+            "dark": "/assets/screen-web/hus.jpg"
+        }
+    },
+    {
+        "name": "Jony",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "jony",
+        "screenshot": {
+            "light": "/assets/screen-web/jony.jpg",
+            "dark": "/assets/screen-web/jony.jpg"
+        }
+    },
+    {
+        "name": "Loans2go",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "loans2go",
+        "screenshot": {
+            "light": "/assets/screen-web/loans2go.jpg",
+            "dark": "/assets/screen-web/loans2go.jpg"
+        }
+    },
+    {
+        "name": "Meditative",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "meditative",
+        "screenshot": {
+            "light": "/assets/screen-web/meditative.jpg",
+            "dark": "/assets/screen-web/meditative.jpg"
+        }
+    },
+    {
+        "name": "Nissa",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "nissa",
+        "screenshot": {
+            "light": "/assets/screen-web/nissa.jpg",
+            "dark": "/assets/screen-web/nissa.jpg"
+        }
+    },
+    {
+        "name": "Portfolio",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "portfolio",
+        "screenshot": {
+            "light": "/assets/screen-web/portfolio.jpg",
+            "dark": "/assets/screen-web/portfolio.jpg"
+        }
+    },
+    {
+        "name": "Scenic",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "scenic",
+        "screenshot": {
+            "light": "/assets/screen-web/scenic.jpg",
+            "dark": "/assets/screen-web/scenic.jpg"
+        }
+    },
+    {
+        "name": "Square",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "square",
+        "screenshot": {
+            "light": "/assets/screen-web/square.jpg",
+            "dark": "/assets/screen-web/square.jpg"
+        }
+    },
+    {
+        "name": "Toothsy",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "toothsy",
+        "screenshot": {
+            "light": "/assets/screen-web/toothsy.jpg",
+            "dark": "/assets/screen-web/toothsy.jpg"
+        }
+    },
+    {
+        "name": "Wellspa",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "wellspa",
+        "screenshot": {
+            "light": "/assets/screen-web/wellspa.jpg",
+            "dark": "/assets/screen-web/wellspa.jpg"
+        }
+    },
+    {
+        "name": "Arcwork",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "arcwork",
+        "screenshot": {
+            "light": "/assets/screen-web/arcwork.jpg",
+            "dark": "/assets/screen-web/arcwork.jpg"
+        }
+    },
+    {
+        "name": "Browse",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "browse",
+        "screenshot": {
+            "light": "/assets/screen-web/browse.jpg",
+            "dark": "/assets/screen-web/browse.jpg"
+        }
+    },
+    {
+        "name": "Coaching",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "coaching",
+        "screenshot": {
+            "light": "/assets/screen-web/coaching.jpg",
+            "dark": "/assets/screen-web/coaching.jpg"
+        }
+    },
+    {
+        "name": "Depot",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "depot",
+        "screenshot": {
+            "light": "/assets/screen-web/depot.jpg",
+            "dark": "/assets/screen-web/depot.jpg"
+        }
+    },
+    {
+        "name": "Edumark",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "edumark",
+        "screenshot": {
+            "light": "/assets/screen-web/edumark.jpg",
+            "dark": "/assets/screen-web/edumark.jpg"
+        }
+    },
+    {
+        "name": "Fitfloss",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "fitfloss",
+        "screenshot": {
+            "light": "/assets/screen-web/fitfloss.jpg",
+            "dark": "/assets/screen-web/fitfloss.jpg"
+        }
+    },
+    {
+        "name": "Gutim-0",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "gutim-0",
+        "screenshot": {
+            "light": "/assets/screen-web/gutim-0.jpg",
+            "dark": "/assets/screen-web/gutim-0.jpg"
+        }
+    },
+    {
+        "name": "Ideal",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "ideal",
+        "screenshot": {
+            "light": "/assets/screen-web/ideal.jpg",
+            "dark": "/assets/screen-web/ideal.jpg"
+        }
+    },
+    {
+        "name": "Judge",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "judge",
+        "screenshot": {
+            "light": "/assets/screen-web/judge.jpg",
+            "dark": "/assets/screen-web/judge.jpg"
+        }
+    },
+    {
+        "name": "Localsdirectory",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "localsdirectory",
+        "screenshot": {
+            "light": "/assets/screen-web/localsdirectory.jpg",
+            "dark": "/assets/screen-web/localsdirectory.jpg"
+        }
+    },
+    {
+        "name": "Meetup",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "meetup",
+        "screenshot": {
+            "light": "/assets/screen-web/meetup.jpg",
+            "dark": "/assets/screen-web/meetup.jpg"
+        }
+    },
+    {
+        "name": "Nitro",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "nitro",
+        "screenshot": {
+            "light": "/assets/screen-web/nitro.jpg",
+            "dark": "/assets/screen-web/nitro.jpg"
+        }
+    },
+    {
+        "name": "Porto",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "porto",
+        "screenshot": {
+            "light": "/assets/screen-web/porto.jpg",
+            "dark": "/assets/screen-web/porto.jpg"
+        }
+    },
+    {
+        "name": "Selling",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "selling",
+        "screenshot": {
+            "light": "/assets/screen-web/selling.jpg",
+            "dark": "/assets/screen-web/selling.jpg"
+        }
+    },
+    {
+        "name": "Stamina",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "stamina",
+        "screenshot": {
+            "light": "/assets/screen-web/stamina.jpg",
+            "dark": "/assets/screen-web/stamina.jpg"
+        }
+    },
+    {
+        "name": "Topgym",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "topgym",
+        "screenshot": {
+            "light": "/assets/screen-web/topgym.jpg",
+            "dark": "/assets/screen-web/topgym.jpg"
+        }
+    },
+    {
+        "name": "Wemeet",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "wemeet",
+        "screenshot": {
+            "light": "/assets/screen-web/wemeet.jpg",
+            "dark": "/assets/screen-web/wemeet.jpg"
+        }
+    },
+    {
+        "name": "Ariclaw",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "ariclaw",
+        "screenshot": {
+            "light": "/assets/screen-web/ariclaw.jpg",
+            "dark": "/assets/screen-web/ariclaw.jpg"
+        }
+    },
+    {
+        "name": "Burger",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "burger",
+        "screenshot": {
+            "light": "/assets/screen-web/burger.jpg",
+            "dark": "/assets/screen-web/burger.jpg"
+        }
+    },
+    {
+        "name": "Cohost",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "cohost",
+        "screenshot": {
+            "light": "/assets/screen-web/cohost.jpg",
+            "dark": "/assets/screen-web/cohost.jpg"
+        }
+    },
+    {
+        "name": "Digilab",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "digilab",
+        "screenshot": {
+            "light": "/assets/screen-web/digilab.jpg",
+            "dark": "/assets/screen-web/digilab.jpg"
+        }
+    },
+    {
+        "name": "Endurance",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "endurance",
+        "screenshot": {
+            "light": "/assets/screen-web/endurance.jpg",
+            "dark": "/assets/screen-web/endurance.jpg"
+        }
+    },
+    {
+        "name": "Fitnesstrainer",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "fitnesstrainer",
+        "screenshot": {
+            "light": "/assets/screen-web/fitnesstrainer.jpg",
+            "dark": "/assets/screen-web/fitnesstrainer.jpg"
+        }
+    },
+    {
+        "name": "Gutim-1",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "gutim-1",
+        "screenshot": {
+            "light": "/assets/screen-web/gutim-1.jpg",
+            "dark": "/assets/screen-web/gutim-1.jpg"
+        }
+    },
+    {
+        "name": "Ignite",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "ignite",
+        "screenshot": {
+            "light": "/assets/screen-web/ignite.jpg",
+            "dark": "/assets/screen-web/ignite.jpg"
+        }
+    },
+    {
+        "name": "Judicial",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "judicial",
+        "screenshot": {
+            "light": "/assets/screen-web/judicial.jpg",
+            "dark": "/assets/screen-web/judicial.jpg"
+        }
+    },
+    {
+        "name": "Logisticgo",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "logisticgo",
+        "screenshot": {
+            "light": "/assets/screen-web/logisticgo.jpg",
+            "dark": "/assets/screen-web/logisticgo.jpg"
+        }
+    },
+    {
+        "name": "Melan",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "melan",
+        "screenshot": {
+            "light": "/assets/screen-web/melan.jpg",
+            "dark": "/assets/screen-web/melan.jpg"
+        }
+    },
+    {
+        "name": "Nonprofit",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "nonprofit",
+        "screenshot": {
+            "light": "/assets/screen-web/nonprofit.jpg",
+            "dark": "/assets/screen-web/nonprofit.jpg"
+        }
+    },
+    {
+        "name": "Pretty",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "pretty",
+        "screenshot": {
+            "light": "/assets/screen-web/pretty.jpg",
+            "dark": "/assets/screen-web/pretty.jpg"
+        }
+    },
+    {
+        "name": "Seo",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "seo",
+        "screenshot": {
+            "light": "/assets/screen-web/seo.jpg",
+            "dark": "/assets/screen-web/seo.jpg"
+        }
+    },
+    {
+        "name": "Startup",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "startup",
+        "screenshot": {
+            "light": "/assets/screen-web/startup.jpg",
+            "dark": "/assets/screen-web/startup.jpg"
+        }
+    },
+    {
+        "name": "Tourbi",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "tourbi",
+        "screenshot": {
+            "light": "/assets/screen-web/tourbi.jpg",
+            "dark": "/assets/screen-web/tourbi.jpg"
+        }
+    },
+    {
+        "name": "Whitespace",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "whitespace",
+        "screenshot": {
+            "light": "/assets/screen-web/whitespace.jpg",
+            "dark": "/assets/screen-web/whitespace.jpg"
+        }
+    },
+    {
+        "name": "Aspiration",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "aspiration",
+        "screenshot": {
+            "light": "/assets/screen-web/aspiration.jpg",
+            "dark": "/assets/screen-web/aspiration.jpg"
+        }
+    },
+    {
+        "name": "Busicol",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "busicol",
+        "screenshot": {
+            "light": "/assets/screen-web/busicol.jpg",
+            "dark": "/assets/screen-web/busicol.jpg"
+        }
+    },
+    {
+        "name": "Conbusi",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "conbusi",
+        "screenshot": {
+            "light": "/assets/screen-web/conbusi.jpg",
+            "dark": "/assets/screen-web/conbusi.jpg"
+        }
+    },
+    {
+        "name": "Dingo",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "dingo",
+        "screenshot": {
+            "light": "/assets/screen-web/dingo.jpg",
+            "dark": "/assets/screen-web/dingo.jpg"
+        }
+    },
+    {
+        "name": "Energen",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "energen",
+        "screenshot": {
+            "light": "/assets/screen-web/energen.jpg",
+            "dark": "/assets/screen-web/energen.jpg"
+        }
+    },
+    {
+        "name": "Fitzone2-0",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "fitzone2-0",
+        "screenshot": {
+            "light": "/assets/screen-web/fitzone2-0.jpg",
+            "dark": "/assets/screen-web/fitzone2-0.jpg"
+        }
+    },
+    {
+        "name": "Gutim-2",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "gutim-2",
+        "screenshot": {
+            "light": "/assets/screen-web/gutim-2.jpg",
+            "dark": "/assets/screen-web/gutim-2.jpg"
+        }
+    },
+    {
+        "name": "Imagine",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "imagine",
+        "screenshot": {
+            "light": "/assets/screen-web/imagine.jpg",
+            "dark": "/assets/screen-web/imagine.jpg"
+        }
+    },
+    {
+        "name": "Kanox",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "kanox",
+        "screenshot": {
+            "light": "/assets/screen-web/kanox.jpg",
+            "dark": "/assets/screen-web/kanox.jpg"
+        }
+    },
+    {
+        "name": "Lorahost",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "lorahost",
+        "screenshot": {
+            "light": "/assets/screen-web/lorahost.jpg",
+            "dark": "/assets/screen-web/lorahost.jpg"
+        }
+    },
+    {
+        "name": "Meranda",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "meranda",
+        "screenshot": {
+            "light": "/assets/screen-web/meranda.jpg",
+            "dark": "/assets/screen-web/meranda.jpg"
+        }
+    },
+    {
+        "name": "Oneder",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "oneder",
+        "screenshot": {
+            "light": "/assets/screen-web/oneder.jpg",
+            "dark": "/assets/screen-web/oneder.jpg"
+        }
+    },
+    {
+        "name": "Readit",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "readit",
+        "screenshot": {
+            "light": "/assets/screen-web/readit.jpg",
+            "dark": "/assets/screen-web/readit.jpg"
+        }
+    },
+    {
+        "name": "Shopmax",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "shopmax",
+        "screenshot": {
+            "light": "/assets/screen-web/shopmax.jpg",
+            "dark": "/assets/screen-web/shopmax.jpg"
+        }
+    },
+    /*
+    {
+        "name": "Stated",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "stated",
+        "screenshot": {
+            "light": "/assets/screen-web/stated.jpg",
+            "dark": "/assets/screen-web/stated.jpg"
+        }
+    },
+    {
+        "name": "Travelo",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "travelo",
+        "screenshot": {
+            "light": "/assets/screen-web/travelo.jpg",
+            "dark": "/assets/screen-web/travelo.jpg"
+        }
+    },
+    {
+        "name": "Winkel",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "winkel",
+        "screenshot": {
+            "light": "/assets/screen-web/winkel.jpg",
+            "dark": "/assets/screen-web/winkel.jpg"
+        }
+    },
+    {
+        "name": "Autoroad",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "autoroad",
+        "screenshot": {
+            "light": "/assets/screen-web/autoroad.jpg",
+            "dark": "/assets/screen-web/autoroad.jpg"
+        }
+    },
+    {
+        "name": "Camille",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "camille",
+        "screenshot": {
+            "light": "/assets/screen-web/camille.jpg",
+            "dark": "/assets/screen-web/camille.jpg"
+        }
+    },
+    {
+        "name": "Confer",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "confer",
+        "screenshot": {
+            "light": "/assets/screen-web/confer.jpg",
+            "dark": "/assets/screen-web/confer.jpg"
+        }
+    },
+    {
+        "name": "Directoryads",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "directoryads",
+        "screenshot": {
+            "light": "/assets/screen-web/directoryads.jpg",
+            "dark": "/assets/screen-web/directoryads.jpg"
+        }
+    },
+    {
+        "name": "Engineers",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "engineers",
+        "screenshot": {
+            "light": "/assets/screen-web/engineers.jpg",
+            "dark": "/assets/screen-web/engineers.jpg"
+        }
+    },
+    {
+        "name": "Fitzone2-1",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "fitzone2-1",
+        "screenshot": {
+            "light": "/assets/screen-web/fitzone2-1.jpg",
+            "dark": "/assets/screen-web/fitzone2-1.jpg"
+        }
+    },
+    {
+        "name": "Gutim",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "gutim",
+        "screenshot": {
+            "light": "/assets/screen-web/gutim.jpg",
+            "dark": "/assets/screen-web/gutim.jpg"
+        }
+    },
+    {
+        "name": "Inds",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "inds",
+        "screenshot": {
+            "light": "/assets/screen-web/inds.jpg",
+            "dark": "/assets/screen-web/inds.jpg"
+        }
+    },
+    {
+        "name": "Kiddy",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "kiddy",
+        "screenshot": {
+            "light": "/assets/screen-web/kiddy.jpg",
+            "dark": "/assets/screen-web/kiddy.jpg"
+        }
+    },
+    {
+        "name": "Magnews2",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "magnews2",
+        "screenshot": {
+            "light": "/assets/screen-web/magnews2.jpg",
+            "dark": "/assets/screen-web/magnews2.jpg"
+        }
+    },
+    {
+        "name": "Mighty",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "mighty",
+        "screenshot": {
+            "light": "/assets/screen-web/mighty.jpg",
+            "dark": "/assets/screen-web/mighty.jpg"
+        }
+    },
+    {
+        "name": "Oneschool",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "oneschool",
+        "screenshot": {
+            "light": "/assets/screen-web/oneschool.jpg",
+            "dark": "/assets/screen-web/oneschool.jpg"
+        }
+    },
+    {
+        "name": "Realestate2",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "realestate2",
+        "screenshot": {
+            "light": "/assets/screen-web/realestate2.jpg",
+            "dark": "/assets/screen-web/realestate2.jpg"
+        }
+    },
+    {
+        "name": "Shotgear",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "shotgear",
+        "screenshot": {
+            "light": "/assets/screen-web/shotgear.jpg",
+            "dark": "/assets/screen-web/shotgear.jpg"
+        }
+    },
+    {
+        "name": "Stayhome",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "stayhome",
+        "screenshot": {
+            "light": "/assets/screen-web/stayhome.jpg",
+            "dark": "/assets/screen-web/stayhome.jpg"
+        }
+    },
+    {
+        "name": "Trips",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "trips",
+        "screenshot": {
+            "light": "/assets/screen-web/trips.jpg",
+            "dark": "/assets/screen-web/trips.jpg"
+        }
+    },
+    {
+        "name": "Winter",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "winter",
+        "screenshot": {
+            "light": "/assets/screen-web/winter.jpg",
+            "dark": "/assets/screen-web/winter.jpg"
+        }
+    },
+    {
+        "name": "Azenta",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "azenta",
+        "screenshot": {
+            "light": "/assets/screen-web/azenta.jpg",
+            "dark": "/assets/screen-web/azenta.jpg"
+        }
+    },
+    {
+        "name": "Capture",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "capture",
+        "screenshot": {
+            "light": "/assets/screen-web/capture.jpg",
+            "dark": "/assets/screen-web/capture.jpg"
+        }
+    },
+    {
+        "name": "Consolution",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "consolution",
+        "screenshot": {
+            "light": "/assets/screen-web/consolution.jpg",
+            "dark": "/assets/screen-web/consolution.jpg"
+        }
+    },
+    {
+        "name": "Dizzi",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "dizzi",
+        "screenshot": {
+            "light": "/assets/screen-web/dizzi.jpg",
+            "dark": "/assets/screen-web/dizzi.jpg"
+        }
+    },
+    {
+        "name": "Erase",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "erase",
+        "screenshot": {
+            "light": "/assets/screen-web/erase.jpg",
+            "dark": "/assets/screen-web/erase.jpg"
+        }
+    },
+    {
+        "name": "Fitzone2-2",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "fitzone2-2",
+        "screenshot": {
+            "light": "/assets/screen-web/fitzone2-2.jpg",
+            "dark": "/assets/screen-web/fitzone2-2.jpg"
+        }
+    },
+    {
+        "name": "Gymer",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "gymer",
+        "screenshot": {
+            "light": "/assets/screen-web/gymer.jpg",
+            "dark": "/assets/screen-web/gymer.jpg"
+        }
+    },
+    {
+        "name": "Industrial",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "industrial",
+        "screenshot": {
+            "light": "/assets/screen-web/industrial.jpg",
+            "dark": "/assets/screen-web/industrial.jpg"
+        }
+    },
+    {
+        "name": "Knights",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "knights",
+        "screenshot": {
+            "light": "/assets/screen-web/knights.jpg",
+            "dark": "/assets/screen-web/knights.jpg"
+        }
+    },
+    {
+        "name": "Marga",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "marga",
+        "screenshot": {
+            "light": "/assets/screen-web/marga.jpg",
+            "dark": "/assets/screen-web/marga.jpg"
+        }
+    },
+    {
+        "name": "Miners",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "miners",
+        "screenshot": {
+            "light": "/assets/screen-web/miners.jpg",
+            "dark": "/assets/screen-web/miners.jpg"
+        }
+    },
+    {
+        "name": "Parason",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "parason",
+        "screenshot": {
+            "light": "/assets/screen-web/parason.jpg",
+            "dark": "/assets/screen-web/parason.jpg"
+        }
+    },
+    {
+        "name": "Rehomes",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "rehomes",
+        "screenshot": {
+            "light": "/assets/screen-web/rehomes.jpg",
+            "dark": "/assets/screen-web/rehomes.jpg"
+        }
+    },
+    {
+        "name": "Shutter",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "shutter",
+        "screenshot": {
+            "light": "/assets/screen-web/shutter.jpg",
+            "dark": "/assets/screen-web/shutter.jpg"
+        }
+    },
+    {
+        "name": "Stories",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "stories",
+        "screenshot": {
+            "light": "/assets/screen-web/stories.jpg",
+            "dark": "/assets/screen-web/stories.jpg"
+        }
+    },
+    {
+        "name": "Unearth",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "unearth",
+        "screenshot": {
+            "light": "/assets/screen-web/unearth.jpg",
+            "dark": "/assets/screen-web/unearth.jpg"
+        }
+    },
+    {
+        "name": "Wiser",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "wiser",
+        "screenshot": {
+            "light": "/assets/screen-web/wiser.jpg",
+            "dark": "/assets/screen-web/wiser.jpg"
+        }
+    },
+    {
+        "name": "Banker",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "banker",
+        "screenshot": {
+            "light": "/assets/screen-web/banker.jpg",
+            "dark": "/assets/screen-web/banker.jpg"
+        }
+    },
+    {
+        "name": "Carbook",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "carbook",
+        "screenshot": {
+            "light": "/assets/screen-web/carbook.jpg",
+            "dark": "/assets/screen-web/carbook.jpg"
+        }
+    },
+    {
+        "name": "Constructo",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "constructo",
+        "screenshot": {
+            "light": "/assets/screen-web/constructo.jpg",
+            "dark": "/assets/screen-web/constructo.jpg"
+        }
+    },
+    {
+        "name": "Docmed",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "docmed",
+        "screenshot": {
+            "light": "/assets/screen-web/docmed.jpg",
+            "dark": "/assets/screen-web/docmed.jpg"
+        }
+    },
+    {
+        "name": "Estate",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "estate",
+        "screenshot": {
+            "light": "/assets/screen-web/estate.jpg",
+            "dark": "/assets/screen-web/estate.jpg"
+        }
+    },
+    {
+        "name": "Fitzone2",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "fitzone2",
+        "screenshot": {
+            "light": "/assets/screen-web/fitzone2.jpg",
+            "dark": "/assets/screen-web/fitzone2.jpg"
+        }
+    },
+    {
+        "name": "Haircare",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "haircare",
+        "screenshot": {
+            "light": "/assets/screen-web/haircare.jpg",
+            "dark": "/assets/screen-web/haircare.jpg"
+        }
+    },
+    {
+        "name": "Industries",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "industries",
+        "screenshot": {
+            "light": "/assets/screen-web/industries.jpg",
+            "dark": "/assets/screen-web/industries.jpg"
+        }
+    },
+    {
+        "name": "Lagoon",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "lagoon",
+        "screenshot": {
+            "light": "/assets/screen-web/lagoon.jpg",
+            "dark": "/assets/screen-web/lagoon.jpg"
+        }
+    },
+    {
+        "name": "Marian",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "marian",
+        "screenshot": {
+            "light": "/assets/screen-web/marian.jpg",
+            "dark": "/assets/screen-web/marian.jpg"
+        }
+    },
+    {
+        "name": "Miniblog",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "miniblog",
+        "screenshot": {
+            "light": "/assets/screen-web/miniblog.jpg",
+            "dark": "/assets/screen-web/miniblog.jpg"
+        }
+    },
+    {
+        "name": "Pastel",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "pastel",
+        "screenshot": {
+            "light": "/assets/screen-web/pastel.jpg",
+            "dark": "/assets/screen-web/pastel.jpg"
+        }
+    },
+    {
+        "name": "Rental-0",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "rental-0",
+        "screenshot": {
+            "light": "/assets/screen-web/rental-0.jpg",
+            "dark": "/assets/screen-web/rental-0.jpg"
+        }
+    },
+    {
+        "name": "Sintec",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "sintec",
+        "screenshot": {
+            "light": "/assets/screen-web/sintec.jpg",
+            "dark": "/assets/screen-web/sintec.jpg"
+        }
+    },
+    {
+        "name": "Stylistic",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "stylistic",
+        "screenshot": {
+            "light": "/assets/screen-web/stylistic.jpg",
+            "dark": "/assets/screen-web/stylistic.jpg"
+        }
+    },
+    {
+        "name": "Uptown",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "uptown",
+        "screenshot": {
+            "light": "/assets/screen-web/uptown.jpg",
+            "dark": "/assets/screen-web/uptown.jpg"
+        }
+    },
+    {
+        "name": "Workout",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "workout",
+        "screenshot": {
+            "light": "/assets/screen-web/workout.jpg",
+            "dark": "/assets/screen-web/workout.jpg"
+        }
+    },
+    {
+        "name": "Barberz",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "barberz",
+        "screenshot": {
+            "light": "/assets/screen-web/barberz.jpg",
+            "dark": "/assets/screen-web/barberz.jpg"
+        }
+    },
+    {
+        "name": "Cargo",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "cargo",
+        "screenshot": {
+            "light": "/assets/screen-web/cargo.jpg",
+            "dark": "/assets/screen-web/cargo.jpg"
+        }
+    },
+    {
+        "name": "Consulting",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "consulting",
+        "screenshot": {
+            "light": "/assets/screen-web/consulting.jpg",
+            "dark": "/assets/screen-web/consulting.jpg"
+        }
+    },
+    {
+        "name": "Dogger",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "dogger",
+        "screenshot": {
+            "light": "/assets/screen-web/dogger.jpg",
+            "dark": "/assets/screen-web/dogger.jpg"
+        }
+    },
+    {
+        "name": "Etrain",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "etrain",
+        "screenshot": {
+            "light": "/assets/screen-web/etrain.jpg",
+            "dark": "/assets/screen-web/etrain.jpg"
+        }
+    },
+    {
+        "name": "Flatter",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "flatter",
+        "screenshot": {
+            "light": "/assets/screen-web/flatter.jpg",
+            "dark": "/assets/screen-web/flatter.jpg"
+        }
+    },
+    {
+        "name": "Halen",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "halen",
+        "screenshot": {
+            "light": "/assets/screen-web/halen.jpg",
+            "dark": "/assets/screen-web/halen.jpg"
+        }
+    },
+    {
+        "name": "Industryinc",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "industryinc",
+        "screenshot": {
+            "light": "/assets/screen-web/industryinc.jpg",
+            "dark": "/assets/screen-web/industryinc.jpg"
+        }
+    },
+    {
+        "name": "Landerz",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "landerz",
+        "screenshot": {
+            "light": "/assets/screen-web/landerz.jpg",
+            "dark": "/assets/screen-web/landerz.jpg"
+        }
+    },
+    {
+        "name": "Marimar",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "marimar",
+        "screenshot": {
+            "light": "/assets/screen-web/marimar.jpg",
+            "dark": "/assets/screen-web/marimar.jpg"
+        }
+    },
+    {
+        "name": "Minishop",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "minishop",
+        "screenshot": {
+            "light": "/assets/screen-web/minishop.jpg",
+            "dark": "/assets/screen-web/minishop.jpg"
+        }
+    },
+    {
+        "name": "Pexcon",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "pexcon",
+        "screenshot": {
+            "light": "/assets/screen-web/pexcon.jpg",
+            "dark": "/assets/screen-web/pexcon.jpg"
+        }
+    },
+    {
+        "name": "Rental-1",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "rental-1",
+        "screenshot": {
+            "light": "/assets/screen-web/rental-1.jpg",
+            "dark": "/assets/screen-web/rental-1.jpg"
+        }
+    },
+    {
+        "name": "Skillhunt",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "skillhunt",
+        "screenshot": {
+            "light": "/assets/screen-web/skillhunt.jpg",
+            "dark": "/assets/screen-web/skillhunt.jpg"
+        }
+    },
+    {
+        "name": "Summit",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "summit",
+        "screenshot": {
+            "light": "/assets/screen-web/summit.jpg",
+            "dark": "/assets/screen-web/summit.jpg"
+        }
+    },
+    {
+        "name": "Vacation",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "vacation",
+        "screenshot": {
+            "light": "/assets/screen-web/vacation.jpg",
+            "dark": "/assets/screen-web/vacation.jpg"
+        }
+    },
+    {
+        "name": "Xgym",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "xgym",
+        "screenshot": {
+            "light": "/assets/screen-web/xgym.jpg",
+            "dark": "/assets/screen-web/xgym.jpg"
+        }
+    },
+    {
+        "name": "Basketball",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "basketball",
+        "screenshot": {
+            "light": "/assets/screen-web/basketball.jpg",
+            "dark": "/assets/screen-web/basketball.jpg"
+        }
+    },
+    {
+        "name": "Carrent",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "carrent",
+        "screenshot": {
+            "light": "/assets/screen-web/carrent.jpg",
+            "dark": "/assets/screen-web/carrent.jpg"
+        }
+    },
+    {
+        "name": "Craft",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "craft",
+        "screenshot": {
+            "light": "/assets/screen-web/craft.jpg",
+            "dark": "/assets/screen-web/craft.jpg"
+        }
+    },
+    {
+        "name": "Doglife",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "doglife",
+        "screenshot": {
+            "light": "/assets/screen-web/doglife.jpg",
+            "dark": "/assets/screen-web/doglife.jpg"
+        }
+    },
+    {
+        "name": "Europa",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "europa",
+        "screenshot": {
+            "light": "/assets/screen-web/europa.jpg",
+            "dark": "/assets/screen-web/europa.jpg"
+        }
+    },
+    {
+        "name": "Foody",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "foody",
+        "screenshot": {
+            "light": "/assets/screen-web/foody.jpg",
+            "dark": "/assets/screen-web/foody.jpg"
+        }
+    },
+    {
+        "name": "Handyman",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "handyman",
+        "screenshot": {
+            "light": "/assets/screen-web/handyman.jpg",
+            "dark": "/assets/screen-web/handyman.jpg"
+        }
+    },
+    {
+        "name": "Innova",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "innova",
+        "screenshot": {
+            "light": "/assets/screen-web/innova.jpg",
+            "dark": "/assets/screen-web/innova.jpg"
+        }
+    },
+    {
+        "name": "Lawride",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "lawride",
+        "screenshot": {
+            "light": "/assets/screen-web/lawride.jpg",
+            "dark": "/assets/screen-web/lawride.jpg"
+        }
+    },
+    {
+        "name": "Martine",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "martine",
+        "screenshot": {
+            "light": "/assets/screen-web/martine.jpg",
+            "dark": "/assets/screen-web/martine.jpg"
+        }
+    },
+    {
+        "name": "Modist",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "modist",
+        "screenshot": {
+            "light": "/assets/screen-web/modist.jpg",
+            "dark": "/assets/screen-web/modist.jpg"
+        }
+    },
+    {
+        "name": "Pharma",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "pharma",
+        "screenshot": {
+            "light": "/assets/screen-web/pharma.jpg",
+            "dark": "/assets/screen-web/pharma.jpg"
+        }
+    },
+    {
+        "name": "Rental-2",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "rental-2",
+        "screenshot": {
+            "light": "/assets/screen-web/rental-2.jpg",
+            "dark": "/assets/screen-web/rental-2.jpg"
+        }
+    },
+    {
+        "name": "Slim",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "slim",
+        "screenshot": {
+            "light": "/assets/screen-web/slim.jpg",
+            "dark": "/assets/screen-web/slim.jpg"
+        }
+    },
+    {
+        "name": "Sunshine",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "sunshine",
+        "screenshot": {
+            "light": "/assets/screen-web/sunshine.jpg",
+            "dark": "/assets/screen-web/sunshine.jpg"
+        }
+    },
+    {
+        "name": "Vegefoods",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "vegefoods",
+        "screenshot": {
+            "light": "/assets/screen-web/vegefoods.jpg",
+            "dark": "/assets/screen-web/vegefoods.jpg"
+        }
+    },
+    {
+        "name": "Yogafun",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "yogafun",
+        "screenshot": {
+            "light": "/assets/screen-web/yogafun.jpg",
+            "dark": "/assets/screen-web/yogafun.jpg"
+        }
+    },
+    {
+        "name": "Bcharity",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "bcharity",
+        "screenshot": {
+            "light": "/assets/screen-web/bcharity.jpg",
+            "dark": "/assets/screen-web/bcharity.jpg"
+        }
+    },
+    {
+        "name": "Cassi",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "cassi",
+        "screenshot": {
+            "light": "/assets/screen-web/cassi.jpg",
+            "dark": "/assets/screen-web/cassi.jpg"
+        }
+    },
+    {
+        "name": "Creative-agency",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "creative-agency",
+        "screenshot": {
+            "light": "/assets/screen-web/creative-agency.jpg",
+            "dark": "/assets/screen-web/creative-agency.jpg"
+        }
+    },
+    {
+        "name": "Doyoga",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "doyoga",
+        "screenshot": {
+            "light": "/assets/screen-web/doyoga.jpg",
+            "dark": "/assets/screen-web/doyoga.jpg"
+        }
+    },
+    {
+        "name": "Evans",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "evans",
+        "screenshot": {
+            "light": "/assets/screen-web/evans.jpg",
+            "dark": "/assets/screen-web/evans.jpg"
+        }
+    },
+    {
+        "name": "Fox",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "fox",
+        "screenshot": {
+            "light": "/assets/screen-web/fox.jpg",
+            "dark": "/assets/screen-web/fox.jpg"
+        }
+    },
+    {
+        "name": "Harbor",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "harbor",
+        "screenshot": {
+            "light": "/assets/screen-web/harbor.jpg",
+            "dark": "/assets/screen-web/harbor.jpg"
+        }
+    },
+    {
+        "name": "Instylr",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "instylr",
+        "screenshot": {
+            "light": "/assets/screen-web/instylr.jpg",
+            "dark": "/assets/screen-web/instylr.jpg"
+        }
+    },
+    {
+        "name": "Lawyer",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "lawyer",
+        "screenshot": {
+            "light": "/assets/screen-web/lawyer.jpg",
+            "dark": "/assets/screen-web/lawyer.jpg"
+        }
+    },
+    {
+        "name": "Me",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "me",
+        "screenshot": {
+            "light": "/assets/screen-web/me.jpg",
+            "dark": "/assets/screen-web/me.jpg"
+        }
+    },
+    {
+        "name": "Mondy",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "mondy",
+        "screenshot": {
+            "light": "/assets/screen-web/mondy.jpg",
+            "dark": "/assets/screen-web/mondy.jpg"
+        }
+    },
+    {
+        "name": "Phoenix",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "phoenix",
+        "screenshot": {
+            "light": "/assets/screen-web/phoenix.jpg",
+            "dark": "/assets/screen-web/phoenix.jpg"
+        }
+    },
+    {
+        "name": "Rental",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "rental",
+        "screenshot": {
+            "light": "/assets/screen-web/rental.jpg",
+            "dark": "/assets/screen-web/rental.jpg"
+        }
+    },
+    {
+        "name": "Snapshot",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "snapshot",
+        "screenshot": {
+            "light": "/assets/screen-web/snapshot.jpg",
+            "dark": "/assets/screen-web/snapshot.jpg"
+        }
+    },
+    {
+        "name": "Supreme",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "supreme",
+        "screenshot": {
+            "light": "/assets/screen-web/supreme.jpg",
+            "dark": "/assets/screen-web/supreme.jpg"
+        }
+    },
+    {
+        "name": "Vigor-0",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "vigor-0",
+        "screenshot": {
+            "light": "/assets/screen-web/vigor-0.jpg",
+            "dark": "/assets/screen-web/vigor-0.jpg"
+        }
+    },
+    {
+        "name": "Yogalax",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "yogalax",
+        "screenshot": {
+            "light": "/assets/screen-web/yogalax.jpg",
+            "dark": "/assets/screen-web/yogalax.jpg"
+        }
+    },
+    {
+        "name": "Beko",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "beko",
+        "screenshot": {
+            "light": "/assets/screen-web/beko.jpg",
+            "dark": "/assets/screen-web/beko.jpg"
+        }
+    },
+    {
+        "name": "Charifit",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "charifit",
+        "screenshot": {
+            "light": "/assets/screen-web/charifit.jpg",
+            "dark": "/assets/screen-web/charifit.jpg"
+        }
+    },
+    {
+        "name": "Cryptian",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "cryptian",
+        "screenshot": {
+            "light": "/assets/screen-web/cryptian.jpg",
+            "dark": "/assets/screen-web/cryptian.jpg"
+        }
+    },
+    {
+        "name": "Dreamrs",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "dreamrs",
+        "screenshot": {
+            "light": "/assets/screen-web/dreamrs.jpg",
+            "dark": "/assets/screen-web/dreamrs.jpg"
+        }
+    },
+    {
+        "name": "Eventcon",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "eventcon",
+        "screenshot": {
+            "light": "/assets/screen-web/eventcon.jpg",
+            "dark": "/assets/screen-web/eventcon.jpg"
+        }
+    },
+    {
+        "name": "Funder",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "funder",
+        "screenshot": {
+            "light": "/assets/screen-web/funder.jpg",
+            "dark": "/assets/screen-web/funder.jpg"
+        }
+    },
+    {
+        "name": "Harborlight",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "harborlight",
+        "screenshot": {
+            "light": "/assets/screen-web/harborlight.jpg",
+            "dark": "/assets/screen-web/harborlight.jpg"
+        }
+    },
+    {
+        "name": "Interior",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "interior",
+        "screenshot": {
+            "light": "/assets/screen-web/interior.jpg",
+            "dark": "/assets/screen-web/interior.jpg"
+        }
+    },
+    {
+        "name": "Legalcare",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "legalcare",
+        "screenshot": {
+            "light": "/assets/screen-web/legalcare.jpg",
+            "dark": "/assets/screen-web/legalcare.jpg"
+        }
+    },
+    {
+        "name": "Medcare",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "medcare",
+        "screenshot": {
+            "light": "/assets/screen-web/medcare.jpg",
+            "dark": "/assets/screen-web/medcare.jpg"
+        }
+    },
+    {
+        "name": "Montana",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "montana",
+        "screenshot": {
+            "light": "/assets/screen-web/montana.jpg",
+            "dark": "/assets/screen-web/montana.jpg"
+        }
+    },
+    {
+        "name": "Photographer",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "photographer",
+        "screenshot": {
+            "light": "/assets/screen-web/photographer.jpg",
+            "dark": "/assets/screen-web/photographer.jpg"
+        }
+    },
+    {
+        "name": "Resta",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "resta",
+        "screenshot": {
+            "light": "/assets/screen-web/resta.jpg",
+            "dark": "/assets/screen-web/resta.jpg"
+        }
+    },
+    {
+        "name": "Sneaky",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "sneaky",
+        "screenshot": {
+            "light": "/assets/screen-web/sneaky.jpg",
+            "dark": "/assets/screen-web/sneaky.jpg"
+        }
+    },
+    {
+        "name": "Tastyrecipes",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "tastyrecipes",
+        "screenshot": {
+            "light": "/assets/screen-web/tastyrecipes.jpg",
+            "dark": "/assets/screen-web/tastyrecipes.jpg"
+        }
+    },
+    {
+        "name": "Vigor",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "vigor",
+        "screenshot": {
+            "light": "/assets/screen-web/vigor.jpg",
+            "dark": "/assets/screen-web/vigor.jpg"
+        }
+    },
+    {
+        "name": "Yogastudio",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "yogastudio",
+        "screenshot": {
+            "light": "/assets/screen-web/yogastudio.jpg",
+            "dark": "/assets/screen-web/yogastudio.jpg"
+        }
+    },
+    {
+        "name": "Bizcon",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "bizcon",
+        "screenshot": {
+            "light": "/assets/screen-web/bizcon.jpg",
+            "dark": "/assets/screen-web/bizcon.jpg"
+        }
+    },
+    {
+        "name": "Charilife",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "charilife",
+        "screenshot": {
+            "light": "/assets/screen-web/charilife.jpg",
+            "dark": "/assets/screen-web/charilife.jpg"
+        }
+    },
+    {
+        "name": "Daren",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "daren",
+        "screenshot": {
+            "light": "/assets/screen-web/daren.jpg",
+            "dark": "/assets/screen-web/daren.jpg"
+        }
+    },
+    {
+        "name": "Durg",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "durg",
+        "screenshot": {
+            "light": "/assets/screen-web/durg.jpg",
+            "dark": "/assets/screen-web/durg.jpg"
+        }
+    },
+    {
+        "name": "Expert",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "expert",
+        "screenshot": {
+            "light": "/assets/screen-web/expert.jpg",
+            "dark": "/assets/screen-web/expert.jpg"
+        }
+    },
+    {
+        "name": "Fundraiser",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "fundraiser",
+        "screenshot": {
+            "light": "/assets/screen-web/fundraiser.jpg",
+            "dark": "/assets/screen-web/fundraiser.jpg"
+        }
+    },
+    {
+        "name": "Heaven",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "heaven",
+        "screenshot": {
+            "light": "/assets/screen-web/heaven.jpg",
+            "dark": "/assets/screen-web/heaven.jpg"
+        }
+    },
+    {
+        "name": "Ionize",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "ionize",
+        "screenshot": {
+            "light": "/assets/screen-web/ionize.jpg",
+            "dark": "/assets/screen-web/ionize.jpg"
+        }
+    },
+    {
+        "name": "Lifecoach",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "lifecoach",
+        "screenshot": {
+            "light": "/assets/screen-web/lifecoach.jpg",
+            "dark": "/assets/screen-web/lifecoach.jpg"
+        }
+    },
+    {
+        "name": "Medi",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "medi",
+        "screenshot": {
+            "light": "/assets/screen-web/medi.jpg",
+            "dark": "/assets/screen-web/medi.jpg"
+        }
+    },
+    {
+        "name": "Musico",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "musico",
+        "screenshot": {
+            "light": "/assets/screen-web/musico.jpg",
+            "dark": "/assets/screen-web/musico.jpg"
+        }
+    },
+    {
+        "name": "Photomedia",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "photomedia",
+        "screenshot": {
+            "light": "/assets/screen-web/photomedia.jpg",
+            "dark": "/assets/screen-web/photomedia.jpg"
+        }
+    },
+    {
+        "name": "Roberto",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "roberto",
+        "screenshot": {
+            "light": "/assets/screen-web/roberto.jpg",
+            "dark": "/assets/screen-web/roberto.jpg"
+        }
+    },
+    {
+        "name": "Snipp",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "snipp",
+        "screenshot": {
+            "light": "/assets/screen-web/snipp.jpg",
+            "dark": "/assets/screen-web/snipp.jpg"
+        }
+    },
+    {
+        "name": "Thebarber",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "thebarber",
+        "screenshot": {
+            "light": "/assets/screen-web/thebarber.jpg",
+            "dark": "/assets/screen-web/thebarber.jpg"
+        }
+    },
+    {
+        "name": "Vineyard",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "vineyard",
+        "screenshot": {
+            "light": "/assets/screen-web/vineyard.jpg",
+            "dark": "/assets/screen-web/vineyard.jpg"
+        }
+    },
+    {
+        "name": "Youragent",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "youragent",
+        "screenshot": {
+            "light": "/assets/screen-web/youragent.jpg",
+            "dark": "/assets/screen-web/youragent.jpg"
+        }
+    },
+    {
+        "name": "Booke",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "booke",
+        "screenshot": {
+            "light": "/assets/screen-web/booke.jpg",
+            "dark": "/assets/screen-web/booke.jpg"
+        }
+    },
+    {
+        "name": "Chimper",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "chimper",
+        "screenshot": {
+            "light": "/assets/screen-web/chimper.jpg",
+            "dark": "/assets/screen-web/chimper.jpg"
+        }
+    },
+    {
+        "name": "Dealers",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "dealers",
+        "screenshot": {
+            "light": "/assets/screen-web/dealers.jpg",
+            "dark": "/assets/screen-web/dealers.jpg"
+        }
+    },
+    {
+        "name": "Eatery",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "eatery",
+        "screenshot": {
+            "light": "/assets/screen-web/eatery.jpg",
+            "dark": "/assets/screen-web/eatery.jpg"
+        }
+    },
+    {
+        "name": "Fancy",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "fancy",
+        "screenshot": {
+            "light": "/assets/screen-web/fancy.jpg",
+            "dark": "/assets/screen-web/fancy.jpg"
+        }
+    },
+    {
+        "name": "Gilb",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "gilb",
+        "screenshot": {
+            "light": "/assets/screen-web/gilb.jpg",
+            "dark": "/assets/screen-web/gilb.jpg"
+        }
+    },
+    {
+        "name": "Hipstyle",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "hipstyle",
+        "screenshot": {
+            "light": "/assets/screen-web/hipstyle.jpg",
+            "dark": "/assets/screen-web/hipstyle.jpg"
+        }
+    },
+    {
+        "name": "Jackson",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "jackson",
+        "screenshot": {
+            "light": "/assets/screen-web/jackson.jpg",
+            "dark": "/assets/screen-web/jackson.jpg"
+        }
+    },
+    {
+        "name": "Lifeleck",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "lifeleck",
+        "screenshot": {
+            "light": "/assets/screen-web/lifeleck.jpg",
+            "dark": "/assets/screen-web/lifeleck.jpg"
+        }
+    },
+    {
+        "name": "Medico",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "medico",
+        "screenshot": {
+            "light": "/assets/screen-web/medico.jpg",
+            "dark": "/assets/screen-web/medico.jpg"
+        }
+    },
+    {
+        "name": "Negotiate",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "negotiate",
+        "screenshot": {
+            "light": "/assets/screen-web/negotiate.jpg",
+            "dark": "/assets/screen-web/negotiate.jpg"
+        }
+    },
+    {
+        "name": "Plataforma",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "plataforma",
+        "screenshot": {
+            "light": "/assets/screen-web/plataforma.jpg",
+            "dark": "/assets/screen-web/plataforma.jpg"
+        }
+    },
+    {
+        "name": "Ronaldo",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "ronaldo",
+        "screenshot": {
+            "light": "/assets/screen-web/ronaldo.jpg",
+            "dark": "/assets/screen-web/ronaldo.jpg"
+        }
+    },
+    {
+        "name": "Solmusic",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "solmusic",
+        "screenshot": {
+            "light": "/assets/screen-web/solmusic.jpg",
+            "dark": "/assets/screen-web/solmusic.jpg"
+        }
+    },
+    {
+        "name": "Thelook",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "thelook",
+        "screenshot": {
+            "light": "/assets/screen-web/thelook.jpg",
+            "dark": "/assets/screen-web/thelook.jpg"
+        }
+    },
+    {
+        "name": "Violet",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "violet",
+        "screenshot": {
+            "light": "/assets/screen-web/violet.jpg",
+            "dark": "/assets/screen-web/violet.jpg"
+        }
+    }
+    */
+]

@@ -1,0 +1,1 @@
+export const base64String = (arrayBuffer: any[]) => window.btoa(String.fromCharCode(...new Uint8Array(arrayBuffer)));

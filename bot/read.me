@@ -1,0 +1,33 @@
+================================================================================
+https://dev-bot.aythen.com => 4010
+
+
+================================================================================
+
+Crear un bot en Node.js que se ejecute cada 5 minutos y realice las funciones 
+del operador. El objetivo es ayudar a los freelancers disponibles y almacenar 
+las tareas en un excel. 
+
+El flujo del bot sería el siguiente:
+- Cuando el freelancer inicia se le asignan varias tareas y se le selecciona con 
+  una letra cual quiere empezar. 
+- Antes de iniciar la tarea se le propone una guía, si tiene dudas se envía al 
+  supervisor un mensaje. El supervisor puede enviar un mensaje que será reenviado 
+  al freelancer o decirle que pase a la siguiente tarea.
+- Si se le asigna una tarea de 120 minutos, el bot esperará hasta preguntarle al 
+  freelancer si tiene alguna duda.
+- Una vez que se termine el turno, se le enviará un recordatorio para que rellene 
+  el informe y con la propuesta de la entrega. Se nos enviará un mensaje con las 
+  tareas realizadas y si los objetivos han sido cumplidos.
+- Actualizar el excel según los resultados.
+- Enviar un excel cada 2 horas con el resumen de lo que se está realizando de todos 
+  los freelancers.
+- Notificar a Carles en caso de necesitar ayuda, gestionar las dudas planteadas y 
+  realizar el seguimiento de las tareas en un archivo de Excel.
+
+Crear un json diario, que permita saber quien esta disponible para trabajar según 
+la tabla, y que analice quien estuvo trabajando según los resultados del bot.
+- Poder leer el excel y actualizar según los objetivos.
+- Poder asignar tareas.
+- Poder enviar mensajes a cualquier persona. 
+- Poder responder una persona.

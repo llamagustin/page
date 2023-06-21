@@ -1,0 +1,121 @@
+{
+    "title": "Grocer",
+    "subtitle": "Woocommerce Grocery Ordering App with Grocery Delivery App",
+    "resume": "Grocer is readymade grocery app solution can be used as woocommerce grocery app, wordpress grocery ecommerce app.  Grocery mobile app development company can help you to create your online grocery store. We build Grocery Delivery App for Android/iOS, & offer on demand grocery store app development services.",
+    "app": [
+        {
+            "type": "both",
+            "info": "App for customers to order groceries and get them delivered to their doorstep.",
+            "user": "+91 8888 8888 88 (India)",
+            "password": "12341234",
+            "title": "User App"
+        },
+        {
+            "type": "both",
+            "info": "App for the sellers to manage their orders.",
+            "user": "testadmin",
+            "password": "testadmin",
+            "title": "Admin App"
+        },
+        {
+            "type": "both",
+            "info": "App for the delivery person to get delivery orders and navigate the location.",
+            "user": "+91 7777 7777 77 (India)",
+            "password": "12341234",
+            "title": "Delivery App"
+        },
+        {
+            "type": "web",
+            "info": "Admin Panel exists in order to give you control over your app.",
+            "user": "testadmin",
+            "password": "testadmin",
+            "title": "Admin Panel"
+        }
+    ],
+    "data": [
+        {
+            "title": "User App",
+            "info": "You can order online through this one-stop grocery store. This app brings fresh produce to your doorstep.",
+            "content": [
+                "Social login and OTP verification",
+                "Browse by categories",
+                "Product detail",
+                "All orders view",
+                "Order status",
+                "Saved Addresses",
+                "Real-time chat with admin",
+                "Change language including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/grocer/screenshots/user/1.png",
+                "assets/img/app-info/grocer/screenshots/user/2.png",
+                "assets/img/app-info/grocer/screenshots/user/3.png",
+                "assets/img/app-info/grocer/screenshots/user/4.png",
+                "assets/img/app-info/grocer/screenshots/user/5.png",
+                "assets/img/app-info/grocer/screenshots/user/6.png",
+                "assets/img/app-info/grocer/screenshots/user/7.png",
+                "assets/img/app-info/grocer/screenshots/user/8.png"
+            ]
+        },
+        {
+            "title": "Admin App",
+            "info": "Grocer Admin app allows admin to manage their orders and revenues as well as it allows real-time chat with the customer. A clean & simple UI makes it easy to understand the process.",
+            "content": [
+                "Dashboard",
+                "New/Past order view",
+                "Order detail",
+                "Customer info",
+                "All item list view",
+                "Add/Edit product & Category",
+                "Real-time chat with customer",
+                "Change language including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/grocer/screenshots/admin_app/1.png",
+                "assets/img/app-info/grocer/screenshots/admin_app/2.png",
+                "assets/img/app-info/grocer/screenshots/admin_app/3.png",
+                "assets/img/app-info/grocer/screenshots/admin_app/4.png",
+                "assets/img/app-info/grocer/screenshots/admin_app/5.png",
+                "assets/img/app-info/grocer/screenshots/admin_app/6.png",
+                "assets/img/app-info/grocer/screenshots/admin_app/7.png",
+                "assets/img/app-info/grocer/screenshots/admin_app/8.png"
+            ]
+        },
+        {
+            "title": "Delivery App",
+            "info": "Delivery app is to get delivery and pick up orders and get to know about delivery info such as a delivery address, delivery items, date & time, etc.",
+            "content": [
+                "New/past order view",
+                "Navigation to Vendor/customer",
+                "View order details",
+                "Notifications",
+                "Earnings",
+                "Change language including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/grocer/screenshots/delivery_app/1.png",
+                "assets/img/app-info/grocer/screenshots/delivery_app/2.png",
+                "assets/img/app-info/grocer/screenshots/delivery_app/3.png",
+                "assets/img/app-info/grocer/screenshots/delivery_app/4.png",
+                "assets/img/app-info/grocer/screenshots/delivery_app/5.png",
+                "assets/img/app-info/grocer/screenshots/delivery_app/6.png"
+            ]
+        },
+        {
+            "title": "Admin Panel",
+            "info": "Wordpress (woocommerce) web admin panel with a customized plugin for our application that controls every aspect of users and delivery person.",
+            "content": [
+                "Delivery Person management",
+                "Assign delivery person",
+                "Banner management",
+                "Control other settings of app"
+            ],
+            "images": [
+                "assets/img/app-info/grocer/screenshots/admin/1.png",
+                "assets/img/app-info/grocer/screenshots/admin/2.png",
+                "assets/img/app-info/grocer/screenshots/admin/3.png",
+                "assets/img/app-info/grocer/screenshots/admin/4.png"
+            ]
+        }
+    ]
+}

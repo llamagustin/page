@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Academics",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "academics",
+        "screenshot": {
+            "light": "/assets/screen-web/academics.jpg",
+            "dark": "/assets/screen-web/academics.jpg"
+        }
+    },
+    {
+        "name": "Aranoz",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "aranoz",
+        "screenshot": {
+            "light": "/assets/screen-web/aranoz.jpg",
+            "dark": "/assets/screen-web/aranoz.jpg"
+        }
+    },
+    {
+        "name": "Boxe",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "boxe",
+        "screenshot": {
+            "light": "/assets/screen-web/boxe.jpg",
+            "dark": "/assets/screen-web/boxe.jpg"
+        }
+    },
+    {
+        "name": "Christian",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "christian",
+        "screenshot": {
+            "light": "/assets/screen-web/christian.jpg",
+            "dark": "/assets/screen-web/christian.jpg"
+        }
+    },
+    {
+        "name": "Deejee",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "deejee",
+        "screenshot": {
+            "light": "/assets/screen-web/deejee.jpg",
+            "dark": "/assets/screen-web/deejee.jpg"
+        }
+    },
+    {
+        "name": "Ecobit",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "ecobit",
+        "screenshot": {
+            "light": "/assets/screen-web/ecobit.jpg",
+            "dark": "/assets/screen-web/ecobit.jpg"
+        }
+    },
+    {
+        "name": "Feliciano",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "feliciano",
+        "screenshot": {
+            "light": "/assets/screen-web/feliciano.jpg",
+            "dark": "/assets/screen-web/feliciano.jpg"
+        }
+    },
+    {
+        "name": "Glamour",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "glamour",
+        "screenshot": {
+            "light": "/assets/screen-web/glamour.jpg",
+            "dark": "/assets/screen-web/glamour.jpg"
+        }
+    },
+    {
+        "name": "Homes",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "homes",
+        "screenshot": {
+            "light": "/assets/screen-web/homes.jpg",
+            "dark": "/assets/screen-web/homes.jpg"
+        }
+    },
+    {
+        "name": "Jobboard2",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "jobboard2",
+        "screenshot": {
+            "light": "/assets/screen-web/jobboard2.jpg",
+            "dark": "/assets/screen-web/jobboard2.jpg"
+        }
+    },
+    {
+        "name": "Listed",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "listed",
+        "screenshot": {
+            "light": "/assets/screen-web/listed.jpg",
+            "dark": "/assets/screen-web/listed.jpg"
+        }
+    },
+    {
+        "name": "Mediplus",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "mediplus",
+        "screenshot": {
+            "light": "/assets/screen-web/mediplus.jpg",
+            "dark": "/assets/screen-web/mediplus.jpg"
+        }
+    },
+    {
+        "name": "Neutral",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "neutral",
+        "screenshot": {
+            "light": "/assets/screen-web/neutral.jpg",
+            "dark": "/assets/screen-web/neutral.jpg"
+        }
+    },
+    {
+        "name": "Pointer",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "pointer",
+        "screenshot": {
+            "light": "/assets/screen-web/pointer.jpg",
+            "dark": "/assets/screen-web/pointer.jpg"
+        }
+    },
+    {
+        "name": "Safario",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "safario",
+        "screenshot": {
+            "light": "/assets/screen-web/safario.jpg",
+            "dark": "/assets/screen-web/safario.jpg"
+        }
+    },
+    {
+        "name": "Sona",
+        "category": "Marketing",
+        "displayOrder": 1,
+        "new": false,
+        "link": false,
+        "route": "sona",
+        "screenshot": {
+            "light": "/assets/screen-web/sona.jpg",
+            "dark": "/assets/screen-web/sona.jpg"
+        }
+    }
+]

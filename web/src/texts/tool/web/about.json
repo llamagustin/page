@@ -1,0 +1,16 @@
+[
+  {
+    "name": "About 1",
+    "category": "Startup",
+    "displayOrder": 1,
+    "new": false,
+    "route": {
+      "name": "web-grant",
+      "path": "/web/grant"
+    },
+    "screenshot": {
+      "light": "/assets/screenshots/about-1.png",
+      "dark": "/assets/screenshots/about-1-dark.png"
+    }
+  }
+]

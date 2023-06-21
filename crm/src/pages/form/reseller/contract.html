@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html>
+    <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script src="https://unpkg.com/phosphor-icons"></script>
+        <style>
+          
+          	body {
+              	padding-left: 2.5rem;
+                padding-right: 2.5rem;
+              	padding-top: 2rem;        
+                line-height:1.8;
+              	font-family:"Times New Roman", serif;
+              	font-size: 200%;          	
+              	             
+          	}
+          	
+          
+          	#h3_center {
+  			text-align: center;
+			}
+          
+          	.idt:first-letter {               	 
+              	margin-left: 40px;
+          	}
+          
+          	ol.n {
+              	list-style-type: none;
+          		list-style-position: outside;
+              	line-height:1.8;
+          	}
+          
+          	.row {display: flex;}
+
+			.column {flex: 50%;}     
+          	          
+          	.div:empty{
+              	outline: 2px solid deeppink;
+   				height: 1em;
+          	}
+          
+          	.header{
+              padding-top:200rem;
+          		}
+          
+          	.table-1{
+              	              	
+          	}
+          
+          	@page { 
+   				 @bottom-center { content: element(footer) }
+			}
+              
+          
+            @font-face {
+                font-family: 'Inter';
+                src: url('Inter-Regular.ttf') format('truetype');
+                font-weight: 400;
+                font-style: normal;
+            }
+
+            @font-face {
+                font-family: 'Inter';
+                src: url('Inter-Medium.ttf') format('truetype');
+                font-weight: 500;
+                font-style: normal;
+            }
+
+            @font-face {
+                font-family: 'Inter';
+                src: url('Inter-Bold.ttf') format('truetype');
+                font-weight: 700;
+                font-style: normal;
+            }
+
+            @font-face {
+                font-family: 'Space Mono';
+                src: url('SpaceMono-Regular.ttf') format('truetype');
+                font-weight: 400;
+                font-style: normal;
+            }
+
+            body {
+                font-size: 0.75rem;
+                font-family: 'Inter', sans-serif;
+                font-weight: 400;
+                color: #000000;
+                margin: 0 auto;
+                position: relative;
+            }
+
+            #pspdfkit-header {
+                font-size: 0.625rem;
+                text-transform: uppercase;
+                letter-spacing: 2px;
+                font-weight: 400;
+                color: #717885;
+                margin-top: 1.5rem;
+                margin-bottom: 2.5rem;
+                width: 100%;
+            }
+
+            .header-columns {
+                display: flex;
+                justify-content: space-between;
+                padding-left: 2.5rem;
+                padding-right: 2.5rem;
+            }
+
+            .logo {
+                height: 1.5rem;
+                width: auto;
+                margin-right: 1rem;
+            }
+
+            .logotype {
+                display: flex;
+                align-items: center;
+                font-weight: 700;
+            }
+
+            h2 {
+                font-family: 'Space Mono', monospace;
+                font-size: 1.25rem;
+                font-weight: 400;
+            }
+
+            h4 {
+                font-family: 'Space Mono', monospace;
+                font-size: 1rem;
+                font-weight: 400;
+            }
+
+            .page {
+                margin-left: 5rem;
+                margin-right: 5rem;
+            }
+
+            .intro-table {
+                display: flex;
+                justify-content: space-between;
+                margin: 3rem 0 5rem 0;
+                border-top: 1px solid #000000;
+                border-bottom: 1px solid #000000;
+            }
+
+            .intro-form {
+                display: flex;
+                flex-direction: column;
+                border-right: 1px solid #000000;
+                width: 33%;
+            }
+
+            .intro-form:last-child {
+                border-right: none;
+            }
+
+            .intro-table-title {
+                font-size: 0.625rem;
+                margin: 0;
+            }
+
+            .intro-form-item {
+                padding: 1.25rem 1.5rem 1.25rem 1.5rem;
+            }
+
+            .intro-form-item:first-child {
+                padding-left: 0;
+            }
+
+            .intro-form-item:last-child {
+                padding-right: 0;
+            }
+
+            .intro-form-item-border {
+                padding: 1.25rem 0 .75rem 1.5rem;
+                border-bottom: 1px solid #000000;
+            }
+
+            .intro-form-item-border:last-child {
+                border-bottom: none;
+            }
+
+            .form {
+                display: flex;
+                flex-direction: column;
+                margin-top: 6rem;
+            }
+
+            .no-border {
+                border: none;
+            }
+
+            .border {
+                border: 1px solid #000000;
+            }
+
+            .border-bottom {
+                border: 1px solid #000000;
+                border-top: none;
+                border-left: none;
+                border-right: none;
+            }
+
+            .signer {
+                display: flex;
+                justify-content: space-between;
+                gap: 2.5rem;
+                margin: 2rem 0 2rem 0;
+            }
+
+            .signer-item {
+                flex-grow: 1;
+            }
+
+            input {
+                color: #4537DE;
+                font-family: 'Space Mono', monospace;
+                text-align: center;
+                margin-top: 1.5rem;
+                height: 4rem;
+                width: 100%;
+                box-sizing: border-box;
+            }
+
+            input#date, input#notes {
+                text-align: left;
+            }
+
+            input#signature {
+                height: 8rem;
+            }
+
+            .intro-text {
+                width: 60%;
+            }
+
+            .table-box table, .summary-box table {
+                width: 100%;
+                font-size: 0.625rem;
+            }
+
+            .table-box table {
+                padding-top: 2rem;
+            }
+
+            .table-box td:first-child, .summary-box td:first-child  {
+                width: 50%;
+            }
+
+            .table-box td:last-child, .summary-box td:last-child {
+                text-align: right;
+            }
+
+            .table-box table tr.heading td {
+                border-top: 1px solid #000000;
+                border-bottom: 1px solid #000000;
+                height: 1.5rem;
+            }
+
+            .table-box table tr.item td, .summary-box table tr.item td {
+                border-bottom: 1px solid #D7DCE4;
+                height: 1.5rem;
+            }
+
+            .summary-box table tr.no-border-item td {
+                border-bottom: none;
+                height: 1.5rem;
+            }
+
+            .summary-box table tr.total td {
+                border-top: 1px solid #000000;
+                border-bottom: 1px solid #000000;
+                height: 1.5rem;
+            }
+
+            .summary-box table tr.item td:first-child, .summary-box table tr.total td:first-child {
+                border: none;
+                height: 1.5rem;
+            }
+
+            #pspdfkit-footer {
+                font-size: 0.5rem;
+                text-transform: uppercase;
+                letter-spacing: 1px;
+                font-weight: 500;
+                color: #717885;
+                margin-top: 2.5rem;
+                bottom: 2.5rem;
+                position: absolute;
+                width: 100%;
+            }
+
+            .footer-columns {
+                display: flex;
+                justify-content: space-between;
+                padding-left: 2.5rem;
+                padding-right: 2.5rem;
+            }
+        </style>
+    </head>
+
+    <body>
+      
+      <div id="pspdfkit-header">            
+      </div>
+      
+      <div id ="date">
+      	<p> En { address }, a { day } de { month } de {
+          year }</p>
+      </div>
+      
+      <br/>
+        
+      <h3>REUNIDOS</h3>
+      
+      <br/>
+      
+      <div>
+        
+        <p>De una parte, la compañía mercantil denominada
+          DISTRIBUCIONES EXCLUSIVAS COLL,
+			S.L., domiciliada en Avda. Girona, 40 B, de
+          Santa Perpètua de Mogoda con CIF 
+          núm. B61077863 Inscrita en el Registro
+          Mercantil de BARCELONA, en folio 40, tomo 
+          28955,inscripción 1a.
+          <br/> 
+          En adelante, EL COMITENTE.
+        </p>
+         <br/>
+        <p>De otra, el TRABAJADOR AUTÓNOMO, don/doña {
+          name }, mayor de  edad, vecino/a de { location
+          }, con domicilio en la calle { street },
+          número { streetNumber }, y con DNI/NIE { dni }
+          <br/>
+          En adelante, EL COMISIONISTA.
+        </p>
+        <p class="identacion">Las partes se reconocen la
+          mútua y suficiente capacidad legal 
+          para formalizar el 
+          presente contrato y libre y espontáneamente
+        </p>
+                    
+      </div>
+      
+      <div>       
+        <h3 id="h3_center"> MANIFIESTAN </h3>
+      </div>
+      
+      <div style="page-break-after: always">
+        <p>1.- Que la mercantil DIEXCO S.L se dedica 
+          profesionalmente a la actividad de 
+          aplicaciones (APLs), marketing y publicidad 
+          vinculados al sector digital, con CNAE número
+          6201.          
+        </p>
+        <p class="idt">
+          2.- Que DIEXCO S.L. está interesada en nombrar 
+          a un comisionista para la zona de { cp }
+		  , en las condiciones que luego se dirán.
+        </p>
+        <p class="idt">
+          3.- Que { fullname }. acepta el ombramiento, quien 
+          cuenta con las cualificaciones para su función.
+        </p>
+        <p class="idt">
+          4.- Que ambas partes están interesadas en 
+          formalizar el presente contrato de comisión 
+          mercantil, lo que llevan a 
+          efecto con arreglo a los siguientes
+        </p>
+      </div>
+      
+      <div >
+        
+        <p><strong> ACUERDOS </strong></p>
+        <p class="idt">Primero. CONCESIÓN- DIEXCO S.L.,
+          en la representación en que actúa, encarga a 
+          { fullName }, quien a su vez acepta, la 
+          representación y gestión de la ZONA { cp } para 
+          la venta de los servicios digitales.        
+        </p>
+        
+        <p class="idt">Segundo. REPRESENTACIÓN- El 
+          comisionista actuará en nombre propio, sometido
+          a las siguientes consecuencias:
+        </p>
+        <div>
+        	<dl>
+           		<dd class="idt">a) No tendrá necesidad de
+                  declarar quién será el comitente.</dd>
+           		<br/>
+           		<dd class="idt">b) Quedará obligado
+                  directamente, como si el negocio fuere
+                  suyo, con las personas con que
+                  contrate.
+           		</dd>
+           		</br>
+           		<dd class="idt">c) Podrá actuar 
+                  judicialmente en nombre propio, 
+                  reclamando contra las personas con las
+                  que contrate.
+           		</dd>
+        	</dl>
+      	</div>
+      </div>
+  
+  	  <br/>
+  	  <div >        
+      	
+      	<p class="idt">Tercero. CONDICIONES- La gestión y
+          venta será efectuada de acuerdo con las 
+          condiciones generales de venta de DIEXCO S.L 
+          que el comisionista manifiesta conocer y 
+          acepta.
+        </p>
+      
+      	<p class="idt">Cuarto. DERECHOS Y OBLIGACIONES 
+          DEL COMISIONISTA.-
+        </p>
+      
+      	<p class="idt">a) Cobrar la comisión pactada en:<br/>
+		   &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Situación
+          A (inmediata): Al recibir la paga y señal del
+          contratado una vez recibida al comitente.<br/>
+		   &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Situación
+          B (subvencionada): Al recibir la 
+          probación de la tramitación y, por tanto, una 
+          vez recibida al 
+          &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;comitente.
+        </p>
+      
+      	<p class="idt">          
+          <ol class="n">
+            <li>b) Recibir: &emsp;&emsp;&emsp;- una línea
+              para la gestión de la zona.</li>           
+            				 <li>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- un mínimo de 
+              clientes potenciales al 
+              mes.</li>
+            <li>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- material físico (flyers y
+              tarjetas).</li>
+            <li>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;- material y/o sesiones 
+              formativas.</li>
+      	  </ol>
+        </p>
+        
+      	
+         <p>Y está obligado a:
+      	 </p>
+  			<ol class="n">
+           	<li>a) Actuar con lealtad, acatando las instrucciones y órdenes del comitente; en caso de situaciones 
+              imprevistas debe esperar instrucciones. En el supuesto de que ello no sea posible, debe actuar de acuerdo con
+              los usos del comercio.</li>
+             <li>b) Comunicar lo antes posible al comitente todo lo que afecte a la buena marcha de los negocios.</li>
+             <li>c) Comunicar inmediatamente los contratos que hubiere celebrado.</li>
+             <li>d) Responder del destino que dé a los fondos que recibiera para su trabajo.</li>
+             <li>e) Verificar el cobro de los créditos de su comitente en las épocas en que fueren exigibles, respondiendo
+               de los perjuicios ocasionados por su omisión o demora, a no ser que acredite que usó oportunamente de los 
+               medios legales para lograr el pago.</li>
+             <li>d) Responder del destino que dé a los fondos que recibiera para su trabajo.</li>
+             <li>f) Exclusividad: se compromete a no vender productos y/o servicios parecidos ofrecidos por terceras 
+               personas, entendiéndose su representación con el carácter de exclusividad, no pudiendo vender otros productos
+                 complementarios a los del comitente, salvo autorización de éste.</li>
+             <li>g) CRM: se compromete a utilizar el portal corporativo para la gestión de los clientes.</li>
+      	   </ol>
+  		 
+  		<p class="idt">Quinto. DELEGACIÓN DE LA COMISIÓN.- El comisionista no puede delegar sus funciones, salvo que cuente
+          con el consentimiento del comitente. En este caso, si la elección del delegado queda a su arbitrio, deberá 
+          responder de las gestiones del sustituto; no responderá si el sustituto ha sido elegido por el comitente.
+  		</p>
+  		
+  		<p class="idt">Sexto. RELACIÓN CON EL CLIENTE- El comitente tendrá relación directa con el cliente y posibles 
+          compradores, quienes se entenderán a la vez con el comisionista libre.
+  		</p>
+  
+  		<p class="idt">Séptimo. PAGO.- El pago de los servicios deberá efectuarse en el domicilio social del comitente y por
+          cualquiera de los medios que tiene establecido el comercio para la remisión de fondos. En este caso, la          
+          elección queda limitada por el momento a domiciliación bancaria o PayPal.
+ 	    </p>
+  
+  		<p class="idt">Octavo. COMISIONES.- En pago de sus servicios, el comisionista percibirá las siguientes comisiones:
+  		</p>
+          
+  		<p class="idt">El 10 % de las ventas.</p>
+  
+  		<p class="idt" style="page-break-after: always">Las comisiones señaladas serán, previa liquidación del comisionista, 
+          abonadas por el comitente después del pago de impuestos.
+ 	    </p>
+          
+  		<p class="idt" >Noveno. IMPAGADOS.- El comisionista no tendrá comisión alguna sobre las facturas que resultaren 
+          impagadas o lo fueren en parte o cuando por el motivo que fuere el servicio debiera de ser retirado. En el 
+          supuesto de que el comisionista hubiere percibido ya su comisión, esta le será descontada de la liquidación 
+          siguiente.
+  		</p>
+  			
+  		
+  
+  		<p class="idt">Décimo.- Esta gestión se confiere por un plazo indefinido a obra y 
+          servicio, contados desde la firma del presente documento, es decir desde el día
+          { startDay }/{ startMonth }/{ startYear } hasta el día { endDay }/{ endMonth }/{ endYear } .
+  		</p>
+      	
+ 		<p class="idt">Salvo en el caso de que cualquiera de las dos partes avisare a la
+          otra de manera fehaciente, con un preaviso de 15 días, su voluntad de renunciar
+          al contrato.
+  		</p>
+      
+  		<p class="idt">Undécimo.- En caso de divergencia en la aplicación o interpretación
+          de este contrato, las partes se someten expresamente a los Juzgados o Tribunales
+          de Sabadell, con renuncia expresa a cualquier otro fuero o jurisdicción.
+  		</p>
+  
+  		<p class="idt">Lo que tras leer y hallándolo conforme lo ratifican y firman por
+          duplicado ejemplar a un solo efecto en el lugar y fecha al principio indicados.
+ 		</p>
+  		</p>
+  	</div>
+      		
+  		<div class="row">
+          <div class="column">
+            <p>EL COMITENTE</p>
+            <p><em>Firmado</em></p>
+          </div>
+          <div class="column">
+            <p>EL COMISIONISTA</p>
+            <p><em>Firmado</em></p>
+          </div>
+  		</div>
+     	
+        
+        
+      </div>
+	  
+    <div id="pspdfkit-footer">
+            <div class="footer-columns">
+                
+            </div>
+	</div>  
+		 
+               
+
+            
+    </body>
+</html>

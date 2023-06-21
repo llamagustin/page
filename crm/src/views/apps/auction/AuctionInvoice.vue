@@ -1,0 +1,156 @@
+<script setup lang="ts">
+
+</script>
+
+<template>
+<div style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; display: none;">This is an invoice for your purchase on undefined. Please submit payment by undefined</div>
+  <div role="article" aria-roledescription="email" aria-label="" lang="en" style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly;">
+    <table style="width: 100%; font-family: Montserrat, -apple-system, 'Segoe UI', sans-serif;" cellpadding="0" cellspacing="0" role="presentation">
+      <tr>
+        <td align="center" style="mso-line-height-rule: exactly; background-color: #eceff1; font-family: Montserrat, -apple-system, 'Segoe UI', sans-serif;">
+          <table class="sm-w-full" style="width: 600px;" cellpadding="0" cellspacing="0" role="presentation">
+            <tr>
+              <td class="sm-px-24" style="mso-line-height-rule: exactly; padding: 18px; text-align: center; font-family: Montserrat, -apple-system, 'Segoe UI', sans-serif;">
+
+              </td>
+            </tr>
+              <tr>
+                <td align="center" class="sm-px-24" style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly;">
+                  <table style="width: 100%;" cellpadding="0" cellspacing="0" role="presentation">
+                    <tr>
+                      <td class="sm-px-24" style="mso-line-height-rule: exactly; border-radius: 4px; background-color: #ffffff; padding: 28px; text-align: left; font-family: Montserrat, -apple-system, 'Segoe UI', sans-serif; font-size: 16px; line-height: 24px; color: #626262;">
+                        <p style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; margin-bottom: 0; font-size: 20px; font-weight: 600;">Hola</p>
+                        <p style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; margin-top: 0; font-size: 24px; font-weight: 700; color: #000fff;">Nombre Apellidos!</p>
+                        <p style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; margin: 0; margin-bottom: 24px;">
+                        Gracias por usar Aythen. Esta es el recibo de tu reciente transacción.
+                        </p>
+                       <table style="width: 100%;" cellpadding="0" cellspacing="0" role="presentation">
+                          <tr>
+                            <td style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly;">
+                              <h3 style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; margin-top: 0; text-align: left; font-size: 14px; font-weight: 700;">
+                                01101#Kit Digital</h3>
+                            </td>
+                            <td style="text-align: right;font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly;">
+                              <h3 style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; margin-top: 0; text-align: right; font-size: 14px; font-weight: 700;">
+                                19 de Enero 2023
+                              </h3>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly;padding-bottom: 20px;">
+                              <table style="width: 100%;" cellpadding="0" cellspacing="0" role="presentation">
+                                <tr>
+                                  <td style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly;">
+                                    <span style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; margin-top: 10; text-align: left; font-size: 14px; ">
+                                      Empresa#1
+                                    </span>
+                                  </td>
+                                  <td style="text-align: right;font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly;">
+                                    <span style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; margin-top: 10; text-align: right; font-size: 14px; ">
+                                      info@empresa.com
+                                    </span>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly;">
+                                    <span style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; margin-top: 0; text-align: left; font-size: 14px; ">
+                                      B6666666
+                                    </span>
+                                  </td>
+                                  <td style="text-align: right;font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly;">
+                                    <span style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; margin-top: 0; text-align: right; font-size: 14px; ">
+                                      +6457584939
+                                    </span>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                          <tr>
+                            <td colspan="2" style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly;">
+                              <table style="border-top: 1px solid #d0d0d0; width: 100%;" cellpadding="0" cellspacing="0" role="presentation">
+                                <tr style="">
+                                  <th align="left" style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; padding-bottom: 8px;">
+                                    <p style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly;">Descripción</p>
+                                  </th>
+                                  <th align="right" style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; padding-bottom: 8px;">
+                                    <p style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly;">Total</p>
+                                  </th>
+                                </tr>
+                                <tr>
+                                  <td style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; width: 80%; padding-top: 10px; padding-bottom: 10px; font-size: 16px;">
+                                    Aythen - Especificar Servicio - Plan escogido
+                                  </td>
+                                  <td align="right" style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; width: 20%; text-align: right; font-size: 16px;">€2000.00</td>
+                                </tr>
+                                <tr>
+                                  <td style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; width: 80%; padding-top: 10px; padding-bottom: 10px; font-size: 16px;">
+                                    Aythen – Especificar servicio 2 - Plan Escogido
+                                  </td>
+                                  <td align="right" style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; width: 20%; text-align: right; font-size: 16px;">€500.00</td>
+                                </tr>
+                          </table>
+                          <table style="border-top: 1px solid #d0d0d0;padding-top:10px">
+                              <tr>
+                                <td></td>
+                                <td span="2" style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; width: 80%;">
+                                  <p align="right" style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; margin: 0; padding-right: 16px; text-align: right; font-size: 16px; font-weight: 700; line-height: 24px;">
+                                    Total
+                                  </p>
+                                </td>
+                                <td style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; width: 20%;">
+                                  <p align="right" style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; margin: 0; text-align: right; font-size: 16px; font-weight: 700; line-height: 24px;">
+                                    €2500.00
+                                  </p>
+                                </td>
+                              </tr>
+                        </table>
+                        <table align="right" style="margin-left: auto; margin-right: auto; width: 100%; text-align: center;" cellpadding="0" cellspacing="0" role="presentation">
+                          <tr>
+                            <td align="left" style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly;">
+                              <table style="margin-top: 24px; margin-bottom: 4px;" cellpadding="0" cellspacing="0" role="presentation">
+                                <tr>
+                                  <td  style="mso-line-height-rule: exactly; mso-padding-alt: 16px 24px; border-radius: 4px; background-color: #000fff; font-family: Montserrat, -apple-system, 'Segoe UI', sans-serif;">
+                                    <a href="https://example.com" style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; display: block; padding-left: 24px; padding-right: 24px; padding-top: 16px; padding-bottom: 16px; font-size: 16px; font-weight: 600; line-height: 100%; color: #ffffff; text-decoration: none;">
+                                      Pagar Factura &rarr;
+                                    </a>
+                                  </td>
+                                </tr>
+                              </table>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            <tr>
+              <td style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; height: 4px;"></td>
+            </tr>
+            <tr>
+              <td style="mso-line-height-rule: exactly; padding-left: 48px; padding-right: 48px; font-family: Montserrat, -apple-system, 'Segoe UI', sans-serif; font-size: 14px; color: #eceff1;">
+                <p style="text-align: center; font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; color: #263238;">
+                  El uso de este sitio web está sujeto a nuestros
+                  <a href="https://docs.google.com/document/d/1BW-POvGisgTi0vbXj4IHsB4ZIOTR7Ir6z2NxBdNGfHA/edit" class="hover-underline" style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; color: #7367f0; text-decoration: none;">Términos de Uso</a> y a la
+                  <a href="https://docs.google.com/document/d/1BW-POvGisgTi0vbXj4IHsB4ZIOTR7Ir6z2NxBdNGfHA/edit" class="hover-underline" style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; color: #7367f0; text-decoration: none;">Política de Privacidad</a>.
+                </p>
+              </td>
+            </tr>
+            <tr>
+              <td style="font-family: 'Montserrat', sans-serif; mso-line-height-rule: exactly; height: 16px;"></td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </div>
+</template>
+
+<style lang="scss" scoped>
+/*@use "@styles/variables/_vuetify.scss";*/
+
+</style>

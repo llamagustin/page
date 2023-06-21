@@ -1,0 +1,2977 @@
+[
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 13,
+    "title": "Explot.intensiva ganado bovino de cebo",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 412,
+    "title": "Ponedoras huevos a partir cuatro meses",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 69,
+    "title": "Otras explotaciones ganaderas",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 1111,
+    "title": "Extraccion y preparacion de hulla",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 130,
+    "title": "Refino de petroleo",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 1511,
+    "title": "Produccion de energia hidroelectrica",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 1514,
+    "title": "Otras producciones de energia",
+    "numero": 10
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 152,
+    "title": "Fabricacion y distribucion de gas",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 152,
+    "title": "Fabricacion y distribucion de gas",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 162,
+    "title": "Fabricacion de hielo para la venta",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 221,
+    "title": "Siderurgia integral",
+    "numero": 9
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 221,
+    "title": "Siderurgia integral",
+    "numero": 25
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 223,
+    "title": "Fabricacion de tubos de acero",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 223,
+    "title": "Fabricacion de tubos de acero",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 224,
+    "title": "Trefilado",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 2251,
+    "title": "Prod. y prim. transformacion aluminio",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 2259,
+    "title": "Prod. y prim. transf. otros metales",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 2313,
+    "title": "Extracc. arenas y gravas construccion",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 2421,
+    "title": "Fab. cementos artificiales",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 2431,
+    "title": "Fab. hormigones preparados",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 244,
+    "title": "Industrias de la piedra natural",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 2461,
+    "title": "Fab. vidrio plano",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 2471,
+    "title": "Fab. articulos refractarios",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 2471,
+    "title": "Fab. articulos refractarios",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 249,
+    "title": "Ind. otros ptos. minerales no met.",
+    "numero": 6
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 2513,
+    "title": "Fab. ptos. quimicos inorganicos",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 2531,
+    "title": "Fab. gases comprimidos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 2539,
+    "title": "Fab. otros ptos. quimicos uso industrial",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 2551,
+    "title": "Fab. jabones comunes",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3111,
+    "title": "Fundicion piezas de hierro y acero",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3112,
+    "title": "Fundicion piezas metales no ferreos",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 312,
+    "title": "Forja",
+    "numero": 10
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 313,
+    "title": "Tratamiento y recubrimiento de metales",
+    "numero": 14
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 313,
+    "title": "Tratamiento y recubrimiento de metales",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3141,
+    "title": "Fab. art. carpinteria metalica",
+    "numero": 17
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 3141,
+    "title": "Fab. art. carpinteria metalica",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3142,
+    "title": "Fab. estructuras metalicas",
+    "numero": 17
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 3142,
+    "title": "Fab. estructuras metalicas",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 315,
+    "title": "Construcc. depositos y caldereria",
+    "numero": 14
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 315,
+    "title": "Construcc. depositos y caldereria",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3161,
+    "title": "Fab. herramientas manuales",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3162,
+    "title": "Fab. articulos de ferreteria/cerrajeria",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3163,
+    "title": "Tornilleria y art. derivados alambre",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 3163,
+    "title": "Tornilleria y art. derivados alambre",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3164,
+    "title": "Fab. art. menaje",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3166,
+    "title": "Fab. mobiliario metalico",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3167,
+    "title": "Fab. recipientes y envases metalicos",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3169,
+    "title": "Otros art. acabados en metales ncop",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3191,
+    "title": "Talleres de mecanica en general",
+    "numero": 11
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 3191,
+    "title": "Talleres de mecanica en general",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3199,
+    "title": "Talleres mecanicos ncop",
+    "numero": 6
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3221,
+    "title": "Cons. maquinas para trabajar metales",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3223,
+    "title": "Fab.utiles para maquinas herramientas",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3251,
+    "title": "Const.maq. mineria y construccion",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3253,
+    "title": "Const. maq. para siderurgia y fundicion",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3254,
+    "title": "Const. maq. elevacion y manipulacion",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 3254,
+    "title": "Const. maq. elevacion y manipulacion",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3294,
+    "title": "Const. maq. manipulacion de fluidos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3299,
+    "title": "Const. otras maq. y equipos ncop",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 342,
+    "title": "Fab.material electrico de uso y equip.",
+    "numero": 8
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 342,
+    "title": "Fab.material electrico de uso y equip.",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 344,
+    "title": "Fab. contadores y aparatos de medida",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 346,
+    "title": "Fab. lamparas y material de alumbrado",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 352,
+    "title": "Fab. aparatos uso profesional cientifico",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 362,
+    "title": "Construcc. carrocerias",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 363,
+    "title": "Fab.equipo",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 371,
+    "title": "Construccion naval",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 372,
+    "title": "Reparacion y mantenimiento de buques",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 381,
+    "title": "Const.reparac.mantenim. ferrocarriles",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 383,
+    "title": "Constr. motos y bicis",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 391,
+    "title": "Fab.instrum. precision",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3921,
+    "title": "Fab. material medico-quirurgico",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 3922,
+    "title": "Fab. aparatos protesis y ortopedia",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 4131,
+    "title": "Sacrificio y despiece de ganado",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 4132,
+    "title": "Fab.ptos.carnicos de todas clases",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 415,
+    "title": "Fab. jugos y conservas vegetales",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 415,
+    "title": "Fab. jugos y conservas vegetales",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 416,
+    "title": "Fab. conservas pescado",
+    "numero": 5
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 4191,
+    "title": "Industria del pan y bolleria",
+    "numero": 28
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 4212,
+    "title": "Elaboracion ptos. confiteria",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 4251,
+    "title": "Elaboracion y crianza de vinos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 426,
+    "title": "Sidrerias",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 453,
+    "title": "Confecc. toda clase prendas vestir",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 461,
+    "title": "Aserrado y prep. industrial de la madera",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 463,
+    "title": "Fab. serie piezas de carpinteria",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 465,
+    "title": "Fab. objetos diversos de madera",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 4681,
+    "title": "Fab. mobiliario de madera para el hogar",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 4681,
+    "title": "Fab. mobiliario de madera para el hogar",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 4732,
+    "title": "Fab. otros art. y envases papel y carton",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 4732,
+    "title": "Fab. otros art. y envases papel y carton",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 4739,
+    "title": "Fab. otros manipulados papel y carton",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 474,
+    "title": "Artes graficas (impresion grafica)",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 475,
+    "title": "Actividades anexas artes graficas",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 4761,
+    "title": "Edicion de libros",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 4762,
+    "title": "Edicion de periodicos y revistas",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 4762,
+    "title": "Edicion de periodicos y revistas",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 4769,
+    "title": "Otras ediciones ncop",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 4812,
+    "title": "Recauchutado y reconstruccion cubiertas",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 4819,
+    "title": "Fab. otros art. caucho ncop",
+    "numero": 5
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 4821,
+    "title": "Fab. ptos. semielaborados plastico",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 4822,
+    "title": "Fab. art. acabados materias plasticas",
+    "numero": 5
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 4911,
+    "title": "Joyeria",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 4941,
+    "title": "Fab. juegos y juguetes",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 4959,
+    "title": "Fab. otros art. ncop",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 5011,
+    "title": "Construccion completa",
+    "numero": 29
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 5011,
+    "title": "Construccion completa",
+    "numero": 14
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 5012,
+    "title": "Construcc. completa obras civiles",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 5012,
+    "title": "Construcc. completa obras civiles",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 5013,
+    "title": "Albañileria y peq. trabajos construccion",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 5021,
+    "title": "Demoliciones y derribos en general",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 5023,
+    "title": "Consolid. y prep. terrenos obras civiles",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 5031,
+    "title": "Prep. montaje estructuras y cubiertas",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 5033,
+    "title": "Montaje estruc. metalicas tte. y obras",
+    "numero": 5
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 5033,
+    "title": "Montaje estruc. metalicas tte. y obras",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 5041,
+    "title": "Instalaciones electricas en general",
+    "numero": 13
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 5041,
+    "title": "Instalaciones electricas en general",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 5042,
+    "title": "Instalaciones fontaneria",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 5042,
+    "title": "Instalaciones fontaneria",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 5043,
+    "title": "Instalaciones frio y calor",
+    "numero": 8
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 5043,
+    "title": "Instalaciones frio y calor",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 5046,
+    "title": "Instalacion aparatos elevadores",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 5046,
+    "title": "Instalacion aparatos elevadores",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 5047,
+    "title": "Instalaciones telefonicas",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 5048,
+    "title": "Montajes metalicos e instalac. industr.",
+    "numero": 9
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 5048,
+    "title": "Montajes metalicos e instalac. industr.",
+    "numero": 5
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 5051,
+    "title": "Revestimientos exteriores e interiores",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 5054,
+    "title": "Colocacion de aislamientos en edificios",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 5055,
+    "title": "Carpinteria y cerrajeria",
+    "numero": 7
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 5055,
+    "title": "Carpinteria y cerrajeria",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 5056,
+    "title": "Pintura",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 507,
+    "title": "Construccion de toda clase de obras",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 507,
+    "title": "Construccion de toda clase de obras",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 508,
+    "title": "Agrupaciones y uniones tempor. empresas",
+    "numero": 22
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 611,
+    "title": "Com. may. toda clase de mercancias",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6121,
+    "title": "Com.may.ptos.alimentic.bebidas y tabacos",
+    "numero": 13
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6122,
+    "title": "Com.may.cereales",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6123,
+    "title": "Com.may.frutas y verduras",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6124,
+    "title": "Com.may. carnes",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6125,
+    "title": "Com.may.leche",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6126,
+    "title": "Com.may.bebidas y tabaco",
+    "numero": 7
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6127,
+    "title": "Com.may. vinos y vinagres del pais",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6128,
+    "title": "Com.may. pescados",
+    "numero": 10
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6129,
+    "title": "Com.may.otros ptos. aliment.",
+    "numero": 14
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6131,
+    "title": "Com.may.ptos.textiles",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6133,
+    "title": "Com.may. prendas exteriores vestir",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6135,
+    "title": "Com.may.camiseria",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6139,
+    "title": "Com.may.accesorios vestido ncop",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6141,
+    "title": "Com.may.ptos.farmaceuticos y medicamento",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6142,
+    "title": "Com.may.ptos.perfumeria",
+    "numero": 15
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6143,
+    "title": "Com.may.ptos.mantenimiento hogar",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6151,
+    "title": "Com.may.vehiculos y sus accesorios",
+    "numero": 28
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6152,
+    "title": "Com.may. de muebles",
+    "numero": 7
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6153,
+    "title": "Com. may. aparatos electrodomesticos",
+    "numero": 17
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6154,
+    "title": "Com.may.apar.y mat. electronico",
+    "numero": 15
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6159,
+    "title": "Com.may.otros art. consumo duradero ncop",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6161,
+    "title": "Com.may. carbon",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6162,
+    "title": "Com.may. hierro y acero",
+    "numero": 10
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6163,
+    "title": "Com.may. minerales",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6164,
+    "title": "Com.may. metales no ferreos",
+    "numero": 7
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6165,
+    "title": "Com.may. petroleo y lubricantes",
+    "numero": 10
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6166,
+    "title": "Com.may.ptos. quimicos industriales",
+    "numero": 7
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6166,
+    "title": "Com.may.ptos. quimicos industriales",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6169,
+    "title": "Com.may.ptos.interindustriales y quimic.",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6173,
+    "title": "Com.may. madera y corcho",
+    "numero": 7
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6174,
+    "title": "Com.may. materiales construccion",
+    "numero": 22
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6174,
+    "title": "Com.may. materiales construccion",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6175,
+    "title": "Com.may. maquinaria para madera y metal",
+    "numero": 11
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6178,
+    "title": "Com.may. maquinas y material oficina",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6179,
+    "title": "Com.may.interindustrial excep. quimica",
+    "numero": 44
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6179,
+    "title": "Com.may.interindustrial excep. quimica",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6181,
+    "title": "Exportacion toda clase mercancias",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6191,
+    "title": "Com.may. juguetes y articulos deporte",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6192,
+    "title": "Com.may. instrum. medicos y ortopedicos",
+    "numero": 5
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6193,
+    "title": "Com.may. metales preciosos",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6193,
+    "title": "Com.may. metales preciosos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6194,
+    "title": "Com.may.ptos. de papel y carton",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6195,
+    "title": "Com.may.art.papeleria y escritorio",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6196,
+    "title": "Com.may. libros",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6197,
+    "title": "Com.may.instrum.precision y medida",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6198,
+    "title": "Compra-venta de ganado",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6199,
+    "title": "Com.may.otros productos ncop",
+    "numero": 5
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 621,
+    "title": "Com.may.chatarra y metales desecho",
+    "numero": 5
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 622,
+    "title": "Com.may.otros ptos. recuperacion",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 623,
+    "title": "Recuperacion y com. residuos sin establ.",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 631,
+    "title": "Intermediarios del comercio",
+    "numero": 16
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 631,
+    "title": "Intermediarios del comercio",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 641,
+    "title": "Com.men.frutas",
+    "numero": 10
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6421,
+    "title": "Com.men.carnes",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6422,
+    "title": "Com.men.carnicerias-charcuterias",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6424,
+    "title": "Com.men.carnicerias",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6431,
+    "title": "Com.men.pescados",
+    "numero": 7
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6441,
+    "title": "Com.men.pan",
+    "numero": 27
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6442,
+    "title": "Despachos pan",
+    "numero": 12
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6443,
+    "title": "Com.men.ptos.pasteleria",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6444,
+    "title": "Com.men.helados",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6445,
+    "title": "Com.men.bombones y caramelos",
+    "numero": 6
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6445,
+    "title": "Com.men.bombones y caramelos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6461,
+    "title": "Com.men.tabacos en expendiduria",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6464,
+    "title": "Com.men.tabaco con venta por recargo",
+    "numero": 7
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6465,
+    "title": "Com.men.tabaco maquinas automaticas",
+    "numero": 29
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6471,
+    "title": "Com.men.ptos.alimenticios y bebidas",
+    "numero": 34
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6472,
+    "title": "Com.men.ptos.alimenticios menos 120 m2",
+    "numero": 7
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6473,
+    "title": "Com.men.ptos.alimenticios 120 - 399 m2",
+    "numero": 11
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6474,
+    "title": "Com.men.ptos.alimenticios sup.400 m2",
+    "numero": 73
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6475,
+    "title": "Ptos.alimenticios y beb. maquinas",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6475,
+    "title": "Ptos.alimenticios y beb. maquinas",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6511,
+    "title": "Com.men.ptos.textiles para el hogar",
+    "numero": 13
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6511,
+    "title": "Com.men.ptos.textiles para el hogar",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6512,
+    "title": "Com.men.prendas de vestir y tocado",
+    "numero": 69
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6513,
+    "title": "Com.men.lenceria y corseteria",
+    "numero": 5
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6515,
+    "title": "Com.men.prendas especiales",
+    "numero": 7
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6516,
+    "title": "Com.men.calzado y complementos piel",
+    "numero": 15
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6521,
+    "title": "Farmacias",
+    "numero": 12
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6522,
+    "title": "Com.men.ptos.drogueria",
+    "numero": 25
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6523,
+    "title": "Com.men.ptos.perfumeria y cosmetica",
+    "numero": 31
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6524,
+    "title": "Com.men.plantas y hierbas",
+    "numero": 9
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6531,
+    "title": "Com.men.muebles (excepto oficina)",
+    "numero": 15
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6532,
+    "title": "Com.men.aparatos de uso domestico",
+    "numero": 37
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6532,
+    "title": "Com.men.aparatos de uso domestico",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6533,
+    "title": "Com.men.art.menaje",
+    "numero": 22
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6534,
+    "title": "Com.men.materiales de construccion",
+    "numero": 8
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6534,
+    "title": "Com.men.materiales de construccion",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6535,
+    "title": "Com.men.puertas",
+    "numero": 5
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6535,
+    "title": "Com.men.puertas",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6536,
+    "title": "Com. men. articulos de 'bricolage'",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6539,
+    "title": "Com.men.art.hogar ncop",
+    "numero": 5
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6539,
+    "title": "Com.men.art.hogar ncop",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6541,
+    "title": "Com.men.vehiculos terrestres",
+    "numero": 14
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6542,
+    "title": "Com.men.accesorios y recambios vehiculos",
+    "numero": 7
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6542,
+    "title": "Com.men.accesorios y recambios vehiculos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6544,
+    "title": "Com.men.vehiculos fluviales y maritimos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6545,
+    "title": "Com.men.de toda clase de maquinaria",
+    "numero": 11
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6545,
+    "title": "Com.men.de toda clase de maquinaria",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6546,
+    "title": "Com.men.cubiertas",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6551,
+    "title": "Com.men.combustibles todas clases",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6552,
+    "title": "Com.men.gases combustibles",
+    "numero": 11
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6553,
+    "title": "Com.men.carburantes y aceites vehiculos",
+    "numero": 28
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6553,
+    "title": "Com.men.carburantes y aceites vehiculos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 656,
+    "title": "Com. men. de bienes usados",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 657,
+    "title": "Com.men. instrumentos musica y accesorio",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6591,
+    "title": "Com.men.sellos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6592,
+    "title": "Com.men.muebles y maquinas de oficina",
+    "numero": 8
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6592,
+    "title": "Com.men.muebles y maquinas de oficina",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6593,
+    "title": "Com.men.aparatos medicos",
+    "numero": 34
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6594,
+    "title": "Com.men.libros",
+    "numero": 8
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6595,
+    "title": "Com.men.art.joyeria",
+    "numero": 10
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6596,
+    "title": "Com.men.juguetes",
+    "numero": 14
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6596,
+    "title": "Com.men.juguetes",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6597,
+    "title": "Com.men.semillas",
+    "numero": 10
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6598,
+    "title": "Com.men.sex-shop",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6598,
+    "title": "Com.men.sex-shop",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6599,
+    "title": "Com.men.otros ptos. ncop",
+    "numero": 6
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6599,
+    "title": "Com.men.otros ptos. ncop",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6611,
+    "title": "Com.men.grandes almacenes",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6612,
+    "title": "Com.men.en hipermercados",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6613,
+    "title": "Com.men.almacenes populares",
+    "numero": 6
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6622,
+    "title": "Com.men.toda clase art. en otros locales",
+    "numero": 28
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6632,
+    "title": "Com.men.textiles y confecc.sin establec.",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 665,
+    "title": "Com.men.por correo o catalogo",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6712,
+    "title": "Restaurantes cuatro tenedores",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6714,
+    "title": "Restaurantes de dos tenedores",
+    "numero": 21
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6715,
+    "title": "Restaurantes de un tenedor",
+    "numero": 10
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6721,
+    "title": "Cafeterias tres tazas",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6722,
+    "title": "Cafeterias dos tazas",
+    "numero": 5
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6722,
+    "title": "Cafeterias dos tazas",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6731,
+    "title": "Bares categoria especial",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6731,
+    "title": "Bares categoria especial",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6732,
+    "title": "Otros cafes y bares",
+    "numero": 33
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6745,
+    "title": "Cafe-bar sociedades",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6746,
+    "title": "Cafe-bar teatros y cines",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6771,
+    "title": "Hosteleria y restauracion sin establec.",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6779,
+    "title": "Otros serv. alimentacion - restauracion",
+    "numero": 11
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6779,
+    "title": "Otros serv. alimentacion - restauracion",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 681,
+    "title": "Hospedaje en hoteles y moteles",
+    "numero": 13
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 681,
+    "title": "Hospedaje en hoteles y moteles",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 685,
+    "title": "Alojamientos turisticos extrahoteleros",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6911,
+    "title": "Reparacion art. electrodomesticos",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 6911,
+    "title": "Reparacion art. electrodomesticos",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6912,
+    "title": "Reparacion automoviles y bicicletas",
+    "numero": 42
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 6919,
+    "title": "Reparacion otros bienes consumo ncop",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 692,
+    "title": "Reparacion de maquinaria industrial",
+    "numero": 17
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 692,
+    "title": "Reparacion de maquinaria industrial",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 699,
+    "title": "Otras reparaciones ncop",
+    "numero": 17
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 699,
+    "title": "Otras reparaciones ncop",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 7211,
+    "title": "Tte. urbano colectivo",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 7211,
+    "title": "Tte. urbano colectivo",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 7213,
+    "title": "Tte. viajeros por carretera",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 722,
+    "title": "Tte. mercancias por carretera",
+    "numero": 21
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 722,
+    "title": "Tte. mercancias por carretera",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 7312,
+    "title": "Tte. maritimo internacional mercancias",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 732,
+    "title": "Tte. maritimo de crudos y gases",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 7332,
+    "title": "Tte. cabotaje y vias interior mercancias",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 7512,
+    "title": "Guardia y custodia vehiculos 'parking'",
+    "numero": 8
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 7512,
+    "title": "Guardia y custodia vehiculos 'parking'",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 7513,
+    "title": "Guardia y custodia vehiculos en solares",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 7515,
+    "title": "Engrase y lavado de vehiculos",
+    "numero": 14
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 7521,
+    "title": "Servicios pilotaje y practicos puertos",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 7521,
+    "title": "Servicios pilotaje y practicos puertos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 7522,
+    "title": "Servicios transbordo de barcos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 7523,
+    "title": "Servicios de remolque de navios",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 7523,
+    "title": "Servicios de remolque de navios",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 7525,
+    "title": "Serv. salvamento y recuperacion barcos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 7526,
+    "title": "Servicios carga y descarga de buques",
+    "numero": 7
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 7526,
+    "title": "Servicios carga y descarga de buques",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 7527,
+    "title": "Explotacion de puertos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 7541,
+    "title": "Depositos y almacenes generales",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 7545,
+    "title": "Almacenes y depositos de liquidos",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 7549,
+    "title": "Otros depositos especiales ncop",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 755,
+    "title": "Agencias de viajes",
+    "numero": 31
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 756,
+    "title": "Activ. auxiliares y complementarias tte.",
+    "numero": 57
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 756,
+    "title": "Activ. auxiliares y complementarias tte.",
+    "numero": 11
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 769,
+    "title": "Otros servicios de telecomunicacion",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 811,
+    "title": "Banca",
+    "numero": 116
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 811,
+    "title": "Banca",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 812,
+    "title": "Cajas de ahorro",
+    "numero": 27
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 812,
+    "title": "Cajas de ahorro",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8193,
+    "title": "E. f. c. act. de prestamos y credito",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8195,
+    "title": "E. f. c. act. arrendamiento financiero",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8196,
+    "title": "Entidades de cambio de moneda",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8199,
+    "title": "Otras entidades financieras ncop",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 821,
+    "title": "Entidades aseguradores de vida y capit.",
+    "numero": 10
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 821,
+    "title": "Entidades aseguradores de vida y capit.",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 822,
+    "title": "Aseguradoras de enfermedad y riesgos",
+    "numero": 21
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 822,
+    "title": "Aseguradoras de enfermedad y riesgos",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 823,
+    "title": "Otras entidades aseguradoras",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8312,
+    "title": "Ser. financ. contratacion productos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8319,
+    "title": "Otros servicios financieros ncop",
+    "numero": 7
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8321,
+    "title": "Agencias de seguros y corredurias",
+    "numero": 17
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8322,
+    "title": "Serv. tasacion y tarificacion seguros",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8329,
+    "title": "Otros serv. auxiliares de seguros",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8331,
+    "title": "Promocion inmobiliaria de terrenos",
+    "numero": 11
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8332,
+    "title": "Promocion inmobiliaria de edificaciones",
+    "numero": 48
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 8332,
+    "title": "Promocion inmobiliaria de edificaciones",
+    "numero": 9
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 834,
+    "title": "Serv. propiedad inmobiliaria e industria",
+    "numero": 5
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 841,
+    "title": "Servicios juridicos",
+    "numero": 5
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 842,
+    "title": "Servicios financieros y contables",
+    "numero": 14
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8431,
+    "title": "Servicios tecnicos de ingenieria",
+    "numero": 39
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 8431,
+    "title": "Servicios tecnicos de ingenieria",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8436,
+    "title": "Inspeccion tecnica de vehiculos",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8439,
+    "title": "Otros servicios tecnicos ncop",
+    "numero": 20
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 8439,
+    "title": "Otros servicios tecnicos ncop",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 844,
+    "title": "Servicios publicidad",
+    "numero": 15
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 844,
+    "title": "Servicios publicidad",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 845,
+    "title": "Explotacion electronica por terceros",
+    "numero": 25
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 845,
+    "title": "Explotacion electronica por terceros",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 846,
+    "title": "Empresas de estudio de mercado",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8494,
+    "title": "Serv. custodia",
+    "numero": 5
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 8494,
+    "title": "Serv. custodia",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8495,
+    "title": "Servicios mensajeria, recad",
+    "numero": 5
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8496,
+    "title": "Serv.colocacion y suministro de personal",
+    "numero": 13
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8497,
+    "title": "Serv. gestion administrativa",
+    "numero": 10
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8499,
+    "title": "Otros servicios independientes ncop",
+    "numero": 33
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 8499,
+    "title": "Otros servicios independientes ncop",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 851,
+    "title": "Alquiler maquinaria y equipo agricola",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 852,
+    "title": "Alquiler maquinaria y equip. construcc.",
+    "numero": 15
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 852,
+    "title": "Alquiler maquinaria y equip. construcc.",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8541,
+    "title": "Alquiler automoviles sin conductor",
+    "numero": 8
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 8541,
+    "title": "Alquiler automoviles sin conductor",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8542,
+    "title": "Alquiler automov. en reg. \"renting\"",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8561,
+    "title": "Alquiler de bienes de consumo",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 859,
+    "title": "Alquiler otros bienes muebles ncop",
+    "numero": 5
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8611,
+    "title": "Alquiler de viviendas",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 8612,
+    "title": "Alquiler locales industriales",
+    "numero": 36
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 911,
+    "title": "Servicios agricolas y ganaderos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9212,
+    "title": "Serv. recogida de basuras y desechos",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 9212,
+    "title": "Serv. recogida de basuras y desechos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9213,
+    "title": "Exterminio animales dañinos y desifecc.",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9215,
+    "title": "Servicios incineracion",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9217,
+    "title": "Serv. proteccion contra incendios",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9218,
+    "title": "Serv. admon. cementerios",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 922,
+    "title": "Servicios de limpieza",
+    "numero": 16
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 922,
+    "title": "Servicios de limpieza",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9311,
+    "title": "Guarderia y enseñanza infantil",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9312,
+    "title": "Enseñanza educacion basica",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9313,
+    "title": "Enseñanza bachillerato",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9314,
+    "title": "Enseñanza de varias modalidades",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9315,
+    "title": "Enseñanza de educacion superior",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9321,
+    "title": "Enseñanza formacion prof. no superior",
+    "numero": 10
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9322,
+    "title": "Enseñanza form. profesional superior",
+    "numero": 5
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9331,
+    "title": "Enseñ. conduccion vehiculos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9339,
+    "title": "Otros activ. enseñanza",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 934,
+    "title": "Enseñanza fuera establecimiento permanen",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 936,
+    "title": "Investigacion cientifica y tecnica",
+    "numero": 5
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9411,
+    "title": "Hospitales generales",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9412,
+    "title": "Hospitales especializados",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9421,
+    "title": "Consultorios medicos",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9429,
+    "title": "Otros serv. sanitarios",
+    "numero": 10
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 943,
+    "title": "Consultas clinicas estomat. y odontolog.",
+    "numero": 6
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 945,
+    "title": "Consultas y clinicas veterinarias",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 951,
+    "title": "Asistencia y serv. sociales disminuidos",
+    "numero": 19
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 952,
+    "title": "Asist. y serv. disminuidos no residenc.",
+    "numero": 9
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 952,
+    "title": "Asist. y serv. disminuidos no residenc.",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9611,
+    "title": "Produccion peliculas cinematograficas",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9631,
+    "title": "Exhibicion de peliculas cinematograficas",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9641,
+    "title": "Servicios de radiodifusion",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9642,
+    "title": "Servicios de television",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9651,
+    "title": "Espectaculos en salas y locales",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9654,
+    "title": "Empresas de espectaculos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 9654,
+    "title": "Empresas de espectaculos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9662,
+    "title": "Zoologicos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9669,
+    "title": "Otros servicios culturales ncop",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9671,
+    "title": "Instalaciones deportivas",
+    "numero": 6
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9672,
+    "title": "Escuelas y serv. perfecc. del deporte",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9682,
+    "title": "Organizacion espectaculos deportivos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9692,
+    "title": "Casinos de juego",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9693,
+    "title": "Juegos de bingo",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9694,
+    "title": "Maquinas recreativas y de azar",
+    "numero": 19
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9695,
+    "title": "Juegos billar",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9696,
+    "title": "Salones recreativos y de juego",
+    "numero": 8
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9697,
+    "title": "Otras maquinas automaticas",
+    "numero": 10
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9711,
+    "title": "Tinte",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9713,
+    "title": "Zurcido y reparacion de ropas",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9721,
+    "title": "Serv. peluqueria señoras y caballeros",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9722,
+    "title": "Salones e institutos de belleza",
+    "numero": 7
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9731,
+    "title": "Servicios fotograficos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 974,
+    "title": "Agencias prestacion serv. domesticos",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9791,
+    "title": "Serv. pompas funebres",
+    "numero": 3
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 9791,
+    "title": "Serv. pompas funebres",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9794,
+    "title": "Adiestramiento y cuidados de animales",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9812,
+    "title": "Jardines de recreo",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9825,
+    "title": "Organiz. y celeb. apuestas deport. loter",
+    "numero": 1
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 9892,
+    "title": "Serv. organiz. congresos",
+    "numero": 2
+  },
+  {
+    "tipoactividad": "EMPRESARIAL",
+    "seccion_tarifa": 1,
+    "value": 999,
+    "title": "Otros servicios n.c.o.p.",
+    "numero": 7
+  },
+  {
+    "tipoactividad": "LOCAL AFECTO",
+    "seccion_tarifa": 1,
+    "value": 999,
+    "title": "Otros servicios n.c.o.p.",
+    "numero": 4
+  },
+  {
+    "tipoactividad": "ARTISTICAS",
+    "seccion_tarifa": 3,
+    "value": 49,
+    "title": "Otras activ. relacionadas deporte ncop",
+    "numero": 1
+  }
+]

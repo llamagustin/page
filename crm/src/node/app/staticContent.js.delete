@@ -1,0 +1,37 @@
+const express = require('express')
+const path=require('path')
+const routerDatos = express.Router()
+
+const {services} = require(path.join(__dirname,"../@fake-db/services.js"));
+
+//console.log(services)
+
+//const { services } = require('./src/@fake-db/services.ts')
+
+/*
+
+staticContent
+
+const { uuid } = require('uuidv4');
+
+//sequelize 
+const Sequelize = require('sequelize')
+const { Op } = require("sequelize");
+
+var config = require('./config.json')
+const sequelize = new Sequelize(config.database, config.username, config.password, {
+  host: config.host,
+  dialect: config.dialect
+})
+*/
+
+const getServices= (req,res)=>{
+    return res.status(200).send(services)
+}
+
+
+routerDatos.get('/services', getServices);
+
+
+
+module.exports = routerDatos

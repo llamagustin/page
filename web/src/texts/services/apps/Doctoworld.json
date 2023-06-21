@@ -1,0 +1,180 @@
+{
+    "title": "Doctoworld",
+    "subtitle": "Nearby Doctor Appointment Booking App",
+    "resume": "Doctoworld is online doctor consultation appointment booking app. No.1 online pharmacy medical app built by on demand doctor consulting medicine, medical app development company. We build readymade online doctor on call app solutions like healthcare hospital app & provide on demand doctor app development services.",
+    "app": [
+        {
+            "type": "both",
+            "info": "User app allows the user to book an appointment and order medicine..",
+            "user": "+91 9898 9898 98 (India)",
+            "password": "123456",
+            "title": "User App"
+        },
+        {
+            "type": "both",
+            "info": "App for doctors to communicate with their patients.",
+            "user": "+91 8787 8787 87 (India)",
+            "password": "123456",
+            "title": "Doctor App"
+        },
+        {
+            "type": "both",
+            "info": "App for sellers to register their business and manage orders.",
+            "user": "+91 7676 7676 76 (India)",
+            "password": "123456",
+            "title": "Seller App"
+        },
+        {
+            "type": "both",
+            "info": "App for the delivery person to get delivery orders and navigate the location.",
+            "user": "+91 6565 6565 65 (India)",
+            "password": "123456",
+            "title": "Delivery App"
+        },
+        {
+            "type": "web",
+            "info": "It exists in order to give you control over your app.",
+            "user": "admin@example.com",
+            "password": "admin",
+            "title": "Admin Panel"
+        }
+    ],
+    "data": [
+        {
+            "title": "User App",
+            "info": "Doctoworld user app helps the users in locating the best specialist around them, also can order medicines and find hospitals, etc.",
+            "content": [
+                "Multi-vendor ordering",
+                "Product detail",
+                "Upload prescription",
+                "Find doctor",
+                "Doctors map view",
+                "Doctor detail",
+                "Book appointments",
+                "My appointment",
+                "Video consultation & chat",
+                "Find hospital",
+                "Hospital detail",
+                "eWallet integration for payments",
+                "Add/Edit Pill reminder",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/doctoworld/screenshots/user/1.png",
+                "assets/img/app-info/doctoworld/screenshots/user/2.png",
+                "assets/img/app-info/doctoworld/screenshots/user/3.png",
+                "assets/img/app-info/doctoworld/screenshots/user/4.png",
+                "assets/img/app-info/doctoworld/screenshots/user/5.png",
+                "assets/img/app-info/doctoworld/screenshots/user/6.png",
+                "assets/img/app-info/doctoworld/screenshots/user/7.png",
+                "assets/img/app-info/doctoworld/screenshots/user/8.png",
+                "assets/img/app-info/doctoworld/screenshots/user/9.png",
+                "assets/img/app-info/doctoworld/screenshots/user/10.png",
+                "assets/img/app-info/doctoworld/screenshots/user/11.png",
+                "assets/img/app-info/doctoworld/screenshots/user/12.png",
+                "assets/img/app-info/doctoworld/screenshots/user/13.png",
+                "assets/img/app-info/doctoworld/screenshots/user/14.png"
+            ]
+        },
+        {
+            "title": "Doctor App",
+            "info": "Keep track of your patient’s health with this powerful app that makes it easy to communicate with them.",
+            "content": [
+                "Accept/Reject appointment",
+                "Appointment detail",
+                "Video and chat consultation",
+                "Rating and reviews",
+                "Doctor profile",
+                "Add availability",
+                "Select hospital",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/doctoworld/screenshots/doctor/1.png",
+                "assets/img/app-info/doctoworld/screenshots/doctor/2.png",
+                "assets/img/app-info/doctoworld/screenshots/doctor/3.png",
+                "assets/img/app-info/doctoworld/screenshots/doctor/4.png",
+                "assets/img/app-info/doctoworld/screenshots/doctor/5.png",
+                "assets/img/app-info/doctoworld/screenshots/doctor/6.png",
+                "assets/img/app-info/doctoworld/screenshots/doctor/7.png",
+                "assets/img/app-info/doctoworld/screenshots/doctor/8.png"
+            ]
+        },
+        {
+            "title": "Seller App",
+            "info": "Medical/pharma stores app to sell online also keep them spontaneous with the customer, sales, and order.",
+            "content": [
+                "New/Past order view",
+                "Order detail",
+                "Live order tracking",
+                "Real-time chat",
+                "Add/Edit products",
+                "Detailed insight",
+                "Earning",
+                "eWallet & send to bank",
+                "Rating and review",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/doctoworld/screenshots/admin_app/1.png",
+                "assets/img/app-info/doctoworld/screenshots/admin_app/2.png",
+                "assets/img/app-info/doctoworld/screenshots/admin_app/3.png",
+                "assets/img/app-info/doctoworld/screenshots/admin_app/4.png",
+                "assets/img/app-info/doctoworld/screenshots/admin_app/5.png",
+                "assets/img/app-info/doctoworld/screenshots/admin_app/6.png",
+                "assets/img/app-info/doctoworld/screenshots/admin_app/7.png",
+                "assets/img/app-info/doctoworld/screenshots/admin_app/8.png",
+                "assets/img/app-info/doctoworld/screenshots/admin_app/9.png",
+                "assets/img/app-info/doctoworld/screenshots/admin_app/10.png"
+            ]
+        },
+        {
+            "title": "Delivery App",
+            "info": "Delivery app to get order info such as pickup location, delivery location, ordered items, etc., also makes live tracking possible for customer/seller.",
+            "content": [
+                "Mark online/offline status",
+                "Delivery request",
+                "Navigation to customer/seller",
+                "Real-time chat with customer/seller",
+                "View order details",
+                "eWallet integration",
+                "Check performance in insight",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/doctoworld/screenshots/delivery_app/1.png",
+                "assets/img/app-info/doctoworld/screenshots/delivery_app/2.png",
+                "assets/img/app-info/doctoworld/screenshots/delivery_app/3.png",
+                "assets/img/app-info/doctoworld/screenshots/delivery_app/4.png",
+                "assets/img/app-info/doctoworld/screenshots/delivery_app/5.png",
+                "assets/img/app-info/doctoworld/screenshots/delivery_app/6.png",
+                "assets/img/app-info/doctoworld/screenshots/delivery_app/7.png",
+                "assets/img/app-info/doctoworld/screenshots/delivery_app/8.png"
+            ]
+        },
+        {
+            "title": "Admin Panel",
+            "info": "Advanced web admin panel with well-structured code that controls every aspect of users, doctors, sellers, and delivery person. A dashboard that helps to analyze overall growth and informative graphs/charts makes it more understandable.",
+            "content": [
+                "Live Order status in map view",
+                "Order analytics with graphs",
+                "New registration analytics",
+                "Transaction analytics",
+                "Payment method managemnt",
+                "Other settings of app",
+                "Dark/light theme",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/doctoworld/screenshots/admin/1.png",
+                "assets/img/app-info/doctoworld/screenshots/admin/2.png",
+                "assets/img/app-info/doctoworld/screenshots/admin/3.png",
+                "assets/img/app-info/doctoworld/screenshots/admin/4.png",
+                "assets/img/app-info/doctoworld/screenshots/admin/5.png",
+                "assets/img/app-info/doctoworld/screenshots/admin/6.png",
+                "assets/img/app-info/doctoworld/screenshots/admin/7.png",
+                "assets/img/app-info/doctoworld/screenshots/admin/8.png"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+<script setup lang="ts">
+import {  services } from '/@src/texts/ai/flow'
+  
+  
+import { features } from '/@src/data/services/features'
+// import { boxedTestimonials2 } from '/@src/data/blocks/testimonials'
+import { cardTeam } from '/@src/data/services/team'
+
+
+
+import { ref } from 'vue'
+
+
+import { useGPT } from './useGPT'
+import { boxedTestimonials } from './testimonials'
+
+
+import componentGPT from '/@src/components/web/ai/componentGPT.vue'
+import trendGPT from '/@src/components/web/ai/trendGPT.vue'
+
+
+const {
+  category,
+  subcategory,
+  dateTime,
+  title,
+    
+  trendsGPT,
+  itemsGPT,
+  dataGPT,
+  business
+} = useGPT()
+
+
+const options = ref([{
+  value: 'Hamburger',
+  label: 'Hamburger',
+}])
+
+
+const chatGPT = ref([{
+  text: `Click Try This Prompt Now, or type your question in the chatbox below, 
+                      to start our conversation.`,
+},{
+  text: `Click Try This Prompt Now, or type your question in the chatbox below, 
+                      to start our conversation.` 
+}])
+</script>
+
+<template>
+  <Section>
+    <Container>
+      <div class="gpt-profile flex ">
+        <div class="left">
+          
+        </div>
+        <div class="right"></div>
+      </div>
+    </Container>
+  </Section>
+</template>
+
+<style lang="scss" scoped>
+.card.primary{
+   border-color: #000fff; 
+   svg{
+     color: #000fff;
+   }
+}
+
+/*.gpt-profile{*/
+/*  .left::-webkit-scrollbar {display: none;}*/
+/*  }*/
+
+.gpt-profile{
+    display: grid;
+    grid-template-columns: 400px 1fr;
+    gap: 20px;
+    margin-top: 20px;
+    height: calc(100vh - 90px);
+  
+  
+  .left{
+    overflow-y: scroll;
+  }
+  
+  .right{
+    overflow-y:scroll;
+  }
+  
+  .left::-webkit-scrollbar {display: none;}
+  .right::-webkit-scrollbar {display: none;}
+  
+  .gpt-logo{
+    width: 30px;
+    height: 30px;
+    
+    img{
+      width: 30px;
+      height: 30px;
+      min-width: 30px;
+    }
+  }
+  
+  .button{
+    margin-top: 12px;
+    display: flex;
+    gap: 4px;
+    min-height: 20px;
+    padding: 10px;
+  }
+}
+
+.info{
+  display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  
+
+    .tag-info{
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      
+      div{
+        display: flex;
+        align-items: center;
+        gap: 4px;
+      }
+    }
+  
+}
+  
+  
+ 
+@media only screen and (max-width: 900px) {
+  .gpt-profile{
+     display: flex;
+     flex-direction: column;
+     height: auto; 
+  }
+  
+  .mobile-hidden{
+    display: none;
+  }
+}
+</style>

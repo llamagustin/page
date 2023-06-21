@@ -1,0 +1,292 @@
+[
+    [
+        {
+            "image": "/assets/images/api/google-sheets-mini.svg",
+            "text": "Google Sheets",
+            "url": "https://www.google.com/sheets/about/"
+        },
+        {
+            "image": "/assets/images/api/postgresql.svg",
+            "text": "PostgreSQL",
+            "url": "https://www.postgresql.org/"
+        },
+        {
+            "image": "/assets/images/api/stripe.svg",
+            "text": "Stripe",
+            "url": "https://stripe.com/es"
+        },
+        {
+            "image": "/assets/images/api/elasticsearch.svg",
+            "text": "Elasticsearch",
+            "url": "https://www.elastic.co/"
+        },
+        {
+            "image": "/assets/images/api/mongodb-mini.svg",
+            "text": "MongoDB",
+            "url": "https://www.mongodb.com/"
+        },
+        {
+            "image": "/assets/images/api/mysql-mini.svg",
+            "text": "MySQL",
+            "url": "https://www.mysql.com/"
+        },
+        {
+            "image": "/assets/images/api/google-sheets-mini.svg",
+            "text": "Google Sheets",
+            "url": "https://www.google.com/sheets/about/"
+        },
+        {
+            "image": "/assets/images/api/postgresql.svg",
+            "text": "PostgreSQL",
+            "url": "https://www.postgresql.org/"
+        },
+        {
+            "image": "/assets/images/api/stripe.svg",
+            "text": "Stripe",
+            "url": "https://stripe.com/"
+        },
+        {
+            "image": "/assets/images/api/elasticsearch.svg",
+            "text": "Elasticsearch",
+            "url": "https://www.elastic.co/"
+        },
+        {
+            "image": "/assets/images/api/mongodb-mini.svg",
+            "text": "MongoDB",
+            "url": "https://www.mongodb.com/"
+        },
+        {
+            "image": "/assets/images/api/mysql-mini.svg",
+            "text": "MySQL",
+            "url": "https://www.mysql.com/"
+        }
+    ],
+    [
+        {
+            "image": "/assets/images/api/bigquery-mini.svg",
+            "text": "BigQuery",
+            "url": ""
+        },
+        {
+            "image": "/assets/images/api/snowflake.svg",
+            "text": "Snowflake",
+            "url": "https://www.snowflake.com/"
+        },
+        {
+            "image": "/assets/images/api/denodo.svg",
+            "text": "Denodo",
+            "url": "https://www.denodo.com/"
+        },
+        {
+            "image": "/assets/images/api/vertica.svg",
+            "text": "Vertica",
+            "url": "https://www.vertica.com/"
+        },
+        {
+            "image": "/assets/images/api/aws-dynamodb.svg",
+            "text": "AWS DynamoDB",
+            "url": "https://aws.amazon.com/dynamodb"
+        },
+        {
+            "image": "/assets/images/api/redis.svg",
+            "text": "Redis",
+            "url": "https://redis.io/"
+        },
+        {
+            "image": "/assets/images/api/bigquery-mini.svg",
+            "text": "BigQuery",
+            "url": "https://cloud.google.com/bigquery"
+        },
+        {
+            "image": "/assets/images/api/snowflake.svg",
+            "text": "Snowflake",
+            "url": "https://www.snowflake.com/"
+        },
+        {
+            "image": "/assets/images/api/denodo.svg",
+            "text": "Denodo",
+            "url": "https://www.denodo.com/"
+        },
+        {
+            "image": "/assets/images/api/vertica.svg",
+            "text": "Vertica",
+            "url": "https://www.vertica.com/"
+        },
+        {
+            "image": "/assets/images/api/aws-dynamodb.svg",
+            "text": "AWS DynamoDB",
+            "url": "https://aws.amazon.com/dynamodb"
+        },
+        {
+            "image": "/assets/images/api/redis.svg",
+            "text": "Redis",
+            "url": "https://redis.io/"
+        }
+    ],
+    [
+        {
+            "image": "/assets/images/api/aws-redshift.svg",
+            "text": "AWS Redshift",
+            "url": "https://aws.amazon.com/redshift/"
+        },
+        {
+            "image": "/assets/images/api/firebase.svg",
+            "text": "Firebase",
+            "url": "https://firebase.google.com/"
+        },
+        {
+            "image": "/assets/images/api/aws-lambda.svg",
+            "text": "AWS Lambda",
+            "url": "https://aws.amazon.com/lambda/"
+        },
+        {
+            "image": "/assets/images/api/twilio.svg",
+            "text": "Twilio",
+            "url": "https://www.twilio.com/"
+        },
+        {
+            "image": "/assets/images/api/graphql.svg",
+            "text": "GraphQL",
+            "url": "https://graphql.org/"
+        },
+        {
+            "image": "/assets/images/api/aws-s3.svg",
+            "text": "AWS S3",
+            "url": "https://aws.amazon.com/s3/"
+        },
+        {
+            "image": "/assets/images/api/aws-redshift.svg",
+            "text": "AWS Redshift",
+            "url": "https://aws.amazon.com/redshift/"
+        },
+        {
+            "image": "/assets/images/api/firebase.svg",
+            "text": "Firebase",
+            "url": "https://firebase.google.com/"
+        },
+        {
+            "image": "/assets/images/api/aws-lambda.svg",
+            "text": "AWS Lambda",
+            "url": "https://aws.amazon.com/lambda/"
+        },
+        {
+            "image": "/assets/images/api/twilio.svg",
+            "text": "Twilio",
+            "url": "https://www.twilio.com/"
+        },
+        {
+            "image": "/assets/images/api/graphql.svg",
+            "text": "GraphQL",
+            "url": "https://graphql.org/"
+        },
+        {
+            "image": "/assets/images/api/aws-s3.svg",
+            "text": "AWS S3",
+            "url": "https://aws.amazon.com/s3/"
+        }
+    ],
+    [
+        {
+            "image": "/assets/images/api/salesforce-mini.svg",
+            "text": "Salesforce",
+            "url": "https://www.salesforce.com/"
+        },
+        {
+            "image": "/assets/images/api/basecamp.svg",
+            "text": "Basecamp",
+            "url": "https://basecamp.com/"
+        },
+        {
+            "image": "/assets/images/api/slack.svg",
+            "text": "Slack",
+            "url": "https://slack.com/"
+        },
+        {
+            "image": "/assets/images/api/cassandra.svg",
+            "text": "Cassandra",
+            "url": "https://cassandra.apache.org/"
+        },
+        {
+            "image": "/assets/images/api/sendgrid.svg",
+            "text": "Sendgrid",
+            "url": "https://sendgrid.com/"
+        },
+        {
+            "image": "/assets/images/api/github.svg",
+            "text": "Github",
+            "url": "https://github.com/"
+        },
+        {
+            "image": "/assets/images/api/salesforce-mini.svg",
+            "text": "Salesforce",
+            "url": "https://www.salesforce.com/"
+        },
+        {
+            "image": "/assets/images/api/basecamp.svg",
+            "text": "Basecamp",
+            "url": "https://basecamp.com/"
+        },
+        {
+            "image": "/assets/images/api/slack.svg",
+            "text": "Slack",
+            "url": "https://slack.com/"
+        },
+        {
+            "image": "/assets/images/api/cassandra.svg",
+            "text": "Cassandra",
+            "url": "https://cassandra.apache.org/"
+        },
+        {
+            "image": "/assets/images/api/sendgrid.svg",
+            "text": "Sendgrid",
+            "url": "https://sendgrid.com/"
+        },
+        {
+            "image": "/assets/images/api/github.svg",
+            "text": "Github",
+            "url": "https://github.com/"
+        }
+    ],
+    [
+        {
+            "image": "/assets/images/api/google-cloud-storage-mini.svg",
+            "text": "Google Cloud Storage",
+            "url": "https://cloud.google.com/storage"
+        },
+        {
+            "image": "/assets/images/api/close-io.svg",
+            "text": "Close.io",
+            "url": "https://www.close.com/"
+        },
+        {
+            "image": "/assets/images/api/microsoft-sql-server-mini.svg",
+            "text": "MS SQL Server",
+            "url": "https://www.microsoft.com/es-es/sql-server/sql-server-downloads"
+        },
+        {
+            "image": "/assets/images/api/aws-athena.svg",
+            "text": "AWS Athena",
+            "url": "https://aws.amazon.com/athena/"
+        },
+        {
+            "image": "/assets/images/api/google-cloud-storage-mini.svg",
+            "text": "Google Cloud Storage",
+            "url": "https://cloud.google.com/storage"
+        },
+        {
+            "image": "/assets/images/api/close-io.svg",
+            "text": "Close.io",
+            "url": "https://www.close.com/"
+        },
+        {
+            "image": "/assets/images/api/microsoft-sql-server-mini.svg",
+            "text": "MS SQL Server",
+            "url": "https://www.microsoft.com/es-es/sql-server/sql-server-downloads"
+        },
+        {
+            "image": "/assets/images/api/aws-athena.svg",
+            "text": "AWS Athena",
+            "url": "https://aws.amazon.com/athena/"
+        }
+    ]
+]

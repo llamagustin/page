@@ -1,0 +1,119 @@
+// Write your overrides
+:root {
+  --primary-blue: hsl(236, 100%, 50%);
+  --primary-blue-transparent: hsla(236 100% 50% / 25%);
+}
+
+html {
+  overflow-y: auto;
+}
+
+:root {
+  --vs-dropdown-option-padding: 10px 20px !important;
+}
+
+body {
+  --vs-controls-color: #c7c7c7;
+  // --vs-border-color: #664cc3;
+
+  // --vs-dropdown-bg: #282c34;
+  // --vs-dropdown-color: #cc99cd;
+  // --vs-dropdown-option-color: #cc99cd;
+
+  --vs-selected-bg: #fff;
+  --vs-selected-color: rgba(var(--v-theme-on-background), var(--v-medium-emphasis-opacity));
+  // --vs-selected-bg: #b0b7ff;
+  // --vs-selected-color: #fff;
+
+  --vs-dropdown-option--active-bg: rgb(246 246 246 / 60%);
+  --vs-dropdown-option--active-color: var(--primary-blue);
+
+  --vs-actions-padding: 10px 14px;
+  --vs-dropdown-max-height: 250px;
+}
+
+.multiple .vs__selected {
+  border-color: #e4e4e4 !important;
+}
+
+.vs__dropdown-toggle[aria-expanded=true] {
+  border-color: var(--primary-blue) !important;
+}
+
+.user-select-none {
+  user-select: none;
+}
+
+.cursor-default{
+  cursor: default !important;
+}
+
+.cursor-pointer {
+  cursor: pointer !important;
+}
+
+.pointer-events-none {
+  pointer-events: none;
+  user-select: none;
+}
+
+label:has(+ input:required)::after {
+  content: " *";
+  color: rgb(255, 37, 73);
+}
+
+.text-primary-blue {
+  color: var(--primary-blue) !important;
+}
+
+input:invalid {
+  border-color: red;
+}
+
+.hover-scale-sm,
+.hover-scale-dm,
+.hover-scale-lg,
+{
+  scale: 1;
+  transition: scale 100ms ease-out;
+}
+
+.hover-scale-sm:hover {
+  scale: 1.1;
+}
+
+.hover-scale-md:hover {
+  scale: 1.3;
+}
+
+.hover-scale-lg:hover {
+  scale: 1.5;
+}
+
+.field-active {
+  background-color: rgba(0, 0, 255, 0.03);
+  cursor: default !important;
+}
+
+.aythen-text-xs {
+  font-size: .8em !important;
+}
+.aythen-text-sm {
+  font-size: .9em !important;
+}
+
+.text-indent-sm {
+  text-indent: 1em !important;
+}
+
+.text-indent {
+  text-indent: 2em !important;
+}
+
+.hover-link {
+  cursor: pointer;
+}
+
+.hover-link:hover {
+  text-decoration: underline;
+}

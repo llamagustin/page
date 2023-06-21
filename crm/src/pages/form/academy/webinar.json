@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Webinar Kit digital",
+    "status":0
+  },
+  {
+    "id": 2,
+    "title": "Webinar servicios",
+    "status":0
+  },
+  {
+    "id": 3,
+    "title": "Formaciones",
+    "status":0
+  },
+  {
+    "id": 4,
+    "status":0,
+    "title": "Obligatoria CRM"
+  }
+]

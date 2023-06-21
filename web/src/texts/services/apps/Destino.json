@@ -1,0 +1,63 @@
+{
+    "title": "Destino",
+    "subtitle": "Online Dating App, Chatting App, Friendship App",
+    "resume": "Destino is Online dating and chatting app that was built by top mobile dating app development company. Looking for dating mobile app development company? We build dating app for android and ios & offer dating mobile app building services. Experience dating app development services from us.",
+    "app": [
+        {
+            "type": "both",
+            "info": "Destino is all about connecting people who are interested in each other.",
+            "user": "+91 9898 9898 98 (India)",
+            "password": "123456",
+            "title": "User App"
+        },
+        {
+            "type": "web",
+            "info": "Admin panel exists in order to give you control over your app.",
+            "user": "admin@example.com",
+            "password": "admin",
+            "title": "Admin Panel"
+        }
+    ],
+    "data": [
+        {
+            "title": "User App",
+            "info": "Meet people in your area and start chatting. You can even shuffle people around with just a tap of a button. Find that perfect connection and take it to the next level.",
+            "content": [
+                "View profiles",
+                "Set preferences",
+                "Chat with matches",
+                "Plan purchase",
+                "Profile insights",
+                "Multi-lingual including RTL"
+            ],
+            "images": [
+                "assets/img/app-info/destino/screenshots/user/1.png",
+                "assets/img/app-info/destino/screenshots/user/2.png",
+                "assets/img/app-info/destino/screenshots/user/3.png",
+                "assets/img/app-info/destino/screenshots/user/4.png",
+                "assets/img/app-info/destino/screenshots/user/5.png",
+                "assets/img/app-info/destino/screenshots/user/6.png"
+            ]
+        },
+        {
+            "title": "Admin Panel",
+            "info": "Advanced web admin panel with well-structured code that controls every aspect of the user. A dashboard that helps to analyze overall growth and informative graphs/charts makes it more understandable.",
+            "content": [
+                "Analytics with graphs",
+                "User’s usage statistics",
+                "Add Hobbies/interests",
+                "New registration analytics",
+                "Manage reported user/messages",
+                "App settings"
+            ],
+            "images": [
+                "assets/img/app-info/destino/screenshots/admin/1.png",
+                "assets/img/app-info/destino/screenshots/admin/2.png",
+                "assets/img/app-info/destino/screenshots/admin/3.png",
+                "assets/img/app-info/destino/screenshots/admin/4.png",
+                "assets/img/app-info/destino/screenshots/admin/5.png",
+                "assets/img/app-info/destino/screenshots/admin/6.png"
+            ]
+        }
+    ]
+}

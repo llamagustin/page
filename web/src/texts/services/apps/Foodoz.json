@@ -1,0 +1,109 @@
+{
+    "title": "Foodoz",
+    "subtitle": "Multi Restaurant Food Ordering App, Food Delivery App",
+    "resume": "Foodoz is One-stop Multi restaurant online food ordering App & Best food delivery app to manage online food ordering system & Restaurant delivery system. Its Multi vendor food ordering website boosts Multi restaurant food delivery system, restaurant food delivery software, Multi restaurant software.",
+    "app": [
+        {
+            "type": "both",
+            "info": "Online shopping app for fashionistas, is taking eCommerce to the next level.",
+            "user": "+91 9898 9898 98 (India)",
+            "password": "123456",
+            "title": "User App"
+        },
+        {
+            "type": "both",
+            "info": "The vendor can register their business, manage their order directly from this app.",
+            "user": "+91 8787 8787 87 (India)",
+            "password": "123456",
+            "title": "Vender App"
+        },
+        {
+            "type": "both",
+            "info": "App for the delivery person to get delivery orders and navigate the location.",
+            "user": "+91 7676 7676 76 (India)",
+            "password": "123456",
+            "title": "Delivery App"
+        },
+        {
+            "type": "web",
+            "info": "It exists in order to give you control over your app.",
+            "user": "admin@example.com",
+            "password": "admin",
+            "title": "Admin Panel"
+        }
+    ],
+    "data": [
+        {
+            "title": "User App",
+            "info": "Foodoz user app lets the customer order food online, search for the right restaurant or the dish they want to order, place their orders and pay easily.",
+            "content": [
+                "Multi-restaurant food ordering",
+                "Item in cart",
+                "Live order tracking",
+                "Real-time chat with delivery",
+                "Add review",
+                "eWallet integration",
+                "Send to bank",
+                "Dark Mode, Multi Lingual & RTL"
+            ],
+            "images": [
+                "assets/img/app-info/foodoz/screenshots/user/1.png",
+                "assets/img/app-info/foodoz/screenshots/user/2.png",
+                "assets/img/app-info/foodoz/screenshots/user/3.png",
+                "assets/img/app-info/foodoz/screenshots/user/4.png",
+                "assets/img/app-info/foodoz/screenshots/user/5.png",
+                "assets/img/app-info/foodoz/screenshots/user/6.png",
+                "assets/img/app-info/foodoz/screenshots/user/7.png",
+                "assets/img/app-info/foodoz/screenshots/user/8.png"
+            ]
+        },
+        {
+            "title": "Vendor App",
+            "info": "The vendor can manage the order and Items to communicate with customers and delivery persons.",
+            "content": [
+                "New/Past orders",
+                "Live order tracking",
+                "Chat with customer/delivery",
+                "Detailed insight",
+                "eWallet integration",
+                "Send to bank",
+                "Add/edit item",
+                "Dark Mode, Multi Lingual & RTL"
+            ],
+            "images": [
+                "assets/img/app-info/foodoz/screenshots/admin_app/1.png",
+                "assets/img/app-info/foodoz/screenshots/admin_app/2.png",
+                "assets/img/app-info/foodoz/screenshots/admin_app/3.png",
+                "assets/img/app-info/foodoz/screenshots/admin_app/4.png",
+                "assets/img/app-info/foodoz/screenshots/admin_app/5.png",
+                "assets/img/app-info/foodoz/screenshots/admin_app/6.png",
+                "assets/img/app-info/foodoz/screenshots/admin_app/7.png",
+                "assets/img/app-info/foodoz/screenshots/admin_app/8.png"
+            ]
+        },
+        {
+            "title": "Delivery App",
+            "info": "Delivery app is to get order info such as pickup location, delivery location, ordered items, etc., also makes live tracking possible for customer/vendor.",
+            "content": [
+                "Mark online/offline status",
+                "Delivery request",
+                "Order details",
+                "Navigation to customer/vendor",
+                "Real-time chat with customer/vendor",
+                "Detailed insight",
+                "eWallet integration",
+                "Dark Mode, Multi Lingual & RTL"
+            ],
+            "images": [
+                "assets/img/app-info/foodoz/screenshots/delivery_app/1.png",
+                "assets/img/app-info/foodoz/screenshots/delivery_app/2.png",
+                "assets/img/app-info/foodoz/screenshots/delivery_app/3.png",
+                "assets/img/app-info/foodoz/screenshots/delivery_app/4.png",
+                "assets/img/app-info/foodoz/screenshots/delivery_app/5.png",
+                "assets/img/app-info/foodoz/screenshots/delivery_app/6.png",
+                "assets/img/app-info/foodoz/screenshots/delivery_app/7.png",
+                "assets/img/app-info/foodoz/screenshots/delivery_app/8.png"
+            ]
+        }
+    ]
+}

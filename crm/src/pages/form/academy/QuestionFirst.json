@@ -1,0 +1,236 @@
+[{
+        "text": "¿Cómo se llama el software?",
+        "step": [{
+                "title": "Aythen",
+                "value": 1
+            }, {
+                "title": "Kit Digital",
+                "value": 2
+            }, {
+                "title": "Diexco",
+                "value": 3
+            }, {
+                "title": "Subvención",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente"]
+    }, {
+        "text": "¿Cómo se llama la ayuda?",
+        "step": [{
+                "title": "Kit Digital",
+                "value": 1
+            }, {
+                "title": "Ayudas de red",
+                "value": 2
+            }, {
+                "title": "Subvención para las pymes",
+                "value": 3
+            }, {
+                "title": "Ayudas europeas",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente"]
+    }, {
+        "text": "¿A qué fondo se acoge?",
+        "step": [{
+                "title": "Next Generation EU a fondo perdido",
+                "value": 1
+            }, {
+                "title": "ICO del banco",
+                "value": 2
+            }, {
+                "title": "Subvenciones del estado",
+                "value": 3
+            }, {
+                "title": "Ayudas de fondos públicos",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente"]
+    }, {
+        "text": "¿Cuáles son los requisitos de la ayuda?",
+        "step": [{
+                "title": "Alta SS",
+                "value": 1
+            }, {
+                "title": "Sin Crisis",
+                "value": 2
+            }, {
+                "title": "No +200K",
+                "value": 3
+            }, {
+                "title": "Corriente de pagos",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente"]
+    }, {
+        "text": "¿Qué son los segmentos?",
+        "step": [{
+                "title": "Las categorización que han hecho para cada empresa según sus trabajadores",
+                "value": 1
+            }, {
+                "title": "El tipo de empresas a las que se acogen las ayudas",
+                "value": 2
+            }, {
+                "title": "La cantidad de dinero que dan.",
+                "value": 3
+            }, {
+                "title": "La cantidad de empresas que existen",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente"]
+    }, {
+        "text": "Existen 3 tipos. ¿Cuáles son?",
+        "step": [{
+                "title": "I: 10-49 / II: 3-10 / III: 0-3",
+                "value": 1
+            }, {
+                "title": "I: Grandes II: Medianas III: Pequeñas",
+                "value": 2
+            }, {
+                "title": "I: 50-100 / II: 10-49 / III: 0-10",
+                "value": 3
+            }, {
+                "title": "I: 9-50 / II:5 -10 / III: 0-5",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente"]
+    }, {
+        "text": "¿Cuánto dinero dan por cada una de ellas?",
+        "step": [{
+                "title": "I: 10-49:6000€ / II: 3-10: 4000€ / III: 0-3: 500€",
+                "value": 1
+            }, {
+                "title": "I: 10-49:12000€ / II: 3-10: 6000€ / III: 0-3: 2.000€",
+                "value": 2
+            }, {
+                "title": "I: 10-49:18000€ / II: 3-10: 9000€ / III: 0-3: 3.000€",
+                "value": 3
+            }, {
+                "title": "I: 10-49:6000€ / II: 3-10: 2000€ / III: 0-3: 500€",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente"]
+    }, {
+        "text": "¿Un autónomo puede solicitar la ayuda?",
+        "step": [{
+                "title": "Sí, siempre",
+                "value": 1
+            }, {
+                "title": "Si, si cumple los requisitos",
+                "value": 2
+            }, {
+                "title": "No, nunca",
+                "value": 3
+            }, {
+                "title": "No",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente"]
+    }, {
+        "text": "¿Cuánto le dan a una empresa de 7 trabajadores?",
+        "step": [{
+                "title": "2.000€",
+                "value": 1
+            }, {
+                "title": "6000€",
+                "value": 2
+            }, {
+                "title": "12000€",
+                "value": 3
+            }, {
+                "title": "3.000€",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente"]
+    }, {
+        "text": "¿Entre qué servicios puede escoger con el kit digital?",
+        "step": [{
+                "title": "Los que él quiera, ilimitadamente",
+                "value": 1
+            }, {
+                "title": "Web, eCommerce, SEO, RRSS, Oficina Virtual, CRM",
+                "value": 2
+            }, {
+                "title": "Solo uno de ellos",
+                "value": 3
+            }, {
+                "title": "Entre los 6 servicios, según su subvención podrá escoger los más adecuados a sus necesidades.",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente"]
+    }, {
+        "text": "¿Se cobra por tramitar?",
+        "step": [{
+                "title": "Sí, 50€ por la tramitación",
+                "value": 1
+            }, {
+                "title": "Sí, pero hay excepciones",
+                "value": 2
+            }, {
+                "title": "No, pero depende el caso",
+                "value": 3
+            }, {
+                "title": "No, nunca se debe cobrar por tramitar",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente"]
+    }, {
+        "text": "¿Se cobra de golpe?",
+        "step": [{
+                "title": "Sí, recibimos todo el dinero de golpe antes de facturar",
+                "value": 1
+            }, {
+                "title": "Sí, con la factura la subvención se desbloquea entera",
+                "value": 2
+            }, {
+                "title": "No, es proporcional al inicio y al final del año. De este modo se asegura el correcto funcionamiento del servicio",
+                "value": 3
+            }, {
+                "title": "No, todo se cobra al final del año subvencionado",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Siguiente"]
+    }, {
+        "text": "¿Recibe factura el negocio?",
+        "step": [{
+                "title": "Solo si quiere el negocio",
+                "value": 1
+            }, {
+                "title": "No, nunca",
+                "value": 2
+            }, {
+                "title": "No, pero es recomendable, antes de empezar el servicio.",
+                "value": 3
+            }, {
+                "title": "Si, el negocio debe pagar el IVA y tiene la factura para desgravar como gasto.",
+                "value": 4
+            }
+        ],
+        "label": "💸 Financiado a fondo perdido por la UE",
+        "button": ["Atrás", "Finalizar"]
+    }
+]
